@@ -6,24 +6,19 @@ from tkinter import *
 from tkinter import scrolledtext, filedialog, messagebox
 from scapy.all import sniff, IP, TCP, UDP, DNS, ARP, Raw, Ether
 
-# ============================
-# CONFIGURATION
-# ============================
+
 LOGS_FOLDER = "logs"
 SUSPICIOUS_KEYWORDS = ['password', 'login', 'card', 'bank', 'secret']
 ARP_CACHE = {}
 is_sniffing = False
 
-# Filtering Variables
 FILTER_SRC_IP = ""
 FILTER_DST_IP = ""
 FILTER_PROTOCOL = ""
 FILTER_PORT = ""
 FILTER_KEYWORD = ""
 
-# ============================
-# LOGGING SYSTEM
-# ============================
+
 if not os.path.exists(LOGS_FOLDER):
     os.makedirs(LOGS_FOLDER)
 
@@ -40,9 +35,7 @@ def display_output(text, alert=False):
     if alert:
         messagebox.showwarning("Alert", text)
 
-# ============================
-# DNS REQUEST DETECTION
-# ============================
+
 def detect_dns(packet):
     if packet.haslayer(DNS) and packet[DNS].qd:
         queried_domain = packet[DNS].qd.qname.decode()
@@ -54,9 +47,7 @@ def detect_dns(packet):
         display_output(f"[DNS Request] Domain Visited: {queried_domain}")
         log_data(log_entry)
 
-# ============================
-# ARP SPOOFING DETECTION
-# ============================
+
 def detect_arp_spoofing(packet):
     if packet.haslayer(ARP) and packet[ARP].op == 2:
         src_ip = packet[ARP].psrc
@@ -75,9 +66,7 @@ def detect_arp_spoofing(packet):
         else:
             ARP_CACHE[src_ip] = src_mac
 
-# ============================
-# PACKET PROCESSING FUNCTION
-# ============================
+
 def process_packet(packet):
     if IP in packet:
         ip_src = packet[IP].src
@@ -100,7 +89,6 @@ def process_packet(packet):
             "protocol": protocol
         }
 
-        # Add PORT Information
         if packet.haslayer(TCP):
             log_entry["src_port"] = packet[TCP].sport
             log_entry["dst_port"] = packet[TCP].dport
@@ -116,13 +104,10 @@ def process_packet(packet):
         display_output(f"\n[{timestamp}] Packet Captured: {log_entry}")
         log_data(log_entry)
 
-        # DNS Extraction
         detect_dns(packet)
 
-        # ARP Spoofing Check
         detect_arp_spoofing(packet)
 
-        # Payload Analysis for Suspicious Data
         if packet.haslayer(Raw):
             payload = packet[Raw].load.decode(errors='ignore')
             log_entry["payload"] = payload
@@ -134,9 +119,7 @@ def process_packet(packet):
                 display_output(alert_msg, alert=True)
                 log_data({"alert": alert_msg})
 
-# ============================
-# PACKET SNIFFER CONTROL
-# ============================
+
 def start_sniffer():
     global is_sniffing
     if not is_sniffing:
@@ -150,9 +133,7 @@ def stop_sniffer():
         is_sniffing = False
         display_output("[!] Packet Sniffer Stopped.")
 
-# ============================
-# LOG FILE VIEWER FUNCTION
-# ============================
+
 def view_logs():
     file_path = filedialog.askopenfilename(initialdir=LOGS_FOLDER, title="Select Log File")
     if file_path:
@@ -160,9 +141,7 @@ def view_logs():
             content = log_file.read()
         display_output(f"\n=== LOG FILE CONTENT ===\n{content}")
 
-# ============================
-# GUI DESIGN (DARK THEME)
-# ============================
+
 root = Tk()
 root.title("Advanced Packet Sniffer - With Filters & Logs")
 root.geometry("800x650")
