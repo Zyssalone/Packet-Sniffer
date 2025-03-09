@@ -13,7 +13,6 @@ An advanced packet sniffer built with Python featuring:
 ## ⚙️ Requirements
 To install the necessary dependencies, run:
 
-```bash
 pip install scapy
 🚀 How to Run
 Clone the Repository:
