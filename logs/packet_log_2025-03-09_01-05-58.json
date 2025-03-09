@@ -1,0 +1,3079 @@
+{
+    "timestamp": "2025-03-09 01:06:00",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:00",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\f\u007fx#{\u001a\u0013\u0014\u07d2_T\u000f\u0015?\u0001jU;&36:Bx\tyt\u04fat6\u0476;\u0231\u06468C\u0010:5\u0014\u001c2\u066eN\u001d\u071e+\nedm 0PBeLz:jq`T:{3k1\u0011q\u0018D+)n\ru\u07a5@\u001c]H{\u0017_\u033eJ\u0010p\u001a\u0011&D\u001242L~+8\u0012\u001d|L3\u05e8TfZV,\u07a2\u06a2\u000f\u0098|%\u0006,\r\r\u044c:\u0015Y\u0012\u03e7\u001a]C\u001fh[C\uaa49\r=x?nP\u001bDCp\n7\u05ee\u007fL\u0019{5V:!r![i7\u018f>K$VE\u001a\u001b\u032f3'\u000fyoo\u001d\u0006xN=6\u001b\u0011NdGYMO(\tm\u000bB\u0014^[D\b!462\u001cR(U]\u0001T9oR\u000e#J\u001edzyF\u0007',o,\r\u0005CM?S\r4J\u0012\u0002$\u000f\u0001Zf\u0142FzCg\u0092\u07d1\u001a0\u00142\u000e\u001a\u0740v\u001f\u00166;]r>h\u0019\u0288\u05c4\u00111\u04f5;\u0011H]\u000b\u00006|\u0010_U\u0004L@\u039cg\u0012\u0551\u0005'Y\"\f\t\u0525\f\u0014I\u0005A\u0003\u01ba\u000f\"'\u000b\u0017g`g&\u0000LLFX.\u0012\\#\u0019\u02e1]\u0090$\u007fqA~\u0003{P51bT\u0012\u0006O\t\u0010\u036f\u0001\u0011\\GmwIf\u03e1ez\u07c9\u00d28\u0000\u042d\u0004\u001bN+\u01d3D\"tSpG~B\u06ec\tl)q\u0002L\n3U\u001esF\bK\u0295\u0010_9R*\u000bZ\u001ba:\u0002\u001c\u038e]\u0016B'h{Dq3\r>\u000ef{\u0694V)kF\"r|_\u0005\u0019\u6d5e\tM\u000en\t)\u001cf\u0005\n'i!3\u0012lFlk\u000eavFD\u000b\u001aKm\u001eoQej\u0015\u07e6Nj\f%i\u0015Rhn\u0014D2\r3!dq\u001a0\u0004\n9n0<{<\u0007[.XVu\u001bHYst~\u001dxt,*\u0018\u0006\u001bF|2\t\u0000CG^\u001bj_\u0002\u0014\u0019$\u0004uDI)2\u0005h{`\tO&M&,\t\u00062ka`wI\u000bqm{M\u0012\nM\u000fM\u078d\u0018\u001eU\u001exbMf\u0012 O!\u0007\t4\u0016_*E\u001a;\u06344B'\u001ag@A|\u001ba[!~\u001dY\u0002h]\u0005%H\n\u0006\u0006j\u0011\u0004\u001b ~6+\ua89c\u00041\u000e.G9/jca>kOUrM[c\u000f\u0002\u05c1u!HEt)\u0006aJ\u00111\u05be\b[vBS\u0019!>2zPOq\u0201\u000el~fX\u03a1Osls\u0007\\03v\u02f7d-XDO~\u0016\fr\u0017`V*~\u0017HuTJ\u00185\uae2d\u042bMd\b\u000b_i4\u0001\u001b+^hph$"
+},
+{
+    "timestamp": "2025-03-09 01:06:00",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:00",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": ":EAk\u0001R3\u0003_<6uw\b\u074cA\u04c8 7R\u0012\u0010\u001e\u0004\u0007\u0000Oe\u0000$-\u5958(kKFf\u001e.Pk\u000e)x\t\u0003yAn\f\f/mp+\u000f\u0177\r\u001aPX\u0001z\u001d\ngg\\p#fP{\u000eHu\u0000\u001a\u0016I2+K$2=(U!\u0016\"\u0006F+RmH\u001b`\u078f\u0003kLd~\u001cTs\u000e)\u02ebY\r<y F\u0000^~% 0H1Wh-v+! 8\u0014puZ\u001d\u0019OIr\u0006C\u001fb\u0018!]\u0016 ~\u0012^\r,MK\u000eC\u001b[\nE\u001c\u00004E!I:/\u044dk\u007fT{5p\u000fh0'#\u0015o\u000f2\"i3\u0001\u001a/\r\u001d\"?s\\Gp\u0007W}\b\u001c\r$\fy\tL|?XrKVs\u0565\u07fb\u0701cW\u001f \u00045h^U:D6F\u0001q\u0004{$\u007fr#7D\u0005\f9q\u0013nG#\u0012\u049b\u001cp)+ke2\u00135P<su_K\u001f\f\u0543<{\u0012beD)mQ\u0002r`nE#b\rv\fG0zv\u0001<\u0011\fn\t\u05c2\u3a9d\u0001e8JY\"D)Nu\u00153\b+xn\\Py=9rYT\u0007f\f`OnD:\u001c\\%2k\u0000E\u001b\u001au\uda6c\udf21 Av\u001e2\u0018\u000f9\u0699K68\u0507\u0004d\u0349|\u04f5]\u0017F&r\u0014\u001br8JTDs!{ \u001e\u0006k(*`O\u000e\nr\u0019\u0013\u0520\u0005zpY\u001eY\u0015a;`#-7oL~\u0003mwP\u000brB\\qBs?\u001dp\u01c5);\u000b|\u0011\t\u0005_\u0015VC\u001aC\u00fd&Iq!\u0007@\u001eKR$\u0005f9MMBXhh\u0012\u0000s/\u0337\u007fwf{J\u0019w\u001f=\u0013P*utY\u00166g\u0178\u0007*y\u05a3F\u001a@LOqK?e\u0002\u0004$7J\u05b0oJ\u0004GY?Hrf'Y6\u001aM\fo[\u0012f\u001b'qI`C-\t\u00046p>\u00182\u0017\u02c9\u0001N;I2w\u0011_\u001d@=\u0015Od0E-\bo\u000e\u000fy\u001fS\u0017 \u048e-)\u0013\u0422\u007f\u0735V\u001a]i`\u01c1b\u0004K\u0006N6?\r\nlO#\"\u0000yzcMV$R+#(r\u00076Rz+vMtr>/\u0012-tYcL[3O<]D'>\u0604\u001f`\u0013'2\u04e0o\u0015/aL\"hr\u038d?VOiqV\u0012\u0004H\u0015A\u0019J>H{T\u0001\u001c&Sr*x,){iS\u0014\u079erZ\b\u0012}\u0014\u0018I7U\tLm/\"T-~\u001a\u04a2Z(WW:\u047eR\u0019k*F\u00107\r\"[It\r_#^\u0013l)_>iq\u000e-\\Q\u03e19C\u0004WD7c\u0019\u0010L'4\u0011|4\u6570-s\u000fP#[Vq\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:06:00",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:00",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "kn=Z\u000e]\u001d\u001b\fKy\u001d\u0014TX8\u0010{u\u02ca7.JDSBKA\u0018F&X/6#ic\u0512\u001d|\u0013\u0006AtvBQE?}T\u00184+l2\u001a@A\u001dHQ\u0010.&}\u001f\u001fuk\\5:q]\u000fP\u001c\u000f\u00196\u0005_A\\\u007f\u0011K51\fq\u0011e[\u001d%\u0012\u0019M6\\N4\u0002zkBe]\u00197\u000f\u00ccC@+wlc%l\f0\u04ff\u001a#\u00027Zi1N\u000f%\u001d\u0010'\u000b\u0014[ed4@\fLD-U\u0013l\u0003XH\u001d\u0012HS\u01608`K\u001fj\u043e<\u0242\u0000;\nx[\u0014Ea(m\u0000\u041fU.FdCN\u6c3e_U\u0019K]H9k-EB2\u0002XB/s8_\u007f\u0001%/#\u007f)e\u000bl\u0000&AY\u0010g\ua679\u001c\n\u0013w"
+},
+{
+    "timestamp": "2025-03-09 01:06:00",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55459
+},
+{
+    "timestamp": "2025-03-09 01:06:00",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55459,
+    "payload": "\u0017\u0003\u0003\u0001{\u0012\u0006~Q8\u001eWk\\\u0001\u0010uxq0A0],*lFPh$K)h\u07f4#\u0010\u001c:sFpd@~yr9;|FBsg.2\u0014\u0007%\u0018C\u045c;}`10VM\u00121J6\u0002\u001d7_M\u01cd+r\fs<u\u0568c~\u001c7L\u000b&9\u0222w\u0010(Gi\u032c<W\u0019\u000fNb\u001e<y#lLQ\u000f\u0018>a!@5Y,f\u0013+y:t)q]hS\u022b\u000ez\u23f4E\t\u0005jk2\u0016\"S4\u000bp\u0000U\u0018{s\u001a(|h\u010b4/\u0006,\u0010\u00158HZ7i\u0014tjW$u6&D\u0003}R\u0019U%=\u00ecc\u00120a\rO  81\u0000;\u0018\f UJ~.N\u001es\b\u0003\u007f\u0007\u0012emV\u0002\u001fS\u04f8\u00009)q_\u05d5u\u000bv\u00052\u0006\u000f\u001f3c\b2\u0014F\u0003E58\u0013U U\u0001yB\u0017\u0003\u0003\u0003\u001fdU{01Rd\u0007;h[\u0018,{66U:\u0011\u0010%\u06bf\u001d\u0002\u0001;qR&|7>\r\u000e5\u0002\\k4Hy\u05a5+QB0\u0016fBPxP\u073dto</\u026c\tTr\u015c/e;a0t\u0010_'a>v\u0011rVR:~\u0011sG(2l\b\u0000\u010f1GD\u0682h\u001cRei{03\u0019]\u0007\u001a1m[q(0@org\ua071\u0019U[>wh\\\u001b;|8\u0014\u03db2X?\u0019m\u001d+>S\u00039\u0260;8}\u0003#NO\u0702wWN\u001aL|C4\u007f1jJ8QU\\\u078cy\u007fGe5%wF/\u0015I\u0017Bv\u0001Aq[1DVW\u0007P\u0015N\u0016{]e\u0580\u0011F\u0017\u07264{N\u0018r\u0018]z*\u007f\u0015u-_H\bl\u0017\u001a\u0016\u001c<\u0006A\u00179Gw[\tsV6?q\u00a2\r&r\u0016'$8!eg\u0149H\u007f!\u0010Pv\u001827\u0011\r6\n\u0001V~P%P|\u0002xF\u000ffr!\u0018\u000e\u0018LSM\u0012\u0007\u0004{&\u000b%I'9A\u001b\u0007]\u044e/VVO\u0004b)\u4a38OTpMbz\u007f\u0347(D\u0004_JOH\fa\u0012\u000f'M\u0005\u001d\u007f`!\u4d8d,\u0336{[\u022b!/\u000b\u0016.\u014a4%i%IE\u0003}96q\r\u0262\u03dav\u0012`\u0005nvXC\u001d/}H\u000bcS#1Y`\u000e`13L\u0004\u0018'?`,\u1702=\u0011\t[.I0M\u0003l^wWN2\u03bbZ\u0004I^q.{yl}\u0012@\u0015\u0005\\e[\u0473\u03f7u\u033aY\u04fdh\r>)\u0014niE>rw\u0004\u000bA{"
+},
+{
+    "timestamp": "2025-03-09 01:06:00",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55459,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453,
+    "payload": "\u0017\u0003\u0003\u0001<46\u0016KU~Of\rPdj\u01eeq\u0000@W\u0697_5\u070f^4}\"\u0011z![=\u0317.\f\u0012C;g\u001al\u048aVv8u\u03dbIo\u0015\u0007l\u0016Z \u0000\u0733f\u000b$\u0015_\u001ab$a%5cl%Q4j\u0000zG.rfg#Vn8PNkzfB\u00e0IUl:\u001e\f\u001fcB4)9\u0014\u000f,\u001a\r\"e59?IUaDik>_\u007fwrL\u000fN\u000f-ww8)\u001b%<fYl\ud4f4cl\u07d3\u0013\u0011\u00ba\u0018cI\u000e\fY\u000e)z\u0118$9riW\u0014qf\u0004>|"
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.5.93",
+    "protocol": 6,
+    "src_port": 55431,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.5.93",
+    "protocol": 6,
+    "src_port": 55430,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "13.107.5.93",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55431
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "13.107.5.93",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55431
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.5.93",
+    "protocol": 6,
+    "src_port": 55431,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "13.107.5.93",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55430
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "13.107.5.93",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55430
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.5.93",
+    "protocol": 6,
+    "src_port": 55430,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.5.93",
+    "protocol": 6,
+    "src_port": 55436,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "13.107.5.93",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55436
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "13.107.5.93",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55436
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.5.93",
+    "protocol": 6,
+    "src_port": 55436,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.246.77",
+    "protocol": 6,
+    "src_port": 55428,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.246.77",
+    "protocol": 6,
+    "src_port": 55428,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "13.107.246.77",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55428
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "\u0016\u0003\u0001\u0002\u0000\u0001\u0000\u0001\u0003\u0003h\u05da\u001e\u001fW'=@\u0005[jq\\\u0006, T@ d&Pe\u001a\u0779j\f{i\u0004\uab58\u001aq\u0000$\u0013\u0001\u0013\u0002\u0013\u0003/+0,'\u0329\u0328\t\u0013\n\u0014\u0000\u0000\u0000/\u00005\u0001\u0000\u0001\u0000\u0000\u0000%\u0000#\u0000\u0000 mobile.events.data.microsoft.com\u0000\u0017\u0000\u0000\u0001\u0000\u0001\u0000\u0000\n\u0000\b\u0000\u0006\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000#\u0000\u0000\u0000\r\u0000\u0014\u0000\u0012\u0004\u0003\b\u0004\u0004\u0001\u0005\u0003\b\u0005\u0005\u0001\b\u0006\u0006\u0001\u0002\u0001\u00003\u0000&\u0000$\u0000\u001d\u0000  m}\u0012oX\u078b(\b2+!ve3s\u0000-\u0000\u0002\u0001\u0001\u0000+\u0000\u0005\u0004\u0003\u0004\u0003\u0003\u0000\u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000[\u0000&\u0000 &\u0000\u0000v\"+Z{6\u0404oT$m\u0006\t\u016cc\u000010-ks\t\u0018p[g\u0004*\u0007,+E\u00113<\u007f_>\u0006\u0535*\n'm"
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466,
+    "payload": "\u0016\u0003\u0003\u0000X\u0002\u0000\u0000T\u0003\u0003!ta\u0011\u001d\u0002\u001ee\u00a2\u0011\u0016z^\u0007\t\u02283 d&Pe\u001a\u0779j\f{i\u0004\uab58\u001aq\u0013\u0002\u0000\u0000\f\u0000+\u0000\u0002\u0003\u0004\u00003\u0000\u0002\u0000\u0018\u0014\u0003\u0003\u0000\u0001\u0001"
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "\u0014\u0003\u0003\u0000\u0001\u0001\u0016\u0003\u0003\u0001\u0001\u0000\u0001\u0003\u0003h\u05da\u001e\u001fW'=@\u0005[jq\\\u0006, T@ d&Pe\u001a\u0779j\f{i\u0004\uab58\u001aq\u0000$\u0013\u0001\u0013\u0002\u0013\u0003/+0,'\u0329\u0328\t\u0013\n\u0014\u0000\u0000\u0000/\u00005\u0001\u0000\u00019\u0000\u0000\u0000%\u0000#\u0000\u0000 mobile.events.data.microsoft.com\u0000\u0017\u0000\u0000\u0001\u0000\u0001\u0000\u0000\n\u0000\b\u0000\u0006\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000#\u0000\u0000\u0000\r\u0000\u0014\u0000\u0012\u0004\u0003\b\u0004\u0004\u0001\u0005\u0003\b\u0005\u0005\u0001\b\u0006\u0006\u0001\u0002\u0001\u00003\u0000g\u0000e\u0000\u0018\u0000a\u0004p\u0172sM\u001dt|yPvhYDj\u0003^\u001blC\u001a\u0003t\u0015\u00168<\n\u029c}\u0659w\u0017FsH\u0013\u0012\u001eEc\u0011^$\"CC\u063bn[!o\u00b8\u0016\u0000-\u0000\u0002\u0001\u0001\u0000+\u0000\u0005\u0004\u0003\u0004\u0003\u0003\u0000)\u0000[\u0000&\u0000 &\u0000\u0000v\"+Z{6\u0404oT$m\u0006\t\u016cc\u000010<K!w{\u001e\u03a2\u001fU\u0012X>Lz\u0621p\u0003tC`x0\u0006D:]"
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\f\u076c(b\f\u000371\u061bVh4F\u001be!A\u060bLnr_\u0006\u0017,\u0001B\u001f EbVnK\u001a\bMu\u0011Z\u0001IX[;v\u0001Ww\u0014\u01f7F<d\u0013\u001bUSO\u0010!\u0007a~*n1\rs\u0019We\b\u06a8\u0013\u0019\b\u001e\b\u04e7YnT\u0012\naVcQ\uc6a2h\u0002S)o\u0001nf)g\u07bfm9f\u0577oL-NCE\u0002E3&\r\u0014,X\u000b\u000f\u03c44\u0000m\u029b?_kw@\u0114U\u0012\r]e\u001f\u001b\u0012G\u0002\u000bfGjgtc\u007f\u0383\u0010$\u00e8xAG\u0003=5\r2\u020c)Rc\u04bc8Fj\u001b\u0016B<sd#Fq\\vG\u000e;\u001c\u0010.g~d\u000b5\u0502u\u0014^6\u001a-n\\K\u00157E0\u027e9\u000f+0;r\u0159^a\u0000\u0015\u045aO}Qis1J$S\u0328s\u000bH!\u0000TuaSKAe\\\u0799\u0018+\u0004~`0|\u0016UCd&oOL-H\\\\P\u0018xL9+{6=\u0010fW?\t>rQnD\u06b2&9\u0002\u001cl6\u0000\u001dX\rH:Yh\u0015%\u0603\u02b4O@Oi\u03f3L)\u001deQ\ud469\fL8 *Qi\u0629e\u001fz*y\u0010TAc\\@H~ZP5\u0014\bp\u0011[K\u05e61ur|*TS\u001b\t<\u0004\u04d6Q(\b#CeD\u000b\\++h7\u0017\u0017P5\u0005f52\u0003_uew\u00fd\u001d\u0019n4\u0006\tM\u001eA`\u001aU?\u001f\u0013\u0014\u077dV\u0010q\u06376>b%sWO\u043a\u0006\u0018kuE+'oH[MJ\u001c\u001e\tr\n\r\u0015\u0673. uDh2:<5K\u001bgXLTXk24\u03d5-6\b\u000bPtaS\u075c3PZl\u0005\u001d'\u0017=JY`\u0000\u07d3\u03db\u039bTT7z|O -F.[\u00062\t\u001csq@ZD\u021cV\"\u0005<\u0010=\u053e;\u0003;\udab6\udcd00=F2\u04da?x\u0018x\u001c\u0509\r6M\u000ec\bif)wZ^)fF\u000eM\u0005SJ+\u030bx u>8AP\rl\f`Y.<\u0019G`T&A\u0012R\u0492eg\t0&ybh\u000f\u000e`\u0014\u0017waO8<PQfU\u001fiz\u0001\u000bVAX\n\u000f\\B\f (1p\u0019Y3fL1uOi\u0001\u0013x\u05d8vMiOFU\u001e\u0001h;2S\nQ\u0769NFA\u0011\u001f(T\rl$8+JG:5\ua345X.*s]f%(>f\u000e[:\u07a3|rX>:x\u00019\u01f3=he|\u0018\u001a*s#1Oj\u0004:H1!\u001aM,\\OBa\u0184K\fJjpcy\u0017\u05ae\u012b8%a}g/\n\u001d-nv\u0016\"oTM6Fo\b,>U!"
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "1^\f\u0019\u0010\n\u0010\u000b ;g,\u05ddv!\u0080+t\u001dyh\u001fi*:n1]u!cq*\u000e\"\"H?XTu8)\u0004j1y\u0015^\u01c0Ym5\u0012\u0013)Q\u001c'?#f0\u0007'T}\u00cc*s7Glps\u0016IH4m\"PS\\#I.\u0007!\u052f\u0002\u0005\u0013\u0000\u0003\r\u0012x<sEj'\u001cB~97Cg\u0010\t\u0013T\u0001i\u0001y*1\f\u0017\u0265\b;bmtqK\u001cnQDi\u007f\u00168Xu\u000b0\u0017~q\u0007@(\u0019B\r\u0011t\u0000\u007f\u0016He'5\tC,:H_\u000fGo0~?\u0018`;4n8E3\u0014LSeGOJ4s/O\u038fh \u0011\u000eu \u0003?\u0002iHc$w\u001a6nQ`LU_c;\u07ca\fsw:a#RAP\ud334|q\u03cf\u0654\u0013G\u0013F+W6t3'@'D\u02bdmg\u00078\u0013t:1iF H\u0012%`JA+Uxr/\u001cd<\u026d\u0168\\&\u0015\u0013F\u000f\u0016'N2b\u0013~\u00149\u0015P4)!\u000f\u0003G}\u0116n~L(\u0590ALE`z3dl\u001eJywx_.\u000efi\u001f,\u001b\u0015!y>{+\u0010\u001f&\"A\u001d&nSZQ<bX5\u007f\"&eV\u028eQ)\u0012\u001c\u001bR\u000bZ0\u00b4\u16f0\u0124J\u001f/sGSAo\u0011\u0014Yv\u000fi\u001c7#/]rPKn}\u000b\u0007Ic\u001e\u0001:\u0018ea~G\u0000t]\u00135J\u05e6\u0005AtFM/C\u000e\u0592jP\u000b{\u0670o\u0016\"#\u0017\u047fr\u000f}\u00122>F\u05c8Je\u0015Nj\u001a\u0006n*<R~`\u0007zMdYA|J\u0019M\u0017\u001e`,\u000fr3\b\u0011f2\n\u001a4\u0001&/0\\m?Y\u0013\u0006)3%jw\r\t^\u014cu\u0019G\u05f6\\\f^\u0005_N\u05f9iy+\u0000` \u001f:i\u001bj:'\u0013a6WS\u00026\nbe\u001e;\u0017b\u0014n1}C[=&'\u001f,H\t@z}\u0000\u0001;*\u0006\\?;\"GR9\u0019\u00161gQ\u0011gh\u0019T W\u000e]40\u001a\r\u000f\u0015\u0001y\u0011\u0017}Q\u0381/%u[X7?0\ud92b\udc30j\u000e\u0014A\b[\u0019=\u0016*)EC4o+\u0004}\u010d\u0013~zU\"4\tZ\u01abg`o\u0010\u0007o;\u007f&b\"F\u001f8;\u0018\u096f71dL4@_\u000b\u0014e\u001fwg\b8\u001c\u0480`5\u0017\u0016\u001c-[8-]\r\u001euyuS;\u0016=a{\u0018Yg\"5\u0004E{,\u0011Z#\bM\fE\u00176i\u0010 \u001fF\u0001i@5Kp%K\u0015PT\u0000+oqf\u07f0\bjU\t2G\u0678\u0012\u06ccH:^oTh\u3526\tb\u0528@*d5\u0011wY`5T\u0014Ah\u00066*2\ud907\udcaeF\u0017k.\"6\u0001g~4'j:2j\u0006=t@o\u001a\u001e\u001f7v\u001b"
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "\u0013\u0001\u06ab|*\\X\u001cw\u0003\u001e\u0012\u001el9d9bU K}r\n\u00048\u0010.H\u0000E6;jtC\u0010bwM\u001czXqsP\n\u000444nS\u001b@E:E]bx\u01aeZ\u0124\u0017%_1?\u007fN:K_{DYYT1\u001a#`\u0010&-VC\u00176ay\u0011SCR2\u000b\\>B\u04a6\u0003\u0018b\u0000!E\u000b='@A8\u07c8\u0011A_\"ch\ucbe6\u0005%ei%'\u00198\u0011K\u0629q\u0007\u0015NO@KC}\u0013Sc/>\u0000#1K-\u000bt?#%Q+T\u001c\u000f0[\u0001\u0429\f_R\u026bI\u0016&\u0011V)\\~Uc\u0014*o\f:I\u0005#}\u0014\u0006\u0482&pP^}l{\u001b\"\u000e\nu7\u0012\u02bb\""
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466,
+    "payload": "\u0016\u0003\u0003\u0000\u0002\u0000\u0000\u0003\u0003S4\u001b#\u07870\\z\u007fe [Dq=C\u0017u\u0001\b\u0010\u0018 d&Pe\u001a\u0779j\f{i\u0004\uab58\u001aq\u0013\u0002\u0000\u0000o\u0000+\u0000\u0002\u0003\u0004\u00003\u0000e\u0000\u0018\u0000a\u0004X/WW]\u0007\u8336&\u05d8k\u001d+\u0013b\u0436\u02f2$\u0478f<\u001baZ{+F\u0007\t4(fMGNYQ\u0001)M\u0011$DWA#\u001b\u007f\u001b\u0007\u001d\u0017\u0003\u0003\u0010\u0000\u0012\u07a5X\\Zns\u0252)&\"\u0010\u0001\r-1f|8ez*\u0007%|Q64XR\b\u001ao|;Q\u0002w*\u0011+\u000fq(u\u00147\f\u001f\n\u0019G,Xah`\u0668j.y]Dd<\u0015A\u0001\u001b\u04a6\fZ'\u0015a(o{A{_3\u0772\u001fkC\rM1?-o\u0007\u001dh\u0019Epp8\u00187\u00052yc'FsWf}kbh\u000e\f-<p&.ta!#yV*_-\u0010\u0005WH$~C1<+2{;Ch^MQ+\u0005\u0013\u001d\fv9\u0015\u0017U\u00192#E/2Cgo\u001f+0L\u3b9d <\u023e=yx\u01b1el\u0012r\u0011i\u0013)\u001a\"#(Y{\u0006\u02cd\bP\u0000L\u007fG~g\u000e\ud895\udf45Q\u000f\u0017h8;5_}xn\u040b\u05ff~~gB=\n\u0001\u0006'>x,\u0004$h#F\u0006(vd\u0010\u662c1\u0000\tB-B}\fq]\u000b@K{\r\u0003)\u0018^RoM_z#'qY<\f\u0002(tN\u0015hSt\u0010EU['; \u0013M`P=:<PHaun.Y.\u04bdg\u0241\u0006J\u053dn\u001b3:\u0013^cw}\u0014\u0004J?\u001b\u0006\u001b\u0003>1$`g\u001210a\u001c!(;b1\u000bN\u001aCw/\b\\\u0017y\u001f@\u007f\u0013\u0017\u00050Gg\b\u001chi\u0018N\u0007W[A][\u0002m;@N\u001aw<zA@t\t)A@~M]\u001a\u0016@\u001eYpl#\u001fZ\u001f$\u0002@\u0000J\u0162K\u01f0\u007f\u00157prH-go+=\u0017\u0619J\u0005\u0003+\u0013-\u0001lI>\u0019O\u0003@|S(kM\u001fR0Hr\u0271V\u0006&:9\r@\u0015E\\:m\\m!n\u0005\u0723tP\u0012\u0012feF,LK|P&)R]Ixw0ou^{+ +j:7\u0019,l@$\u072f\u0004\u0001\u001eTi\u0005xbp&\u0004Jhp|A>o4}WCV\u0552\b=Mj\u001e\u0004\u0013~M<5\u001ehO-oabTy{\u001e\u001e\u0010\u0015<\u0002bJ<%q{_\u0002!C%|7\"fr\u02e5\u0003^op8:\u000eS+k\u000fO\u000b\fx =\u0001A\u0010\u0000\u0362|\u0012:X\u001b\u8198W\u2a9dl,8\u0016:l\bXd[7(\u0001\u0016\u0372az[X\u001dC<\u0195+O\u001cH\u0016+AA\bU\r\n|IPO\blS7\u000e4LOZ9|\u01e4s\u001a\u0012,W\t7\u000eD\ucb2b/\nJ\u001b,nt7\u0007\u0012P;/o"
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:01",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466,
+    "payload": "\u00076\u0003u\rCx\u001brtXXXt\u001eg\u001e\u001b:_0)u!CwQrC\u001djE\u001d0b\u0004x$\u001cnnQjefj\u0002;fV!\u0018V*\u007f\rEBcX9\u000b<u8_8\n;8_\u0004{PMT\u0017C:\f)c:\u0004WNA-_=_\f&0nf|jo8f6 KLl\u0016(\u0000\rM_OW\\^\t\u000bg5?\u0003\u0018.>TG!\u0012oSqBiw}\u0010d\u001415\u050fxqR\u00106\u00869H\u000eD&\u0014\nQ?\u000f#/\u001e.N\r>x\r_\u001591|i\u04f0ot4\u000e\u0014\u001aF\u0660$3+>fR8,aNHzXyCVy: UqfN\u0018\u0258\u001cT\u000e\u000f=Z\u0791LL7\f)u\u0004^or\u0016MF9\ri\u000f80\u92beQ \u043b6Zk\u0013\u0003>\u0016V\u07b5iAv\u0271_\u001c9tU\u0013\u001af\u0005L\u007f\u0018Uvo\u033e{\u0011nA\u000bp2JsA%8s\u001dpi%3-m9\u001b uQR\u0015ca\u0001\u0589sz$kGV\u043b&OEG3*\u05154\u0017/u\u0007k\u001e?s8@!Ne\u001e-\u0505nv'8\\PQV\u030f\u0006X_\u0001W_1w.\u0691\uf3f1\b\u06fd;\t2]\u0013,MUr\u000f<?I\u00133vY/\b]qJiL\u00033\u07afoez~/$2\u0001\u00147U<\nY\u0006\u0445\u05c8~0\u001bd\u0013 \u0015a\u00033\"|\u0001\u0001\u0018W5nzK\u00e8re\u0000\u0013<\u0323f\u6b4c\u001d\u0004bf\u001bxnk\u0012w%@O!`\u0006\u0016H*:W4m\u074f\u03dc\u0001\u065f\u000bu:<\u04b7 >uboE\"?*8\u0012\u0013K\u000bEvF\u0014 e r3)U-_'$i\f\u001aveJT\u000f0`\fdwt{z_*Fk7\u0004\u0005n\u03d0\b|u_:A\u0563\u0013\u00b9\u001bo\u0011\u0007EtiFY>-Y\u0013]VI.grK\u0003\u000bn\u001ec)Fv !,*Qnk\fC\u041e8\u0019[y$mO21\u0012$S\u0001;\u0001I3N\u000e3o\u001a\u007f2y@|Y|\b\u000b)J>\u0011'VB%>E\u00123\u02fe}!]6:\u0007r:%9\u00c853[6s\u0014+0\u0012$-{|o4E\u0016Lc\u000f\f\u001fR4>3b^f%\u001c\u0228j\u0006\u0000P>\u001aOCN\u0012v\u0002VX\u0015\u001a\u001dPU~\u06df\u06d3\u000bB?l\u3eb9Vv|gF::O\u0093yILk&\u0016\u000fZhs9Q\nI|#7h'[\t3\u0007NwA$N`+|6xO >AJ1UR\fp6|G-\u0006<\u0286v\u001a\u0006\u0122s\u0003^\u027d\u000b\n\no$05zHZ#S*T\r~\u007f\u001d|s\u0003\f/\u0001j?Gj]J\n\u0014i0<2k\u0001\u0019Q\u076dhX\u0018\u001e\u0014\u0007\u03ec\u007f."
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466,
+    "payload": "TaP\u00063b_)*^G\u00117T\u001f3\u000e\u000fb\u0010\u0015')\u0018A\u018b\u0001I\\ D'\u0004\"\u0005\nj#?\u001d/l7_mtqwG:\u0597;\u04f1O\u0006\t2:+D\u007f(Hd2\u0012/b$Ci[\r,\u0719vB\"\u0012Y}\u000b\u0326vUgK\u023292Zr\\K*nY[@|9\u0011\r6m\u000f|;>\u001emO\u0011\u001fh&RrxZ\u0018 NP\u0014\u007f\u0000\u0004{%G\u0000\u0004P2G\u007f+J,\"\fa\u04acT`2n<xWA\u0012*g>2\u0014\u001f\tTERx\u001d\u001f\\!\u0003O%\u0015}0W\u00173 \u0019rl9\u07a3|\u0004LZ]41$9\u0526\u0289mC\u0014E'ER\r\u001aL^{E\t[P5\u0206o,\u001f2\bo.\u05aeN3i&mVh\u001aQ~#\u0001S\u0017\u0017.\u07dbc)JXV\u0007V6|Q`e`\t(q\u0013m8DuFT)\u05e3\f#\r\u0004h0\u039a\u00db\u074f8SBD7^9w\u0006At\b\"[+3a\r\u056fO\u0000 C\u0500\u0019Uf|\u001d#u\u0003Q)\u001b1&Lh\u0003)q0n6l\u0019g_m}E^:\u0007F\u042bQs+_A\u02bb1T6\u0002/O\u0004v\u0011&HQc\u0012\u06b2J\u0010e\u0010\u0013nHi\u001f<v\u0014\r\u0006\u0018\u0004\u000fE\tU\u0010%\u001eu\u0013z!\u0006fj\u0001)h#\u0002A)\u0006[?\f\u07c1Sw\u0017\u001aJw\u001a\u0011?@Y/\u0014yTi\u0001Tj\u0015\u0003\u0000-<\f'm\u0006\\$X\u001cz\u000fs\u00061\bbd\u0000c9}\u001f\u0014w\b:p=\u0016#7\u0013tuE0vj\u001dq|#yZ &V!nO(B\tm\u001d&\u0000$OK&\u0019W3xIG1;nTw<A-gp\u0018$0_\u0018~\u07f3Nv$\ud6c2\u03df\u0007DDNO\u0000j%}{eR)0\u03ec-.\u0017W.#NGNPyOvbK\u001d\u0007\b\u0003,M0\u000fp\u0001?2wb\u000fV\u0018\u0015j\u001c\u0015>sh\u0002'u|\u0018\u04d5Y\u0012={?\u007fe{/.> x,T'PVb\u0016\"wp^J\u04e79cbS\u04bbf\u0011fz\u00032<}n#P\u001a\u00121z\u001f\u0007`0\u001b\u0017cDH6O2#X,$&\u0014{PQ\u3c0b\u000f5g\u0014b\u0006f`e\u0011\f5{_\u0007!XT1K\u000bnL8k\u0000m\u000e?.\u001e\r``\u0019$F*;`q`L2Q#\u0016\"d\u059aoOQf5Ke\u0017\u0001K\u0014hw\u02b6NZ\u0006eKm\u0006u\u0279/\u000fsbt,S\u02b4\u0014CQ\u0002\u000f}\u0692zq\u0001\u001d\u001f)uXOtPDs8M@\u013fa_dz\u7063gdAr\u0010\u001dU;\u0017irtk\u0507G\u0006=Ix\u0004y\u0010D;\u0011\u07cb\"Ct\u007ft\u0707\u0012/c/AL"
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466,
+    "payload": "Gl\u0012_FGE\u0018\u000e~\u0007\u0003e\u038fkLN7+LT<a{?_YW2/SVr;B\bZ\u001c\u0016qd9S6*:Y\b)]|jOn\u0014QN\u00102H\u0000\bJ]R\u0003a\"7\u0007f\u0013(\u0007[bq\u0383X\u0011\u0001_'\u029b"
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000Ej[FZZLF\u06a2Mx\tI\u0017-N.\u072fn5-\u0017\f&4G\u001aUt\u0016F\u01ebpp\u0015d\u0017\u0003\u0003@\u0011:KQ\u0018AYOk\u001d6\u000es\u0018n\fa2\u0005tR\u03606\u0006p\u001cr\b\ub73a)c)C-+9\u0015:3UQ\u0004C(&^JS+\u001fKZ\b!\u0543\u0003\u001e\u00145{\u06671gez_gG/\u000e\u0019ix\u0398V\bpw\u000fA:\u0754=.\u0019Y\u0019\u000fX;?NCJu&&W\u0013E5Kf\u007fcm\fF)HG\u0475\u485ep\u042ewx0s)mH\u001b\u0014^\u0013Yg\u0014G9\u001f-\u0005\u000e\u001f2_K\b5\r\u000f9Z}(R\u0007m\u001c;m\u007fY%`\u001fA>/\u000fYi\u001b4\u0006%\fh\u001e\u02b7%=\u001e\u0016Is\u001e1\ua247';\u001b_L\u0261\u0012\u0010o`tzTfHvSU3\u0013\u0004%1\u001e\n\u00029v~\u04c3A\u0001\u001f4IhK\u0001j#};Po5S-\u00114\u033a\u0002x\u0001\u00192\u0002\u0137P'\u0004\te\u0017\"\u0013qOF\u0018\u0001z\tou;M\"QAlfBg\u008bSwu\u001cR~\u000b|\u01fa|#\u0010c\u001f6uG0\u0451I\u0321F\r\"A5-\u0010\u691b\u0010kvph<h\u00123rr\u036ctbc)@E8\u000e-_\u0003\u0005r\u0002\ub9b4A\u000ea&0\u06d1M\u0010\u001b\u001e\u04393|U,\"A%\f,3V\u0006u[wXkF\u0438\u000fi\u0016\ni\\\u0016\u001f\u0003:dz\u0016vReq0\u0177\nXcERH>h\u065fs]\"_m*x+ZO7.w\u050a^JS\b\u0011s\u001a.\t\u0593\u0003r\u000f\u001awjXb0V \u000b&\u001c\f\r\u001eB7EZ\u0296.\f\u001121iipFREG\u0002Vx'mLF~\u0001#<X\u000fW\u0004j\u0016\u001e\u000f+Hdtd!\n4d\b2TWO\u0005\u0003\u05b3.u&\u5ab58~^\u001cL3\\ (!z\u0004>Hs;\u01870\u0000L\u0019\u0007$Lz{),#\u0189\u00129\"=vQFo\u0013I\nb\u0002\u0007\n73j'Yz\n\u001eZ2 BJ\u0007^kYb>_D*8}au@\u0017\u02b0\u0000]>/[/\\\u0019YC\u0014a4yl\u007f\u0010\u0007|\u0017\t\u000065I9\u067bt\u001c\u053a=\u0019I~F44F\bN?I\bB9B>4\u001fK#@o\u001f]\u0017N\u001aj^:IE\"hX\u001bjFEM$dV\u0010\\$p\u0001dw_\u000fd0gVOHG\u0012fYnq9R8\u0014\r DU=I\u02a1\u0013UmPq\u001b\u000epa*e\nw@q\u8c23z7.I}N _6* {[6\u0001\u000et:\u001cL\u007fmr\u0014\b'Z#8FP\u0294f\u0016.\u0005R'ba2BM\u00022(\u058b9jiA\u0010\u001e+c0k;f\u0703[FzlXZB\u007f~7R\u0003\u007f!"
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "hJ\u000eLDE\u0012Tp\u07b0R\u001c\u0019R\u85ed\u0018|\u0305r.`|pj\bvYa;#\u0004r\u0016q,\u0015=@qqO\u0001\u0013\u06a24Md|3i9J51}06@8\u05e0`4`p\tr7BozGSU/\u007f0FBlpr1\u007fwpc\u0005pT5-;n\u02f0\u0016\u0006ilB\u000e\u000e\u000b2\u001f5za.\u0004\u0010*Qs'n\\Zm1g\u018cB\u0005RLihF\u0014,\u0013j,\u0003>\u034dr}\u0279p\u001f>Q/^\u00012U\u0006\u0000\u0017[|P\\\u0011FG$`GL\u0019aQrAv\u034e1\u0000q(\u001am*^\u0011\u079b\"Md/BD8^\u0018|Ya~CS\u000e\f^y8O\b\u0011\u0015F\u0019\u0015y}\\\u0253*m~mU4}^q)%y}\u067fn4\f(\u000bmd\u007f\n\u00151K\u0003e\u0004[T`\u000fUf\u23a0Q.\b\u001e#(\u0088/6\u00049m\\\u001f%\u0016H\u04a4t[j1\tD2.\u0000j\\YW\u0017\u000b\u0018O\u0000\rb\u58b7\u001a\u1482/aK\"\u0006<<b(X\u0007\u001d6\r(q$w\u0016M\\#\u0006\u05473\u007f\u0015g\u3c07V)\u001cZ\u0015\u001b\u0004\u01aat#T\u0007~i|\u0417y?t\r\u0000j\u0003\u0000RNRt\u0205\\mQ\bwa\u05dcPkV3X<\\\bixFZZP3\u0014bLeB\u001e\\\u000fT{\tGCg7t1y\u06b4A(Fgcl?`J&[\u0002RZu;\u001bHZ\u0002r\u0013H\bD\u007f7h\u0017iBh\u001d\"\u0006\u000e\u0016'{\u0016#x0\u0012*g\u001e:E\u0006\u0005\u0015\u0014J\u001fTJr\u000b\u001bvgU10a\u0002]?\u0004ao@\u0015\u075c\u007f0oP($zp\u0743gEL\u00159]\u001fe\u0001$I5\u0013\u000b}\u0004YKv{?H3\u00126)C\u0018C(qeJ%c8_R0HZx\u001d\"E\r\u0012B\u0001#!OVF\u0001\u05e7\u0011\u03831f\u0001yGtmE\u26296\u00196\u07a5\u0003KHs\nG\u0012=\u001f&\u0011s\u0014+\u000by\u0002)CG\u0016\u0013^xZ\r\u0003.-BUyk\ube01=\u000bU\u0019\u0001XX/30\r\u0016\u0018\u029227X\u06de*>`F$#$jmo|nJ#9SPYmq\f\u001a'\n\u0005 \u0011R\u000f\u001fNxh}fl\u001dg~\u001f\u0554idk|C\u001c$0c\u0010:dA\u001c\t\u0002\u0007?\u000f1[>Iq\u000b\u0007Mu\u06f3?}\u06e8Q\u0015\u0013jT\n2i\u0019~2(\u0012\n@\u001ef\u007f((\u001d\r~[ 18$ZWgrN9\u0010\"x\u0016\bJ,m\u001f\u06a7`Y=\u000ev}H-9\u0016W\u0018.r\u0019{y_ \u001b\bl+U3.eM~msd\u0007+)I\u0000,LBWU+y\u0002\u00114\u0019`\u000f^\u0002\u001bp\u0202\u0017!W|\u001ct>"
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": ":tPd6\u0011Y\t8nv24m\\%S \u0012 \t\u000f{\u00bc_M\u05f8xV8ajS\u0013|)\r<-\rD\u0006\u0625\"v!\u001e\u000e$\"'oq%M*M6s^>fX\\\u0007Y\u0002&\u0004\u0013\u0002G\u0011eBx\u00197]5@\f\u001a;g\u06ae\u05c6\u0013\u0006uEktVtct(pZ/}*\b\u0013\\I:\f1\u0173\u001aAF'T\u0007\u0445ck\u001e$H\u0003k\u04e5X}\u06ee^2\u007f8~\u00059~q\u000fq.\u001b\u0006!/S\u001b\u0015\u0004?U5jX4\u0010\n6\n\u007f6v\u0010m4{O\u06e3\u0006h@\ua988\u001d\u049a\u001b\u02d9,\u001a~vazj\u0014\u00158?>9Z\u000eOA/t@z\u00191\u06f1%R*o}jm\u0005a^\u0012Rfa \u0018@`i?e$\u0014\u000bgx\u0010;Z\u0002<\u007f\u01cc[*\u0019\u001aGrD\u0013b`pYk\u0013RdU\u0007lS\u000b9u!CM\u0241S\u0002VW]\u0006vs\u021bS=;\"\u0016\u0007^ >L\u001f)\u01a2-'5\u001fUts\u0016\u0015Ky\u0005\u0007yRv\u04e8xQ\u001d\u0006(B\u0005*l\f)rgd\u0007b\u0004'\u015b#'E\u00020||d6j9r5\u04ef\r\u0007q\b^1\u0005Y3j\u0010\u0002]c\u0000\u0011;\u0012R\nbp] E\u001b\u001fb\nzfJ\u01ef]B]*j\u0003\u0011STg>1\u00188\u001e[l\u001e\u001b>vZ9g\u05e2\u0392\u0005XGulg-r\u001a\u0002\u000e?\nb\u0417\u0018$<H3\u000f,r\u7834-\u0003]LxTA5\u0011]\u052c7[iok\u0017\u0011A<Q B\u001f>Q!\u01f5\u001et\u0012jW\u001b{d\u001cB(Fv\u0018\f|<\u001bD\u0012\u0016PxQ\\\u0016a\u0004S>X<\u0019\u04feP2y^\u000fp\u0012w\u0011^\u0002T\u000b0T\t\u0016\u001d\rD\t\r(Edg]cRk\u0015L4~\u02793u\u001806\u0000u?OshXa3Zl!@\u0010\u0005I\u010b=n\u001f\\{:k'X{i\u001c\u03d11Vs\u001a\u07a6FX\u0016l;\f:`<$\\\u0429\f|'\u000e\u014b\u000f>Q\u0019cVJ\u0019\u001d[X\bS\u01f8\u03ad ^f\u0015{U\u03a41wxx\u007f0\u0002gW+rC \u0017QebZA\u0015T2.o'=I\u0002pYL-EB>>Y<o\u0014m\u007fb)2\u0010?7T6y\nu$a38\u0004ZU<.;%T\u0002\u0001&7-\u0010b\ufd0e\u0010^9\u0010AMa[\u0000c+#\u07c53Gs(j\noV-\t\u000e\u00044/G\u037c\u047d\"\u0019My1\u043as\t3\u032c\u0656'v\u00061!\u0019k6t\u0004w8\u02a6\u0002\u00071gC\u0004\u001b^g\u001e)zW\f\u0007]i&u\u001b?q,*\u0363Jl\f\u0429o0\u0018"
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "UO&\tbq4R Tb\rV8\r`5}t\u0014\u0015>\u001a)>\f\u0567I|:8GlIrM\u0703\u000f\f88s]w\u000e\u000e\u0007R\u0000z._b]D|T\u0007\u001f\u0003\u0016\fj^b{*;q?\r\u03f2.\u001f36\u001e&lOL\u001e\u0615b\u001e>H5D3+^=W\u00100_\u000b\u0003f\u0640J\r1J?3\u0006A\u001di8\u0017r`\u0016\u0016 \u0006\u001b%T\u0004&|\u001e\u001a^a&t\u001a=gO\f\u0544aAg\u00066Ogtk\u00074#\tl\u000b\"\u05e5)7IP$W(\rrD\u0013p\u0001Iu\u02e6P1/N)k4\u0012FLixr\u0002\u007f;Ij*\u06f4>W\u0722=\u001c)6Z^\u001d)v,KEkp#\u0018$2JC\u001cc\u0006\u001bO\u001f,\f}(\u001f\u0016+\u000b\u0003NCF%\u0010VTx I6\u000e:\u06baoY\u6665\u0012,\u0014\f+szBD\t\u000f\u0017z*XGK\u0003oxqr\ufbbd];\u0791Dm<\r\u000bN=\u0001V-\u0011FKKct\t\u012a+88\u0001\u03e0$iA\u06fb;V\u0012QR\u007f\u001d\u0005; \u0016@':\u0019R\u4455|\u0019!T 5R\u0015%la\fn]3\rP;\rW\fg~\u055d);\u022b|z\u0019\u0010\u007fHRd\u001f\u007fc\u00b7\u001a@\u0003\u007f)~\u0012[O2TU\u0018_wdd/\u0015\n7!807?\u05e4\u0014Uq\u001doZ\u0765\u04dd3\u0015jG>EXOer\u001b2)@Z\u001f/\bF*X}C~\tkE\u0010J\roEERt9\u0019-=Ok\ub9cf;F9$=Vbns:v;B\u0002\u0015H3\u03c1AcEex[UeuX\u05b8\r$\"c\u007fh\u0245/i+@LTd\u0653)x\u0014\u001bHYaxwM\u05f1-\u0552{i\u0019\\t\u000f\u0007;*\u001cm\u0188\u0006\u0005F\u0012G\u0003cA;\u0005\"\u0007\u0590\u001d\u0001@:\u00040\u0017\";ID#[\u001797Y\u000fJ{;W\u0000\u0010\u05a7$uq\u0011@r'\u0001`/oah\u0002wEjK>\u052b\u0001Hac7]{2r\n\u0007\u00d9Iu^P|U $\u00029K\u000bHn4K?\f%H.2S\t\u001f\u0019(\"r_KB'tK*\u000e\u0017\n\u001e]\b\r\u0007v.*4\u0359q\u0000\u001a:ZO3M+\u0011\n+z\u0019hy&\u000b=\u001e\\w8\f\u000f:\u0012\"(La8\u073d\u000b\u07d1\u00e0\u0016\"\u001c`\u0003',Q\u0006\u001f\u060d*<\u0019O\u00007#d`Q\u0005YciAL\u001a.\u001c[:+R\u0017Y3q\u0014P^r\u0003\fp\ttH1\u0004*k`Y&\u0003\u0018u\u0013\n0dG\bus\\rk7[z*\bmZkFX1\u0015Q%8K\u0013\u001d_6`\nL\u001aT\u0007Q?\u0004S}qr\u0502Hk*\u0001\u2ff3s-"
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "\u0151z]\u001fp{\u0002FE*\u0007\b0J\u001e*\u000f`\r\u033ddK?7\u0001\u008f\u0013\u0003\b \bA\u0018Hl.\u00196O0g\u0017\u0002\u000e%$\u0010\bLbo\u0010?Kr<\u0019Yz|\u03ad\u0015(\u0567G\u007f{\u0490A#.j'd\u067cr<rC'x\u0000YQ\u0015M@\u0018\u0014D$0\u001dr@\u0016|e\fZ\u000e-\u015b!4\u001a!jt'}k>MY^*v\u001dDue\u0001;\n\u02e8a\t\u0016\u000b\u001d.~iLx<i=i(Qng\u0000I{\u0007{Xh`;\u72e4\u0170\u7458\u001b8\u001d\u0328\u000b\r\u0011I\\\u0005.Y\u0001Puo}j\u000eOp,6D\u0001Psg\u00071Y\u0002#~!=,[\u0017:0@vaf\u04afa\u0578uWH\u0002\u000f_j\u001cc\u0242\u001d\u001234 Y\u0006%jF\u001be<a\u000fA{7-\u001czg2\u0460&?j\u00054\r@!Y/G\u0004\u001c\u0014~7J\bO^\u07e1\"Q}=\u0007\u000eHx\u000f\u0004gt\u0004\u0000\u0003!5\u0016\u02d6-JT\u0013U0\ud803\udfdd{~?/S\u00003P\u0002_n)\rUiZ\f\u001a\u007fV\u0015uH\u001a-+\u0011$r%\u0010z^\u001e\bkywVC;\u0006pMCO}};\u0019\u02f3\u0011H\r\u023c8;`%Gx4*+\u001e\u0017D+B\u0014I]2\u0016I \u000b\u0001I\r\u000f`\u0018 ^[y\"J\u001eKPI\u05cdA\u001d1iL|/*>\u007f[M&uw^Y\u001e\u0004nvQb.\u001dJ`/8\u0010yR4e\u0006D=/\u0682\u0011\u0448\t|?mL,T|p2\u0015j[18l \u04c0\nQ}e;*#U\u5e4a#\r\u001c\u0017\n\re*~E=\u0015\u0004\u001eVN\u000e0Iu\bni\u000f/\u02f3!6]\u0013\u0005e4G6J\u0019&.\u0671j?\u001b\u0014pf^\b\u0235OAB\u07d0En\u0012\u001ft\u0012D\u0005#~O\b^!o'>\u000ebg/Pb\u000bA!Q\u001eUM3(/`sT9i:\rhuRKQJ9\t_4c\u0015F#L\u0003\u001cKX#\u0015xItFs_:9\u0759vRYu\u000f\u000f\u000f/'\u07c7?\u0011\u0003nH4\u001en!W<B\u07e5\fa\u001c\u001a7W9nW\u0017_\u05a7[\"q\u000f\u0006\u017639D\u06e9\u0017\u0004)\u02cd)[knm~+K\u0007j/O\u0015]B\u0001Y\u0594~\u0014vm8X6aOj9&r7o{W\u007f\u0007yME|\u00bb2)\u001f\u001b\u8903r\u079d\f\u001aIwYPN\u0017\uf964cCK^\u007fa\r%\u0013\u0004?+\ubd78\nS\b\u000b|n\u001f05\u007fS\r\u0011\u0145\u000bT\u8fffM\u0010\u00012\u001a.k\u0522]0}\u000eo\u0013\t\u0014yq]\u0016O@&C\u0289q\"\u9377\u0003[`3\u06bdQ4#Y%L9B7Ovo4>4d#dy\u001b|\u04f3N`_ch`9/E:V's\"\tM7=\u0014_\u0017-\u001c\u0018\u0017'z=o\u0017E#\u0003L0\u000b\u0001"
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:02",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "s{zvLODk0[*~\u001fPYeC\u0005P\u0015\u0004H\u0007B\\\u00190\"\u0017')vd9\ua6e5\"\u0109:\u07b6Tr\u00170E._\u0014$KP{8\u0014j\u001fs\u000b~:L\n{O./]uN--zX\u06cfdjr\u001bxsqZ@\u0000%\fE\u0001;\bN\u001d\u026f6cV[\u0015\"\u0001i-z\u00f4\f\u0014_LB\fXQ\u0010\u05e4#C\u000eN-;\u0004\\\u0014\u001c}uWEot.\u000b@@L6\ud940\udecbIho*I4V]\u009fD\u0018Im&\u001e\u0012l\u0017r0Z\ub8c6Q\u0017,\u053b\u001cXb4R\u0006\u0012z3\"\u001at6-XWkX]\u001c*ru6`5nU6g\u000f#\u0015,C\u0000R\u0015N\n\u0019V\u001b-L\u0012Z\u0004C~A\u000bJ\u7bf7E4\u0006^a\u0540+3v_\u0014^jd3&pQ`j{e\\\u0002\u0003&Np\u001d\u4d31~r\u000b#t\u007fI=av\u001dE|h7\u059b6m{h\u07b2\u0005$\u000bYD\u001bM6\n\u0003\u0003-9\u0580\u00190~XHS\f\u000f1W;<)\u0015@\u02d4V\"oRA\ue235wf'G\u000bk\u001d[Y[=?\u0018+D@{l\u007f:R6\u001aU\u001e)bL\t\u0017k\u0006@\t\u001adSm\u001f\u001ca\u015ej)\tX\u069fy\u001c5\u001eXjdSQ^HM\u0001!swR\u0012\u001c\u0539\u001d5\u05cazKn\u0011\u0007R\u0005)V!`\u0000\u0007\u033bS5\u0011P{Dx:zJzU&p\\d\u000f\u001fMzb&!\u0002>9R\u0002rU\r\u007fmJxm~\r[\u028fA`Hue2\u04afmRkB)\u0011\u0013iZ\u0000?5l\u0002#B\u0016Bt.u\u07d65E\\g$s?\"^O\u00f6U[|\u0012)8ruT\\,I\u000b5\u007fCoM\u001f4mK>sO;Ew`O Few7:\u0013ufK)c<KLo~!u\u06a7@l/2(GW|4Pl!S4z\by\u032bK?\u001c\u000bSo\u0014-He'a\u0007\u001922\u007f8\u02a7|\u022d;6\u0004Ba&V*d,\\BZj&\u0014p\u0019\u000e\u067a[+\u001b\u05b2+m}%!jD5FE]q=\u0004#\"N:'-R~\u0017-\tS5Q{\f\u000bCBGI6u0\u0003])\u0004$y}&HI|+I1u|q~Vy\u01bf<.\u0001\f\u001a\u000eTGBR\u0017'\u0118dr\u0015'\u001a\u0015\u0003\u0010O ?B(uP(\u0017\u04ec)\u000eWU\u0010\u007f\u02f9ae}\rp\u994c\u035dE&\u0003d\u0017E**Ilj}|\u00eff\u001brX):\u0014c\u0013\f5`0!dZ\u0010\u0011.\u0588OY\u0018\u009ewO\u0001\u0000\u0000\u007f8\u07c1e2L\u0002M@cH?\u007ffl\u00153zbU\u0017\u0001AX)\u0000k@Z\\Q\u0002KMx\u000bC(*8"
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "=<~4\u0012!HD\u0011Y\nN\u0014KOl\t`\u0007\u0014Rjs\u0019\u0002).GI\rO\u000b+f[8\u023cr0J>\u00173c\u001afwx\\)`bQ4|\u001a6K\u001d&c\r(?\u001c\u0013va$[}3\n?rq\t\u0010i2\u0013\u001aut\u0014\u0011\u03bf\u02a2SAj:ge++)/\u007f\u0011:y\u0019\u0018r\u0013t7X\u001ch-g-y\u00d8\u0006a3FQ\u0000f57(C5!\u001e\u0005(s3\u0003\u0002~\nuy\u007fp<m\u0005Ks$\n|L\u000b#6.\u001d\u0016\u0749)d\u001dsBJb\u00068YG;B\u0000f\u000b\u007fD\u04d0\u001cd[\u000e \u0012>YA\u0019|K\u0004Y\u0000]y8\u0018F\u007f\u0016\u0016/$RT\\\u0015#p=9\u000b6e\u0001^?(M\u07f7\u000e#$Vc]\u06abpT]mFQE>n+ZI]\u0002'`,bB-\u0001t\u0012\u00a5;Nj9Z\u001c1_\u0113\u0017R\u001dLu\f?Q5\u0012w1\u0012%|G[\u000bD\u001c \u001aY\u0016\u06c6\u0019~1,O5:81W\n8w\u0014W\u00ad@\u0001mC\u0017\u0013\u3e3eC#aviFbKmsm_a\\ *C\u0003+I\u0015~\u0013nw\fx\u0623e\u0005'\u052fIB\\fBa;5\u0001<\n5?XE\u0002lY,<\u0019=zrMs\u001f-s;E1\u007f#~>\u0292[i7U+\u0792l\nC\u001b\u0004zm1\u0084u\"z*\u0007\t\u0002>#V'J\u0016m\u0019Af|\u000f7J/\u000e\u0660@wC\u00000W\u021fUxB\u001cBs_$Y;T\\T\u0001x*o\u0340\u05ddxQ\u007fAR5?Q{C\u064c\b_[M\tXy\b\u0369h\u0005\u0598c\u0497\u05ec\u0012\u0296\u00b3\ue2e1]\u001f\u001aJ]0E\u0005\r5*+6\u0275\fEdu\u001f+y:Q\u04b5Pe%MP\u0016< :\u000f+|B\u0005-E\u0316:\u007fp'X5*igM\u0016M20RuC%\u000fA7aVT\u001ee)(a\r+\u0004\u06ab&\bF\b\u0010HaXOs*K0\u000e\u0013Q\u001e@\u02ed\u0017\u0006'q\u0007\\Y|-\u00013\u0011sjR\"\u0011A<\b(+\u001c3\u0006HbndP+xB(&\u0004%M4`\\a\n\u0018pWa\u0013X\u0018?5\u000fQ\u0004*u\"t\u0019AVL\tvs:t~#\u000bS6[\u0016\nM?JP\u0013#\b7,vWk\u001b'k\n%,V\u0351d\u0016sb\u0010I\u0015e\u000eK\u0019q\b\tV/Pj]s\\y\u000e=>>Ht299\b\u001e)@\u8e79w1NR\u0015W\u0013C\u001e.q\u0014\u0010E\u0002xE[\u0016t?FWz\u001a9\r?J\uf46c\u02dd9\u01ea~\u001a#\u0015[^F\u007fwWShHn\u001a\u0014&\u007fXkP\u0014|Hz\u0016j41"
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "An]C6\\Y$<\u0000G\u0000*l]*nQ\u022bS\u0011ot&M,oM)\u000b]-\u007fF\u0660Q&c?Yu\t\u001dy\u001c6\u0001$ !1e+RC\u0098js\u0016\u0019\u0005\u000e?_iz7'$\u0015L\u0466\by3|8*\u3206\u0003b,Fb\u001d\u0004\u0007n\u03c05\u000f\u001diE\u0006\tk>L\npJHQs;\u0000\u0005`K\u001eSE\u0151};\u0019Gaa\u0002$wK\u03f1W\u05f9}\u0513Ag!h;N\u0003dhzcB0\u000f\u0004&00\u001c3)6><p\u0012o,\u001bKd50w+\u0004\u000f\u0001Rg\u0006R:\u001b\u05ae\u0018XUBG3P F\u03f9td\r#\u01dcI3\nF}K\u001d;aRAe\u0000H*-\u001b-I\u0099%8\t\u001b#Q_pX5A\u0755D\u0669=\u0013hs\u03a6\u000441O\u0011M)!t\u0016\u0017\u0019\u0007(j=4+Rt<;/LoKb5\u0017c\u0002\u137e;b4\u0081u0DT\u001b7U\u05b2N`<JM\u000bR:}0h#hd\u04e7c\u007f\u0012\u038eZ\u000eu!3#E_23\u000f\u0006q!;,0/\u0007\u0745 x0[y\u021a0}5Rx'w-|>\u0319+\u02df\u0001\u0016-\u000e]0}\u0014Rg\u0007juGwc{4jj2@ZQ[\u0007,~\u007fTT\u0019\u0019\u001en#\u05c3hoS\u0003\u0014(#y1\u001f\u001a(zrm.lsRd{foA\u0157^\u00013\u000e~yva\u001d\u70d9\u0717&f\u0462\u001b\"CD\\A\u001a-\u02f7\u00054N\f^g\u0011#XwKqo+\u0018vz,\u056d\u000fX.\uc3ac\\\u0007\u0233q\u0010\u0010$\u001evA#qh(TOz&\\]\u0003\fe \b\u001dz$ \n%hiL^\u0145*mF]4\u0000rf\u0005M\u001b\u04f4N\t\u0006p?v$\u0556']\u0756F+YA\u001bEt$\u007fZfa`7g\u0016y{IB{nr)vRZ<\u0011Z\u0010u\u0001 K\u06bdiea~I9\u0631g\u02657\u001f\r,\u000f8C!4b_p\u0197\u001b~NO\u0006Fm&quf[6\u0001&,MH6tD)\u0006G,\u001f\u0018\"rnA\u0011Cf}\u0014E+_w5\u0001'\u0016!\u007f\u001eB\u0006\u0017\u0713Rh?7{G;u\t\tZt[|\u001a\"\r&c\u0006\\HF$}\u0010\u000e^\u0018#\u0128\u0006W]tV~QZ\u001d.#989DXg6'\u0299n\u0019k'qN:e<$\u001a^1=\u0001U\u0508b4\u001f&\u0012%\b.\u0011\"5\u0011Y\u03b0%XBN.}kw/@\u0005!KA\u0013\u0005~N%wlath<\tJmL/\u001b\u0015i@k\u0018\u00034V/v\u0005E\u0006;\u0002\nV\u0006T\u000e!Q_oH\u0360n.@lM*\u0007\u04be`{wTp\u0015\u0539v7\u0011\u0001QOzb"
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "~NN\n\u029c,n_]o+\u023c\u000b\u0005F\t$\u0003\u001egl 2ugwn\n@I5Ll/\u0011z\u00113ehU\u0011m5\u00037bZ:=]V\u0612yP7N/\t\u0011\u0005\n?E\u822136M\u001e\u0309Q4L\u0002n2pS\u0003\u0010m\u0002\u000fCRP]|\t9\"m\u0010\u0010Vgn\u007f\u0007\u0017Y\u0017 D\ryoF\u0017>6h\u0165r<1\u05c5\u023f/(Q)H*^\u0004;\u0014\nr\u0012\u0017\u001cWrP\u000bp\u0007G\b\u0004MT!\u0001\u0013\u0011L^\u001c\u21c4\u0001\u0015 q!\"K@M`@W\u45b9~wm`jsb6aJ`\u000bryR62MU?Vql\u000e3\u0003g\u0011yl\u0004b\u0016R&4:]&\u007f<UL/WQ|\u0019\u0018\u03c8\u0747l80k7\\|L\u0003{SyA\u0765Fgd\u04c6dL\u0011m\u00139\u0447\r\u0003@~.H\u001f({(\u0013s\u007fW\tYcKu<c=Mr\u0017.*/\u0011YEkC3d\u044b~0|\u000f!\u0016!lsQh!H@1\u0013\u1bc7`\u0000zZo)}8 %71%p/u4-\u001d\u0004\u0014|2\u001f\u0016Yso9<e\u007fIRV\u001dw<O\u04e4Hfw1(\u001cU\u001b\u0000/\u0010!\tFU\u000b\u07a3;E-\u000bO+K8llu\u0600C<09|Ws\u0015_Q8\u000e\u0013OzUttdv4y63On|i\u000eB$\\K\u0014\u001c\u49ceIy>\b\u0004\u044e\u0018-WF%i\u0000\u2e06\u001cd|6 }\u06e2\u04e7\u0004LEm\fGiZ\u001f)A;}Bq\u001am\u0010+\u0007U\u001f\u0016\u001c$J\u000e\n\u001eH\t'\u001b5\u001e\u0006\u0001>`PS\u0014su65mg:({vw7\u0003;:Wa(S[s\nehu\u0013\\Gh\u001e\u0019u-\u0019j\u0012:8p\fYo\u001c2k!$`1C[\u0012TU}{JWy \u2643!#;\u0007\u000b\u001fS \u001a\u000eT\ua632d3\u001aL\u000f\u00039`5u\u0012bD{z34O&4B]=H\u00104\u001bq4sYMt[\u065dH!G\u007fl\u0000u\u0010\f\u0004\u0014'\u00174B\u0003M\u0000P607~J|)j\ben-<a\u0004\u07d4tQllm\u000fRWN\u03a8J-]QHl\u0007+-D&qJqu\b\u0012l\u0002\u0011\u000f];\u0007d{5)QKn>\u007f3Ae\u07bb\u007fp@\udb5c\udcb9_10\u000fFr\u007fS:\u001akT\u001d{P9y<H}+\u001c\u00195\u0015\u000bo\n\u001a:\"1\u0474\u000fE\u0381m\u001c\u0016]\u0012\u04545-\u0016VI\u04f1S0lB|j\u0001\u000b\n*Xo+LW\u0004~x\u007f\u00fd\u001ev|<\u0014\u0000jNb)\u007f\u0011\u001ds^Lswa\u0011\u0013IwGhzWV\u000b\\:O&\u0007u\u0006\t\u007fCzk\u0186x3\u000emU|h,)_0+"
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "9`ij$\u0002}osB\u001a\"LL2P\u0003[\r7\u0006\u001c..KrS\u05c1\u0014\u0311w\u0003Ls\u0002Io[\"c1R\u000bujS+\t\u001frcr\u0012[$r\u0012\r\u0016G5\u001f`\u1e3c4TKvT%6_0\t\u0013#b\u018f}\tt *\u0016V\u00112\u8e33w7H\t\t\u0017\u0007\tXr\u0005g\u7f63l\u0004\u0006u\u0014p\u000b\u000b\r- F\u001d!p0I\t_d+\u0017]a\u0000\u0019\u001e\u0463\u001d?/\u001d&~\u000eJ\u0005\"\u0007}\n\\:mn\u0003\u00037-fwD\u06da\u07f0Rb! {$}\u007fg7\u0019\u028c}+#\n;]2\u03b9$\u014eA\u0529$3S\u00040Oc\b\t\u0002`J,fJ\u05faq~Y\u0018\ue0da9\u023b\u0019J\u0015\u001d-\u000f\u0719\u03f3~3JalKx5\u001bksp`s;y\"\u00168\u000e{\n.S\u0011\u0017EA\u0001\u0002\u0010|\u040e!YwG6m\u0005H\u0007P(\r\u0017&-2 (\u0019W\u0005\u001c\u04c1JBw~8_2yK\u0000\"\u0000I/\u0014T!\u0001Z\u00007%-\u007fk\u000f;p\f+.+G\u0005TE\u0017,Pf;\u0137\u019c\u0588Ss\u0018v@xD1dqpneBUfo;\u0005\u000f\f\u0005\u00a3\u070de,Qmc2)\ubbf6(*y\u0001\u02f1H/K!]{%uEUjHlgzhV|O83j/\u0000KD8RC\u0011cq2\u000bui\u000f~'[\u0304(f#\u0004U\u0018\u0002\u001d|\u000egj\u03b7]g-J/Tv\u001f8f4ZH\u22deb\u0403N\u018cX\nW:5*[.o\u0011F*R\u000bQa\u0014Rv#h)>*\"g!t\u0003 T(>)0W/\u0000p*\u0666\u000e\u0018z\u0017{\be,\u0010S(\u0004>n\u00052x<\u001aW0\u000eX.\u001f\u0019HG$:B.a\u0001oH4\"\u0005\u0205Zj\fK\"\u0004Ovr\u0005c\u0001/\u0787B>f\u000e\u0002b\u001f!\u007f\u000e\\\u01f8]?tG\\}#.RVailF+NbNcQV\u0006=}\t\u0010~\u0014a;\u0789&\u000f\u0007\u001fDKm\u0014\u0168X\u00ac\u0495\u000f\u0018)f\bFS\u0013\u0007*y&d\u001e`\\`J/q\u001e\u0006eK\u0003c\u0018O\u0007x\u007f/\u00d74B/\u001ay\u007f\u0012V\u0017Te\u0017T$u\u00134\nv\u001dW@x|[Jl\ue174[xy^\u0003\u001a\rQy&mD 6:\b69mewqX\u0006\u0003NH3=,.C]F@-\n&(=!+j\f)\b'hL\u001bw3^)z\u0016Fu\u0014\u0010Xj\u0001K3u\u02595lq6u+/dlr\u000epw\bjI]e\u001a\u00d5\u007fO^;'\ufdc7\u01f0}\u0010\u0012.\u001d\b\u0016fHf/>7\u0001Wt\u0004G\u000f2Geq\u0017wOZ1/\r3]b\u001azu8\u000e\u14f2\u0004\u001bS\u001bPn]\u079e5\u82003R {\u001fl6\u7537\u000e(ku<\u0014S8'sCA"
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "XM UZ'\u0007TAZe\u04edOh\nLj=+PHpT4I\fZw\u00169\r<*-9\u0016\u0740d^\u001bNx6\u000f@HMO\u007f\u0019G\u001d\u0011*\u0415\u0006_PBf3\u0016$t\u001ev\u0010^Z<1YOXnIW\b.o\u001f\u0002\u0006\u0015\u0015sM\u0012<(\n\u000ej_a\u0003l\u001et%\u0011\u0004=E\u0000,U\u0001\u007f$'\u00fdi\u07d0Q\u000b\u06cezH\u0011 5q'%^Jw#/5<\\Y\t<n9\u0005\u0567\u0007>k|rj5& [\t#vHzao\u0014\u0016\u0001^\u001a+L\u0010\f\t\u001aSDmU\u001cn\u0015\u0013\u0677 W4ij4j1\"/ Dq\u00a7TA\u0016\u00039\u0007L\u000fb#\r.Jm;t\u023f\u0002*i\b\u000b45,&\u0015\u0010BY\u001du\u000f_\u0001\u0012NZD}\r!\u0295\u0003_n\u000fQ'XSsjL\u0017VK-I1b>h\u001f8\u0019=A\u001aygdj^\u0655\u001a,\u000bNJ_k<\u076cE\u001f\nv\u001cOU _\u0005L\u05e7\u0002\b\u0018M!$\u07a7eb\u001c*\u05a1\u001e+]\ue179S\u0003[oJ\u001b\u0000\u00b4+\u0019Hz+7\f<\u001e\u001f7s$H=/`\u001ayq/4\u05aa DsdfP\u0013}|\t~f\tM,t0k\"AC\u0004T\f\u001aF?@tn$&\u0000\u0004d[\u0017\u0010A\u001c\u001c^\u00007m\u001c\u017beJI\u000f6ZT\u0007h\nR\u0010>n1Y7/E50oSC>y\twtO\u0004/;@\u001f]\u0015xKv-h]\u0496QI\u001am^7\u00008]m\u0003[,a8J:>u\u0019\f\u000eqKHP\u073b~0\u001a\u0003zk84\u0010~dDw\u036aoh\u000e\u0016j!/X\u001cr4{@bSZ##e\bJN\u0014aZ\u0013j\u0000]FY!\u000e\u07c6\b5#\u0010E\u0014t9FF%\t|MN_C\u0246\u0251Z}W/\u0006b/\u00064/`7R@\f8qh#kN\u02efm\u000f\u000eJ\u001c>\u0001\u0018wOA\u0409h\u1325\u0003\u0017Ov&\u04c7>\u017eGj\u050a\u001dyZ(Hn\u000eNqMd3^\u0010DJ3\u05b1]DOf\u0003\u0003{S\u0010\u0006\u00b1\u0013Z7\uc4bdv\\\ubb3d.7ScSa#(M\u000bTrT)sGM@3U\nV\u0016\"\\\\MF}\u007f(r:N\u001dJ6\u0002\u001d\u001cT\u00185\u00041i[dPTh4i67hJ\u000eh^Ov\u07122VXc! \u001a\u0007\u001d4&cp\\\r\u0003\u0013\u0001Z`$(6bq7>\u007ft\u0448Q,d{_^n~\u0013\u0018jh\bjL''yHqF^Bc^2:\u01ffo)\u001a\u054f>H,?\u0010r5\uda6c\ude61*TWd#\u0016\u0003{*a\u001cqMA\u000e}\u0000a\u0004\n\u000f8gM\u001c"
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "/R8]\u0007Gfo^n\u01e9\b\u0006\u0001|S F3d;\u0016_Ww\u007fA\u001e\u0012vm\u0013nR\u0725\u0010]\nA\u001bH=%jy{4\u000fv~K\f.\u0015*\u000fwv`f\u001718\n\u0019sE\u0004\u03e9\u001e\u0014\u0019,=\u00d5pT\u001fcsYYD;bD\u0005Ik9=\u0011bN\\N'Nmder}=\u073e\u001c#i\u0004\u0019\u000f\u001d\u0015C6\u0253im\u001d\u001f&t\u001a_v;mvLr0\n\u0011:\u001e81q\u0016G\tHaI)\u0010\u0018|\u001dk\u0019^\u0000\t\u0012\u032c8\n9p[,\bZ}\bBD\u0007 sd5>Z&e\u007fj@\"1m8lWx]F;\u0000GC03\n\u05a1Xef\u001b\u000b#Y1\u0011c\u0010\fQuC\u0018UhwN\u0003Y|\u02e3\u0006~`\u007f\u00a2:!7,\u0019-\u0011\n\u000b]vL(\u0019iexmF\u0004N\"\u0002\u0003Q&\u001feUAO\u0006%\u0005\u00134\u0000\fA\u00154hP\u00111\u01c4Hr\u001aWI\u0016n:\u0001s\u0019>g\u0015\u0660x\u0007ho8\b^7sV\u0017\u0014\fI`BN|e}bwD0\"l\u0018\u0004k\u0005\u0011\u0013@\u001ex\u0226;1W\u0004=\u0017Z@\u0209i0\fnG\u01d7=\u0002\u0017\u0003\u0003\rx\u0017h\u007fNLAJD9_\u000b\u0019e\u0016\u0700:t'7y\u066c\u0012r\u03f1ib_:8V{O|~\f R[[\"/\u0019I1?D.R%yy!2k(\u001aYz\udb69\udc7a3\u000b7\u000f$ZZu:u(\u03bf<\u0005MYHCkef\u001f/\\\u001a~?C\u04451\u000ffq\\\u0003B(b\u0014uVY~s\u0019-f\nL\b!\u0011T\u06fe\u001b\u0017r\u0006uO~\u001c\u0396_( 80?g'OIt~c\u0015~3gi,O+k-L1\u007f]v`wD\u025a&Z\u001dtU\u0001~B[wkw\u0019X@wu:+*]t&kX|H7\u0018FW\u000e&F\u0592V/\u071b@\f\b0oM\u0017*ncf\u0017u\u001a*4+^n\u00a4\u0018&@D\u001ewO\ffs?0\u0002\u0000\u007fV\u05ddDb\rd\"\u000f_.h\u001dI-<\u000f@\u000f_+y\b6(g -\u0790OGf\u0005\bK\u0019,](5\u001de\u0403on|'h\u00b70J)w\u000f\u07c65C*C\u0413$z!Fp{_\uc543\u001b\r\u001c.\u015eTX#\f^t\u0015HNggdq\u037a~s\u07b4PZl\u0215H\u06c9(!\u0007\u000b\u0619Pq\u0014\u001d22\u030d\u0007UK$G9_bh\u04a3M)\u0016\u0003v.[\u0198\u0004AF]Z_\u0015\u0011=&f\b\u0006\u000fUy4V~\u000fcd(\"\u000f\u0012ow]?R\u07ebuu'u\u000e@\u0002u\u06bb>Q\u0004UR\u0005\u0249>wO\u0013?\u000fM>\u001a\b\u0002\u0011\u072f\u0004d\u0018$8@:\u0010\u00057\u001dz\u0000+\u0013-AGW)\u04b3e?|Q\u0015\u0005\u000e\\\u001ej"
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:03",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "]\u00124\u007fk\\c+6LD8t ^JGbmp%iT\u00173P\u0018!\b\u001aS\u04b1X07\u0011hC\u0018]i\u0000`\u0016t\u0017\u00be\u0002S&F\u0011&<(~z\u00101\u001a\\Y:P?,PRJ5x\u0010s,f\u008a$_\u0761a\u001dW\u0016\u0012BnB0Z>\u001ae;\u0002?q]\u001a)br!k.\f\u0016s6qv[\u000e\u000b(\u0004{\u001a1\u0012\u001fO*B2&\u06f1^\f )ID#.V~\u0752q\u001er[?\u0011z]6|T2+\u0002\u073aC&YUR:\u0019LC$9\ud9b6\udc82Y*\u0012~,R(Zn9\u0238\u000e6\u0000\u000f\u000e-`\u0010(\u001ca\r\uada3\" \u007f\u0011n/j\u001aiY]nD\u001etX\u0014'\n\u001a@l%[<s\u0014n|_'\fe>I\u0486Nm}\u0017\u0211n\u001fQ\u06f2O-\u001dO\rI`\u000f\fw4$X\u070bq-\u0003[$\u072f\u00142Sm\u001b_Kh\"w;A\u0006\u001b\t\u062dazD.\u0011V60ni;P# #\u0016\u06d3c\u000fyG\u000b\u00073\u0014c\u001a|NEB)G\u0000ww\u000b)Rc\u00ffc\u001b4Km\u000b_\u0006543+P\u0014\u0016U@s\b\u0256\u0014\u010dI\u0707\b4mtZRvx@;+\u0003,}\u0412yzH\u007f1+\tv\u007fE9o\f;3N\u0010^%\u0017E.@i\u0007K\u0006pA\u001eEb\ub48498\u0014L/\u0252\"T\u039f\u001co-&\u0014\u0003&ksz{iv0(1i#\u0005,?\u000f_\u0136k4aw\u00070w\u0014/dF&b*'aaS\u001a\u0004>pTzQl?@A=x#\u000ec\u0591a\tC\u001a:\u0018\u0012\ue0edN\u001dhL7Yn$GaRkK^T1Z\tzB\u001a7=\fCa<3UdDe:\r\u0016AnO[Y\u0016\bkAo\u001c\u000b*[T\u052e\fv\u02ab\u00191r',\u007fzYP3\u00124!\u0019[\u0011f)?5>7QDS\tgiI$\u0017r(r$S\u0015iE\u000bv\u0019j-\ua43d8\u0011jZ\n\u06e7>r&vr{\u000fm\u03b4W2\u00056\u007f\u000e\u5829g;9fJH7!7R\u3c4a15@\u0016\u007f;WJ\u0007'M$\bQ.XcvO\u00004\u0007\u00003\")Se\u0007Y)\u001e'0sL\u001f#\tyq=\u0000+$XQbRD9u_\u000ee<\u0013@6~Q$\u0004\u0016d?p\u001a\"}En\u038e=\u000f7\u0004]qIn\u0019KWN4asc7*\u0018,Su8\f!0\u00023L64\u001a!\u0015ZG\u0010B\u000b\u001bO\\\u0005\u00a0v\u0396\"'vB|.\tK\u0012\u03a8\u042dH{=LI\u0007\t\u01d0k\u0001\u0005e\nz{\u000b1dadM[GX\u000e\u0016k[\fF<axKY~r&c8\r6'@\u0015w0\r88e\u0524J7\u070ec;w\t9Z'h\u03c7h$\u0018\u0004\u0015"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "y&'\u06beiD+gI\f30BO$K\"3\u0015_x}gG\u0002r\u0001\u0016Dn\u0014,3K\u02b4[[E&*K>\u001d\u069f/\u001f\u0007p\ubda5M\u066e/WCkB4e\u00127eP\u000b)\u0004\u0003&`xr9{)$<5f$\u0411\u0007S!\u001a\u007fQ\u0012\u04a7<C8\n;e\u0012*\u0000\\\"_JI^\u053d~L8\u0010TIP\u0014E\u0011>\u010d~D\u0511\u0013\u0017Ce\\^\u001bcis-\u001f6k|#W/\u0511\u0014/A!\u0011e-${tE-\u0019\u0318:6N+\u001cfA|\r)vph \\G\u0005|1:ms`;bE{sB$\u00003CX`5a\u06a53'I\u0016=._{f9\b7*\u0775Q\u00049mL@;{\u001fW\u00174-\u052b g\"7\u0013G\u0001Z\u0001,b*]\f\u000b\u0019}>\u0612\u00053\u0007\u0016C\u001a\u000fyGRvb\u0367N\u0016e\u0003q'Z\u001e\u044f_\n|+*NJ\u0007K\u007f$N\u0000+Z\u04edl\u0191\u03e4R*N\tc\b\u00ba\f5\t\u05b6^f'\u0193-\u63ef'l*M[\u001eQ\u0012)\u000et5L v${2j?\u001dB\u062b\r\u001e\u0002\u0006n\u000e\u0001}e`J\u0751\u0004d\u007fGiSG`XX\"'\u0698MJ\u0136L \u077ai@\u000b\"\u001akhL3GS\u0015X)\u0011#{>\u0004xK*m\u06126thXF\u0017kYPC\u0018FeTI\u000e\u0006Gh\u0012\u03d25*y*F\u0015>cYY\u010dU\u0107\"@\u0016*4y\u001dMwV\u0010p\u0007\u0004\u001f\u0019J\u0010{~\u0005B!%Z`[:\u0015(c]_O\u007f1Mrc\u9e5cpH\u0764\u000fB7A\u0013\u000bl$\u0158N[(\u001aC\",<%\u0017l\u07aa\u007fgfNr3h\u0003\u001f~W3\u0002o{+s3N\u001dV63-U-\u0019\t\u036bRX*\u0014$\u00187GG1zlOT\u0000vB\u0000_\u001c\u0000J\u5a60\u0006we\")tm0:]\u000f\u0330iEkT1\bg6DcSI\u0007\u0005\u0010ZP =\u91d6&]\u0003<kQrD,&l>G2o)_ZQF.\u0000^0-YP\nBH\u001a$tq`\u0018\u001e\u00020^TX\u000fg\u010eI\u0003\u000b5JS#Cs^\u01d9\u001bRBtG\nH:d\u001a^5%\u000fYcVWz9`\b\u0005C\u001ci\u001a4\\\u001cE\u0017\u0327Yl7W\u0017\u000b\u0018\u007f3yZF(88*J\fQ\u0013>ga\rm@"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466,
+    "payload": "\u0017\u0003\u0003\u0000b.:y\u0014m\"\u0006\u0011u#|e[<2}XF\u0010()d\u0005|Y\u0505\f\u0013;\r\\5TA\u0355\r\u0018=Q%#\u0002G\u0002m0\u0007eVs"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466,
+    "payload": "\u0017\u0003\u0003\u0001[\u01e4\u0005\n\u0005s\u0007\u0001^f6no (m\u000bM#P}Jj\u001c`YE[,Abz\u0013\u0014*\u001aHg8@\f=]\u0011f\u0014\u0019:!\u0016O\nB\u0003\r\u00141\u0014R\u0493rq+\u0012\u000b\u8715=p9+1ok4* Y@\u07be\u045a!\f*3-\u0013^\u0001q\u0014N$S3-\u0007\" x\u0006\t\u001f[%\u0012xRO\u0012WQzy\u000f\u0000Q\u0018ZIq\u000e\u0014a7\u00155I\u0005(o\u001e&HK\nWg\u0002a~on\t\u0224\u0010P\u001aP\u001bPq.[\u001ek\u0005']+5E_NjS*!1PkO:4:\u00ea*5\u07111\n_\u000ej1h>wL\fS@m\u0764jI7te_x\u0015'^aW\u000fT\t\u0017',GuT\u077bFWD\u0018-\u0007$Y\u0006\u001b9E3\u02ad`N\\6\u000e+T+\u0018\u0003"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000\u0013,\u0004p\u0435Y$%w\u0002X\u0011\u0011\u0019\u0018\u0424"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55466,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453,
+    "payload": "\u0017\u0003\u0003\u0001<t\u000b!60!3\u0016\fP_\u0010xGXVl2}I\rCI\u00075x5!l>\u000b'qQ\\\u007f\u0375?d\u0012w\u001d{\u0013HkXFb\t\u0006'A{\u0007,^1Qv.]Pw2l/]TW\u007f[\u00169x\u0012tS]oN\u0001\t|1\u0007\fkM[y\f?2\u00102fcEUj|\u06b2H\tK\u001c\u5c1d\u0003Y]i>18N\u0007*I1\u0697\u000ft?l\u07eb\u001foI,\u000bp]@\u0003_g\u0625_{\\\u00148pM#o3\u0019l\u0578\u000e/\u0002b}+=8Q[y\tcO4\u001d\f3\u00124"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55442
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55442,
+    "payload": "\u0017\u0003\u0003\u0001]F\u0014\u0016c\u0017\u001c6Jc\u000f<&G!j|9\u0011RG%_\u001dvWT/J~I\u001cSZ\f=&*#g\u0003g%\u000e\u0017v+'\u0016F\u0014\u06caY]\f>/C\u0002=oz\u0014~z\u0011>T\u0019,_\u0016N`e\u0550\u0019\u07e5F\u001dhpU\u0001c;@\u001d\u0002'*h\u001a\u06a1n/\u000b+F|\u0014PJ=^8\u000e _lE\bpPnX\"\u0015k\u0010\u0016c(\u066d7pC\u03d2\\4t\u000eeW9s\u039eFh=(\u001c^UcC\u0006\u0019\u000eArv]MK}\u001dJ8'vBLh3m>M)3=\r\u0013`U\u0007h\u0012_\u0019\u0012eH\u000eq(m<w'z^P\u056fn\u0012\u001a++\u0468]bw\u05c9)V\u0011i`\u0633t2\u0015yz\u0003y\u0006)dm\u0002\u0015y/\u0019>[`\u0012Y\u0003\u001c:\u0002\u007fOI\u001ejB\u0011j"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55442,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55442,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55442,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000\u0013\u0015\u001a+*y\u0014+8\u001e\u000e\u00028EY"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "51.116.246.106",
+    "protocol": 6,
+    "src_port": 55442,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55466
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "51.116.246.106",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55442
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "1.1.1.1",
+    "protocol": 17,
+    "src_port": 61763,
+    "dst_port": 53
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "type": "DNS Request",
+    "domain": "mobile.events.data.microsoft.com."
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "1.1.1.1",
+    "destination_ip": "10.10.19.2",
+    "protocol": 17,
+    "src_port": 53,
+    "dst_port": 61763
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "type": "DNS Request",
+    "domain": "mobile.events.data.microsoft.com."
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.246.77",
+    "protocol": 6,
+    "src_port": 55428,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.246.77",
+    "protocol": 6,
+    "src_port": 55428,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "13.107.246.77",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55428
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443,
+    "payload": "\u0016\u0003\u0001\u0002\u0000\u0001\u0000\u0001\u0003\u0003\u001bf\u0004\n*a]\u0003\u0004WtHg+\u0007Od^\n~d\u001eu/ \u0001 ri\u001cp^r+\u072de=z?V]\u001cO\u03f0\u0000$\u0013\u0001\u0013\u0002\u0013\u0003/+0,'\u0329\u0328\t\u0013\n\u0014\u0000\u0000\u0000/\u00005\u0001\u0000\u0001\u0000\u0000\u0000%\u0000#\u0000\u0000 mobile.events.data.microsoft.com\u0000\u0017\u0000\u0000\u0001\u0000\u0001\u0000\u0000\n\u0000\b\u0000\u0006\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000#\u0000\u0000\u0000\r\u0000\u0014\u0000\u0012\u0004\u0003\b\u0004\u0004\u0001\u0005\u0003\b\u0005\u0005\u0001\b\u0006\u0006\u0001\u0002\u0001\u00003\u0000&\u0000$\u0000\u001d\u0000 T\u0000\"-}\u0010\f\u0000\u0017f363s=A\u007f\b9\u0000-\u0000\u0002\u0001\u0001\u0000+\u0000\u0005\u0004\u0003\u0004\u0003\u0003\u0000\u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000[\u0000&\u0000 (\u0012\u0000\u0000\f.A\u0015^-\u0001,+\u04c9Ps0R\u000fWi\u000010Db\"z\u0001\u0015\u0002\u0014~\u0001\u0751vmqJ9?7P\u0018$4_\u0007"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467,
+    "payload": "\u0016\u0003\u0003\u0000X\u0002\u0000\u0000T\u0003\u0003!ta\u0011\u001d\u0002\u001ee\u00a2\u0011\u0016z^\u0007\t\u02283 \u0001 ri\u001cp^r+\u072de=z?V]\u001cO\u03f0\u0013\u0002\u0000\u0000\f\u0000+\u0000\u0002\u0003\u0004\u00003\u0000\u0002\u0000\u0018\u0014\u0003\u0003\u0000\u0001\u0001"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443,
+    "payload": "\u0014\u0003\u0003\u0000\u0001\u0001\u0016\u0003\u0003\u0001\u0001\u0000\u0001\u0003\u0003\u001bf\u0004\n*a]\u0003\u0004WtHg+\u0007Od^\n~d\u001eu/ \u0001 ri\u001cp^r+\u072de=z?V]\u001cO\u03f0\u0000$\u0013\u0001\u0013\u0002\u0013\u0003/+0,'\u0329\u0328\t\u0013\n\u0014\u0000\u0000\u0000/\u00005\u0001\u0000\u00019\u0000\u0000\u0000%\u0000#\u0000\u0000 mobile.events.data.microsoft.com\u0000\u0017\u0000\u0000\u0001\u0000\u0001\u0000\u0000\n\u0000\b\u0000\u0006\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000#\u0000\u0000\u0000\r\u0000\u0014\u0000\u0012\u0004\u0003\b\u0004\u0004\u0001\u0005\u0003\b\u0005\u0005\u0001\b\u0006\u0006\u0001\u0002\u0001\u00003\u0000g\u0000e\u0000\u0018\u0000a\u0004^4-HT y8\f\u0711\u0013\u0014CI|\u001c/\u000ekY\rx?P\u000br\u0018\t6\u0000M/T t\f\u04bd\u0018;\u001d!\ty\u001bp|&D\u001bl\u001ao&\u0000-\u0000\u0002\u0001\u0001\u0000+\u0000\u0005\u0004\u0003\u0004\u0003\u0003\u0000)\u0000[\u0000&\u0000 (\u0012\u0000\u0000\f.A\u0015^-\u0001,+\u04c9Ps0R\u000fWm\u000010xH%o5\\W\u000b{\u007fm\u001bG(\u0019\u0010]I!a#\u04ea!`"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467,
+    "payload": "\u0016\u0003\u0003\u0000\u0002\u0000\u0000\u0003\u0003'M\u0002\u001aa?{\u00197-S\by\u0002<\u0000\u01ab\u0006\u0016 \u0001 ri\u001cp^r+\u072de=z?V]\u001cO\u03f0\u0013\u0002\u0000\u0000o\u0000+\u0000\u0002\u0003\u0004\u00003\u0000e\u0000\u0018\u0000a\u0004\u001f)D\u0004h\u0000\u04eck1\u02ba \u0780)<NRr\u064brZ\u0002cyw;N\u0519\u0018<\u0002\u007f((*G\\\u0017\u0001vEV \u0432N5\u001clB\u0725\u001c\u0017\u0003\u0003\u0010\fi\u0002\u0666\u064eH\na\u000b'2\f\u0018b|\u0014\r,8C\u0002D\u001aC.\ua1a4n\u0015\u0341'r\u001fZ\u000f\u0011\u0005{X[HF1KX@Ut\"\u0770i\fk]\u0000k.0\u001e}4RyuM>/\u0019Ta\f\u00a7Gh\r\u001ff\u03a2OvFI\u001eKQ\u0018}vd\"5\u000b\u0001@)~WXM\u0018\u0005\u07b1D'@>nL)\u0013\r\r-I4*BJyEE\u000578e\u0016\u66d14Q~\"!\\rN\u0129bOj\u000e.\u0011I\u0014s#\u0000A}\u000bM\u001fT\u0016`#}[C\u0017vj;qA\u0539DBQ:|\r'uD;`\u0007Y5`J27q\u001f/ZW\u02ccA}\"l==2a+\u001f!OI\u0010Sp\u0006(oR9.{+\u04c0\u001f\u001cr6|YVs\u059aT\u001bpH\u0015<}-\u0003MbDj \b\"ygO\u000b\u0002}\u0011LH\u0011\u03b0&\u0013yu\u001d\u00175-\u000eb\u001de\u062bV\u0006K\u0004\u033c\bx\u6c8e\u066c\u0012D\u014c|4;}\u000f\u001a6\u001fb\u0005Y\u0005DT\u0006G\u0005twq\u0004S\u001c\u0001F\u00c0>Uo[\u001d\u0011\u01a0`\u0004a\u001d \u0012\u001252_vLH.\u001a8<_?}Fk'@\t,QPm[3\r^\u001baX\fz\u0018$\u0363sYf\u001e\u001e\u0002$D\uf97f.:\u0004k\u001b/Z\u001f8ML;\u0007\u001a<CFM]LU YF2kK\u000fK\rIpg\u007f)spfnin'VLao({[F\u0003*'\u001a?Tj\rjba__\u0002(\u010c WL\u0016&-j#e\u0000}=v\u001a<IO\ttu/\"\u076b(>\u0004\u001c.]\nloR'4OmKB\u056d\ny\u0005R\u0013UxDygf,\n\b\u001bc5\u018f}\u0010(l)p%6\\\u007f7\"4u(5j|TB\u0011![5\\\u001a\u007fTF\u0003|\u000eL`0#^\u0004\u0015v\u0006{>0\u001bM0Jm|e;#V\u001b2{\"Q\u0011Ku\u001f\t`x%Xj\\\u02a2\f\u007f\u02c5,e)tc4c\u014d`\u0003\u001aZ5fAn\u0003\u74e7;DOgBAg4+E;\u007f\u0001\u00f1bN{'~#Z\u0241\u007f{YGl\u0014@qPzg\u06e6\u001c\"w.\u001d\u01441r?z\u0015\u0167\u03e1\u0005[\bai<\u001a\u0005\\/e,UC[\b\u0013@\u0012S++/q\u001ea\u046f\u0016pn\u0489\u1adep1r\u00126`8L"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467,
+    "payload": "c{'A\u000b\u06fa.\u0015g_H\u07f9aH\u0000X~u\u0019k\ub658\\FWR-,'V3,\u0019kv\u0000;)1<fhH-}E:sVm\u007f\\\\]\u0010m\f##\b\\/46\u0015|l\\p\u0011\u0004s\u001fM9/WtM5a<[70:C\u000bD\u0004T_,7w,p-6Ue#d\b|\u0003AeDu-\u0012\u028dc\u001f?=d\u0010t$3|x\u0004N}0x\u0012\u0000a\u007fN\u0603B\bn-w!HK\n,n\u001c\u001a[$\u0014=hC\u0012\u001e\u041b~\u01e8:P;\u001ee9jtL=./\u0016\u007fmkS0={\"Zx~p--j}~g\u001c\u0003\u000f.C\u0011 PhJ|j,+I|UHt\bL\u00048\u0420\u362f68$96z\u0010\u0002\u06b7\u0016<i\u0012\u0013kZ\u0017@\f1!oAVF\u0016\u001f\u001b\u001af\u0015#\u0019\u0003Jz='wNQ\u05111=DH\u001aIpbY\u000b?h`}\u001b8\u0017kc_~\u001a\u000fNS?Q@\u06e0X\f/O\u00f4\u016cF\u00055\u0728bSF:\u0016r a#xQ%Vn\u001c\u001dI\u0011@q\u05e44\t_Tg\u0013\u0000rH\u0016\u000f\u0000\u001a]L\u0000xSC^\u0017gEZ.\u0012\"\u0006,o)m<\u0003\u0003\\]=uP@D$\u0018)\u001b&W-:$:$\u0001r+\n\u0367a\u0016d\rkt\u05d8Y?\tGd,xy\u059br $k\u0002T);\u070b@O\u007fK\u01e5~\"3Xn#DZ\\\t5\u0012waAl\u00161 xC+K\u0017T8'(DLTGj(\u0331-\u0011~L{evC=~H\u0726G\u0002t4NJ8\u0297p\u0010eXT\u0018\u001e*8\u01a3g`n\u000f\u000f3\u0007pv+\"P{</|\u06ef)\u0004 \u0005\u07af)e?Gm59\u0011+\\xehCt\u0003RF\u0019\u0000t(B_G\u0771qDu4BT~L\u0000h\u0019?_8)Z]\u0006\u0015'+/\u0285\u001a+\u0011E\u001aLn/\u0343N\u0018\u007f\u000e1pL\u3c73?\u0007\u000e\u0404,^In\u007fB(OV-qsVXZasVpv*\u0334\u0011\u01b9\u16df)FzI\u001d 5T.u*#ar\u0002\u04db-iHe\u000b&u\u001a@6\"4\u001aw[!z\\\u0003a2\\Pw\"`1\uf382I\u031c_ulqDJQ\n\u0017\u0002\u0000`E`=\u0005R\u065fnrn\n%\u000b|5}@l\u001f{\u0004I\u001aF\u0000!@#h<\u001c~SDu\u0373B\u001b$0\u007f6\u000f\u0010Mf!<\u000b>H\u0011\u0147W\u001c#,6\\\u0000C\u001d\t\u06d0;D\u001f]#\u001e36s_2x?.C\rS\u05bbb,^@\u001a\u001et\u001bUc,\u001fk;Q\u001c}p6Y\u0011M,\u000e\u0013~k\"C\t>\u0001zd)\u0016}s\u001f%rIMXY\u000e\u02de\nUp`\u0003\u0015\u000b\u00011\u001e @\u0262\u0140\u001e=iJsD,.w51N"
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467
+},
+{
+    "timestamp": "2025-03-09 01:06:04",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467,
+    "payload": "\u000f}e7)u4eo/>Ui|\u0013\u0569#-5DiJ\u0006H\u000f\u001a?b|\u0018\u0010tk\u0014L\u0018<z5oK\u012a\f\u0002v+pG<x1\u001fTs{jU+|\u47be[d1\u001ebi\u001f1h\u12090,y=\u001e}.\u0002<66WG|g,\\i\u0004ZiAS=PP\u0006\\B\t\u001d\u001e\u007f\\5\u04f28\u07011\ft)\u001a\u001e%C^O\"{\u007f\u0015{\u00077Mtlr[q\fG}\u0324s\u001f\f[qGkO:# \rkd)z\u0002Eh8#\u0003ir\u0003\u001e\u0346P\t\u00065\u001c*\u0019\u0005\u000fY\n \u000bE^q*\u000b]s\u0004 \u001cZ\rP@\u000fgH\u0007\u0019\u0014}s\u06aby(\b\u0226mK\u007f--\u063fe\bzT?!Ac\u007fJ\u0007)y=\u0001\u046a\u001d\u001cU\u0018PgaQ\u0015\u0017U\"r\t\u0001/\nK\b`3l\u0017<%=\\|pbp\u001d\\{J\ud9e6\udcd9S\u0007\u0011<\u0017ST\u06f67\u0005Suj\u0007{VBOW2N|ur=V&\u04fa^O\u0003\u001a\u0011nR\u0014;67D\u0006}\u0000\u0007T9kb$c\u001bKY}\u054eZAD\u0004>~\u000fmb\u0014V\u000b\u07aa&x^\u001d\ru\u0558V/u@_an\u0016\u00a4\u0001ehr\u0019j+9qO>QHCI6q[\u0017Q]\\%_K:v0\r:\"\u029fDo\u0000Kj9*u\u007f5oE\u038d_RbRj,m~\u0003\u0003d\u001cu5\u0522F4\u06a0U \u001f\\N\u0018w?v;\"Y\u0576P zq#\u0010\u0016w@MZI\u0013}\u000e /<^!4Y\n\u001e\\)*m3P1_c?sR@\u001e\u001c-b{49\u0007\u0007U1CL\ti;\u0114^`\u0004o\u00185#BH59RaC\n\u0019\u007f\u001bLUOqw=bhr\u007fW(uxr 3\u001d'p\u0014\t'\u001c+T``g8l[a#h\u00058\u001d\u0012\u0014\u0019<\u025b@B\u0000Co\u0011D<CCx\u001d\u0017:\u042d7/dvI\b\u0545:\u0018jr|Db=4\u0017O}\u0561P{|@\u001c~P\u0301?S~L@d,>\u001apwF(Xq\fH\u000ejed[\u001e\u0235GA|\u0569\u0007s\nw\u0397|\u0379$1d\u001eT\"\u0005n`k\u001c\u0012\u0317r\u0013\u018d\u001e\u001c?c\t]<#\u000f=I\u001dUU$^y.Yh]8?C\u0015g{\fT\u0015\u0000$\u0002H\u02f0\u0664f9\u0476?86\u0006\u001cv*^\u00156rk`\u0010\u000bs\f\u000b5[\fjXxZ%k\u001fSk.;+\rCP\u057f\u068f\u0000\u00055BPtO\u0015|Gejw\bK.\t\b\t^VS]|ZW\u0007x\n\u0012\u0010\u0002TEO\u05f1*)t\u0001$C{\u001b\u0016 }$\u000eM\u000bum\u0017\u0006\u0014@\u02e86CH5\u000b\u0016 ."
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467,
+    "payload": "6>^[ZTZ\u0015\u0456P\u05871o\n\u001e`\u0005k\u000b1\u0004PH\u0013OXT\u0291w\u0003\u001e\\\u0015!\u0015lr\u001d\u0000\u0005&%j67HB}\u0015@@DKR\u001d+C_\u07f7Ucvc\u0004s*uM1J\f 0yIxi\u001a=\u001d\u001f\u007fL{\u0010f\u041e5\u0012$"
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000Et\r\u0016\u001aa\u0003)\u000fpZ\u0013\u001e\bqC\u0010U\b\u0019!?\t6\u07d4\u0007\u00111\u0016Lo]8\u06df{u~#\u0017Y'o\u0017\u0003\u0003\u000eW,'w:K\nW1P\u0005t\u001d#\u071f\u0001wk|iV\u001c;?,\u07f7 h\u00192FlHH8\u0017`X=FK\u00100\u0003Co(}@ Hk\u03dbn{4,M\u0011\u0001e)xC{0Z\u0005\u001fR2Y~R%L( \u0004\u000b4i\u0019\u001e`G^@\u0007'\u001383Z\u0002VNd\u0018Kt'dyU8c5l#gj7\u00167\n\fn_]=Y\u001d\u0000#\f?Di\u00077C2>1P\u000b-\u0018h,.\n\u000f!P\u0284Q\u07a7\u0018pKdW\u0007\b\u05b6NC,_xP\u0019v5\u001e\u0014D?{\u0006n/.j6\u0018-J\u0005{}9&9bo[J\u000b\u056fkPA~V\\\u0012FR\u0681\u0006c\u0003D$eIr>CKU1\u001aCH\u0007*\u0002\"M\u0011\u06a0\u0018\u0018?bF;0^\u0016E\u0015\u0011B\u0019l\u0014~\u0016\u0017,]*JBRahK\u0018~\u0007oi7m7'nA2\u0003>>\u0016\u001b>'\u0369\"iq4)bW,j72%\u0018g~`p.#\u001c:@p\u001e|\u0004\u0010HvrE7i%B'(.\u001f#oU7\b38H\u0016w\u0533W&h&5W\u026e\u0000\u0383}z=\u0005\"u{dD)\rz} y\u001b\u000bSj\fML<\u0006\u0014w\b\u0003\"M~q\bhY\u000f'FGO\rk._[N]\u0626eTC\u001c)\u001ds{]\r\u0004ExBL%D.\u001dJ_'-\u0016%E{\u0476ME\u0004P\u04c2]_<Jq.\u0015$M,\u0012]\u000el\u0010\u007f+:\u001cO&W\u0006\t*J|N\u007fd\u0006\t{YAPfg\u0018dZae%!?Amhzw6-B%\u001c\u0001 4\f\u001aF\\XNgL\u00164Mo:o\u4f37L6_=)7Gl\u0002a\u001cg?jo\u02f4YtOq\b\u001b\bTH)Br\u000fN{:o\u001eU=\u7d64!\u007f\u0004k\u000fb2uLu\u0013Uk\u050d.NX\u0014yQ:R W&\"3z\u000e3gn\u0010\u0004\\^Cx\u00112;\u0011\tj5\u070a}n\u0015'?\u0413g3\u0746$t(Q4cI&\u001dG\u067cJ\ty\u0012z\"\u0005:wN)5\u0011\u0014q[6\u0526H\u0018\u0001\u0007\u0011\t\u001clm>$\u00a55GH\u000b/RQo|S@n55@U)Mm`S\u001f2\u0015ve9\ng;sK\u0005\th{*K!AN\fD\u0019H\n[#\u001f#VF\f4\bx3w,^^iT0\u0723;e$\u0013,\u050fA#&Vn*9p\u007f['i\u0004\u0005\u0018^\u001c\u0013\u001bGq\nah\u000fRAh`$\u000bF\rGL\u07f2Hk?~x`>-+\u047fY:\u000eB{\u036f);E%$\u0001%\u0014J/4 3OX!0["
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443,
+    "payload": "\u0018sd\u001fG\u0019y3g7E#\u001a\u001d}v1\u03f1z\u000b-1\u001e4Yigt%O:\u0000)\u0005\u07ab'\"qU9\u030bB\n2\u001aNS\u84c9.:E&`(pzAfD|\u044as\u073dY4*@\u001b\t\u0002PuJ\f5\u0019J\u0007Fr~ot~bH\ue72a\u0007\u0002<\u0361^=\fh\\\u007f\u000bb*\u06fb$\u032f%j\rx\u0017F4\u0002\u0002}\u0712`\u0011\u03aa\u0002oejqgG&.#\u0002\u0003+\u0013KVF\bA5k\u0002\u05c0rMLa#zi\u001dRN\u0005+\u0015}\u0001N\u0005'\u0007\u0015E\b\u001c\u0635+Ko_\u01e8\u000e5)RG\u00057\u00131\u0003\"J\u0011dk\u000b?\u000bCom$ed\u0013[:\u02a7\u007fIS&2\u0011[\nAM\u0015Y+\u0015(\u0001\"Z3\u001aE$\u03bc*5\u0004O\u001a<]\u001a\u0001\u025cI\u001dQ\u0011%&rS%m)\u0000dw}]>A\u0413S\u0016a~1nc\nx\u001a\u00b7\\\\s\u0185BW/\\R\u0015|bz0z\u007frZ?\u001cHL8Re\u0000lz\u0004#\"\u07e4~7gSt\u04bd\"|\u0011RBh\r.[\u03ff@\u0015\u19eb*!buW-HV\u000eWO}\fm\u0012\u001d]F\u063d+c\u0439k*;g`<ENl9\u0001<\u000bm>j:&$ey\u0019\u0016hl7T!,+L$ZT\u0007`q\bb3[]]4\u00cc..\u0013>1P\u05ea\u0001BV!e`\u0233TGk\u000f|D[$5}\"\u0665&\nU\u0007\u0531#s:Ph_@\u0004\u03d7fG\\5#KU!\u001f\u007f`g?#\u0013\u001d\u0004\"\u0019.cgl|1\u0557|MsG\u0015.\u001e\u04e4w\u04fdEC\u0513h\u00f6O\u0015:\u03dd\u0006_\nDA\u0017\u03e0]:iS)Y\\+[=\\<`;iNg\u000f\u001c\u0011-Y8n\u0157^\u000f#7{0H7D\u07e9\r\r\u0019\u007f^kkvr\ub172\u011dVwr1:o_gb\bGa&\u327f\u0007P\b\u001c\r\u0001N\u047d/\n\u0019>\u00134tfFd\nN6Ac\u001bPU4XwV_V\u00141(E\u01a3A)}d\u001b\u00147_hi\u001a_\u00c2YYSKW\r\u0010T!E\u0018\u0013~\u0600]7;b\u0001\u0014\u0005BXEA\u0013\u001c[8\n$o\u0416kV<fI4W>]\u001d\u000f\u0011x\u01e8\u0016g*{A\u001cE*_\u001f\u0014jf0\f|\u032b\u0002*;\u0002Z\u0000!<Um\u001e50SFY\u0791\u054c8\u0011he\u000b4\u0001V9MCwywp\u000e_JpSTqi1\u0010\u0006?\u06f7 \u0017`TG\u001bJJ\u000b^a{-\u00e0V\u06237Sa\u001eN\bTkOr\u0015K\u0188D\u0010\u0001YO#dBZ\u072a!2>er\t|I8\u7a9c4X\u001aSb\u0011\u0015\u0010<\u0004%tMk]\\\u0216P"
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443,
+    "payload": "n\u0006v8vBj<eV\u00061]''xy:8\u000b\u0010S\u05f7\u0010\u0017f\u001a\u00033bD^y\u0003\u000e\f$?8&LUH B&\u0014K*}%\u0012nTvr\u001eSJ+z\u007f\u0600\u0007cBi\u00126%MI+\u001b:O\u0018\u001a \u0013\u0014yf\u001an\u001b\u0015\u0018TJOe&\u065c\u0001XpJv\u000e\u000e\b\u0000\u0007>\u001a\u000bc\f|\u05128,u\u001fZa&45f\b\r.\u001c#|qU\u0e48=ao\u0014\u00055rKuRN;[\u0000\u0285\t\u007f,nG v7\r\fcv\u0001 b\u0015XS#\u0683m\u06a1\u0015\u050d\u000e@b2\u0018_\u0018IT\u000e?f\u000b]F&m\u0359\u001b5);ZpH\u03ea\u000e\u0007o\u0526\"d\u0000\u0017![\u00073.P\u001e~\bErS@\u0006j\u0019RMBm%7;\"&t7,% \u0005<{o'Pj?B\u007fn\u007fIg9mp\u001f;\u0013p\u001d\u0002\"\u001au0T\u0000u;{wCv\u0002G,\u0018\u0019jP[uRTTs\u0019\r\u0015D}/GLE`5\u000b\u001ca\u0014kHkK[v\u0000\u01c9Zx\tj=?0\u0014-\u001d1s{\u06f7y?,KPa\u0002\u0012K\u031fH\u0019\u001f63Td 9Kv3\u0535$.\u0012\u0001N5^5\u0019&s%\f\u0010G\u007f\u0333q=\nEwT\u001brdm`\f`\u0015VH+\u001dH\ty\u0017\u0005%2~,?\u0007\u0002>L\"r\u05051\u001b\u0014.\u05b7.`.\u0004\bq\u000b\u001f\\K\f!c\u007f\u0016a:6g+l7=uuA)bc]\u0014A\u0015%.@I\u00cf\u001e\u001b{c\u000e^BFb\u001d!dD\u0000\u0012\u0019\u0016m^.2M|*Q{\u001db\u02ca-\u00f9p{]LcD`.\u0214|\u0323\u0019j_D\u0005\\\u000015xq~>\u0237\r,3^#JpT\u000f\u001b,b,\u0013x\u0000\u0018\u0001U\u07ed\u0016e\u001d]"
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467,
+    "payload": "\u0017\u0003\u0003\u0000bBl}z5\"t>\n#\u0003\u0019t\u000f1o\u1e51Fz~7-\u00184\u0005<\u0560\u0000\u04a92{\u0002\u007f\u034bq566>Ct:\\#>\u0003D\u00012\u0005-\u000fs)Rs*M4\u022a"
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467,
+    "payload": "\u0017\u0003\u0003\u0001\u0332\u0000\u00190k%)[\u07b3d1\u001b\u0272\u03ffw<?G(^e^'\u0144):&>\u0006Y\n\u0003\\K?\u00009\u0006=\u0012NHK\tiw|)\u000e\u00ec\u000eW\fK\u03b6hJ\u000fI[\u001d0c\"\u0018\fgS\u0780\u001a o\u001d\f \u007f\u007f)[\u0335eo\u0010j\u0004z\u0000Y.\u06b6x\u07d5.=\u060a%\u0013\u007f\u0001\u00162\"\u0016J>R|D5x#\u0018ad!L32\u0486\u0007nli|\u04ack\u0012\u067f\u000e`\rb\u0011\u0016\n\u0002R\u0661L\u07ceH\u00166Ol\"=\u0007\u0012%Al]\u001aXB?]P\bj.\u001c{}4TJ<kZr\u0013;{Ur`^\t\u81d0==W8]\u001aY\u0350TDK@Q0hM\t:d\u0018\u000e\u007f\u05776L-3x%Ztf,\u01aa\u000bjR\u0004;\\\u0455\u0019F6\u007fi4\u0018\u07ffz?\u0668\tR&\u0017\u06d0I\fh:H^!\r\u0019P}\u02f8"
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000\u0013!7We\u001c>\u4226"
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "52.182.143.214",
+    "protocol": 6,
+    "src_port": 55467,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:05",
+    "source_ip": "52.182.143.214",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55467
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443,
+    "payload": "\u0016\u0003\u0001\u0000\u0001\u0000\u0000\u0003\u0003\u0010{\u001d+\u007f}.\"8}\u001b\u007f_\u0002aksc C1m%P\u015c\u0011\u0001W<\u0017\u0006TP\u0645uE\t=\u0000\u0014\u0013\u0002\u0013\u0001\u0013\u0003,+\u03290/\u0328\u0000\u0001\u0000\u0000\u0000+\u0000\u0005\u0004\u0003\u0004\u0003\u0003\u0000\u000b\u0000\u0002\u0001\u0000\u0000\n\u0000\b\u0000\u0006\u0000\u001d\u0000\u0017\u0000\u0018\u0000\r\u0000\u0014\u0000\u0012\u0005\u0003\u0004\u0003\b\u0007\b\u0006\b\u0005\b\u0004\u0006\u0001\u0005\u0001\u0004\u0001\u0000\u0017\u0000\u0000\u0000\u0005\u0000\u0005\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0014\u0000\u0012\u0000\u0000\u000fapi.tabnine.com\u00003\u0000&\u0000$\u0000\u001d\u0000 0\f\u001b(<\"OwOL\u001e/{\u0000-\u0000\u0002\u0001\u0001\u0000#\u0000\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.246.77",
+    "protocol": 6,
+    "src_port": 55428,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "13.107.246.77",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55428
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.246.77",
+    "protocol": 6,
+    "src_port": 55428,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468,
+    "payload": "\u0016\u0003\u0003\u0000z\u0002\u0000\u0000v\u0003\u0003j'8U\u00161VT#\u0006\u00d3X1\u0757nG C1m%P\u015c\u0011\u0001W<\u0017\u0006TP\u0645uE\t=\u0013\u0002\u0000\u0000.\u00003\u0000$\u0000\u001d\u0000 ]KF}\u0012\u0006! m:Z#\u0001q(\u0004f\u0000+\u0000\u0002\u0003\u0004\u0014\u0003\u0003\u0000\u0001\u0001\u0017\u0003\u0003\u000bD<szJh>\u001d\"Qh\u001b-\u0018\u000b\u0686$FEP\u0180N@2+b8lk]ObH\\\u0289\u0006\u0015stmi}S>\u0006\b2v9yP`ABx\b]\u0001\u027d\u0016<L=_\u0004a\u04e0A|Uk\tgxt$~\u053ad)\u0539Pg\u00fe.|#\u0550\u0003\u0010\u001a5.\u0004w\u0002r[%DNN`m2M\u001c>\u001e+_Lwr\u001f\u0012/\u001e.\b+z6Kg\u346c\u001ct%s6y\u012c>PYE<w#c\u0010U\u0016P\"we~\u0012W]Y:-\\\u0002[Z\bV!n\u0013[!\u000f3>)G\u05131lJ9\u0271I(1d\u0001\n\u007fHlV{+lCs)&bn\u0000! y/\u04cd*\u000e\u000f#Dv\u05f3pP4\u0012V\u00164V}OyG\u00a2;\"j$\u001b4b;\u000fhk\u0001LH\fki;fIEv@j\u046d\u008fQg#:\u0018}6Ba5-pa\u00005,5\u001fZ\u05e04hL\u0550b/?qJT'I`\u03ab\u0015Zi8g6=zI-9\u03488&N8A\u000b\u03d3\u0388\u0010\u000450%\u000b\u0000aIG4!\u001e\u0016Nntd\u0016@jKY\u0017fI \u0002`o X{\u0012s^B\u001ad'tD\u0012^\u0165\u00149\\\u0013.\u05acW(d\u001b\u001b\\h\u0000\u0002D\\Bgt\u0014PV\u000f '\u00038\u0018\f}RG\u00176]\u0007\u0011\b\u001d\nh3!w\u0013G!}fs?4\u0000\\\u046c25\u0012\u069d\u0019^?_Q\u0006:.o\u00161B<IT+\u0011w+,\u0002\u001e|<DiN!\u007f\u001f\u0004h\u0004ch7\u0007n%(c:+\u0019\u6069$4^\u0018!-p.\"\u0003c,\u0002`D\u0010N[\u0001\u0242\u01ba?y\u0005.O\u001c&\u0019;o`_29\u00079-L\u000e@7=P(\u0019\b\u0002i\u0018GFa8\u00112pq(\t\rwy$3\u001dp$\u0015a\u05c1Xe_o8RyeR%?kF}\u000045:\\o\u0011i\u001f\u0007\u001b7C2=7\u0602KaF7\u000bj\\1\u000f\u0004X\u000f\u001b]]_\\y,;bnCOT <5f\u050fsp\u0002+,4T1\u0011\u001cup\u0019f2h\u06bb\u0014n7%\u0003\tUb=d\u001e\b\u0014\u0010\u007f#\u0013B\\\u0012~\u0004\u001f\b\t0U3@bFeITU!\u2bd7[<\u001f\u000f\u001d$\u0016\u0003H\u0010Nm6]1/]A5M^\u0004\u000b\u05e5Xr<tT'~$"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443,
+    "payload": "\u0014\u0003\u0003\u0000\u0001\u0001"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468,
+    "payload": "\u000e\u0019\u0019S|3\u02c7QOWcy2\u001c\u001f6\u01dd\u051fj]#\u001d\u0682{ith4?7H\u07ed\u0005uPJ\u0003\t;\u0631l~\u00058_\u0000>f:\u001b\u0018\u000b\u0012FY\u0013+\b\u000e}y\u0015\u02c3\r\ub374'9\u00013(\u06d87|\t\u0593<+\u000eUWu`\u0000tW\u00050NRn\u0010u\u1da5tR\u0015\u001b9:\u0016\r~Uq&\u02c4\u07bd\u0002f!{^\u0002\u0000TX-;s Z&\u007f\u0004\n \f@m\u001b=\u00103\u0001A\u000bx[\u0000op\u0016PDT}\u0002\u0005Qo\u00161\u000fCm;g\uc4b4Jd8\u0015K\u0004@g\u0017x\u000e\u0003Uk\u000b\u0015\u0018%\u0268LZw\u01cbF\u0016pe\u0500]>bo\u0000\u0012B%\u026c\b\u001aZD7\u00cf6,+\r\u001d(c\tx6U3\u001e\u0014b\u0012k:\u045a6yTg\u0014~0)\u0012T\u001ef\b>\u0019Ms\u007f:x\\_h*4%eXU^\u001d2Bx\r\u0006\bd/\t*[*6{~eTIv\u001f{X\u000e\u000ex\u001ag{\u001d}b\u0479\u0002\u0461\u045fE3y_\t}\u0017u\u0012Z n\u007f27a\nEm6\u0012\u01075\u00142\u0016ZD\u0001!5w\u0016w6t\u06c5\u007fAG=\u0015JP:\u001a\u0010Q;\u001f\">25gX\u0678p\u00184\u001b2zNi))3wz9k~.\u007f/;`M\u0011!\u0712{\u0474\u000ePaWm78pz$gFc\u0006\u0785\u0007E\u000b`\u0001a',w G\u0013>(\u0012\u0002\u06ecvM\u000e_Akl^v\u000bf\r^Z\r\u0015\u0010\u069d\u0014]\u0013x#W\u0010zK\u05ce+p0\u0019% \u001b+HX&<\u0006Bv%\teb\u0018l;\u007f\u001db7\u0003\u007f\u0000\u04a4-\u0012%\u0018\u0012#\\(i\u007fn\u0005cg\u000e\u03ce\u001dM\u000f{\u0003\u8a94m}3\u0010\u000e-z\u001c\u0014O\"\u0018\u00ae\u001d\tsUR*JY!\u007fZ\u001en\u0000#<\nJmvzh\u001b~6oP~[4\u0010]\u0006(ypa\b=H4W\u0004B()E0\u0015\u0005^@^'\u0000\u0010()#!Fr\u0005@Ph7%{:\u007f\u001c\u0000\u0006\u0000\b\u0016,j\u0002}+n#+orMSeokG\u000bS\u04da\u000e3\u0013? c&s\u000bQYS\tf\u001bs.]\u035fMF\u00013}C\u0004lH&\u0017x2Z\u007f\rl?\u0172<UX\u0018\u001c!\u000e<r9\u0001\u0001\u014fD\u001e\u017c;Dc8\\9w\u001amI\u0535AY\u0010k\u0018\u0006=F^\u00185\u0003X],\u030ew,\u0017\u0012m\u0016? V\u02a4&\f[\u0555u\u007f\u0015-L-iG3\u0012DCcy*$\u0014w+-\boTUG\u0012-r\u0003QCt\u04e3\u0003{z^''~dm\u05aad\u0017[\u0003~?"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468,
+    "payload": "<dc2E\u0408\u062f\u000184s;w\u001b5?4D2\u001cJ6\u0004\"\u0012\fF\u0018b9B~v3x{V6PT<l1r]\u0011{m\b\u0012]7!+\u0006i\"{EB\u001cjB/o^0\u0005JO9Xw?.uVulK5\u0019@y\u0617;\u001c:]v\u0011\u0016l\u0011d\\\u0001i\u0017\u0010tRVrj@}\u0011k+!\u0004Rjb-\r\u0001?~_\u001cDX8Q{=dq1X\u0011s`\u007f\u0011H&\u0007\u0017Y{pX\u0016\u0373\b\u0002v?*\u0229\u0000TX\u05a1"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000Ej\u0006qLm\u0017O\f\u0004o\u0116]<h|q1y>NAQW1%\u0000\u001ar\u0207u\fU\u0001@b8`S"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000e\u0011.V2\f\"RG\u0003XuKwR=q;'\u0697j\u0011c\b\u0018\u0007mi xgRN/\u000e\u06bbaFq+b!S\u000b\u0007z?]\b.V\u01c9\"r\u001f[dYwlml&9O\u0019Uj,3m[D\"\u0013?/}<E\u001c\u000b"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468,
+    "payload": "\u0017\u0003\u0003\u0001~\u001fV\t\u0011|At@eo^;\u0019\u001a\u0014:\u04e7l\u001c!\u0016\f+N:\u0010^\u0012\u0002QYwS\u0013\nY+\u0010\nX@t?CK$Y>\\\b\nd\u0000\\,^\u000e\\`-\u001d\u0016\fUY05/\u001euE05\u0015MU\u04f4ptqhr0\u88a1mXl8`;Hb=H\u0014\u001d\u026f\u07d5\u00007!\u000b|~@~\u0000\u0006o~:L?\u0001\u0005kn\u0362 36%\u0014\u0016jeG\u0757g\u07dbZ\u0004LJdk2\\Pt_q\u00da\u0006\u0005,\u0420U@xV\u000f\u0000Hp*4\u001eJ\"R\u000b|\u001f\u033b\u0014S grP\u0140\u001b\u001f\u07bfmw>i\u0001`n~P+s\u0003;M\u0002\bETC=>,#5:\u0005#/|\rf\u001bLi\u0018\u0019\u0006Ey\u0221l1\u00199\u001dm\u000f\u0010|cF;.\u00aagM9#{:Zv}>\n\\\u0018\u0010\bu|!Z\u001c'\u0003p\u0002\u0016%\u0017\u0003\u0003\u0000\u0012c\u000e\u000er>X\b7w&]\u000f\u001ah\u000e\u000bi\u001a\u000fa\u001e\u007fC$G\u02b9\u0015\u0000\u0019a]p\u0011,xkK\rn\u001d\u0005w^&u\u0237%d=6WM\u0017]\u0013\u0010\n4.H=\u001a%V\u001c'\u000b\u04382\t|\np \u0015B+-\u0017d`P\u0016~8\u0005/#T\u001cq\t\b\u0016p\u001d>H\u04cf\u000b<\t\u0007i\u0004jiv3/i_&\u0010\u0016\u06c6{\u0018a\u54be-)b\u001fu|\u00197\u0002J0@Z\u0016+%\u03e1H"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468,
+    "payload": "\u0017\u0003\u0003\u0000\u0013Jf/\u0002/0\u001f\u0628"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.123.33.186",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55468
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.123.33.186",
+    "protocol": 6,
+    "src_port": 55468,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55450,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55450,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u000b>+\u0003v24Y3\u0268`M\"a\u5de5h\u0005p'\b]Q<IrZPby%R\u001elUu\u001d>k\u0000\u05a6\u0003$0ieF\u0012\u000e6\u001d- slfo\fO\nmzf4Dw]x\u02fbw*x\u0016\u066ecj1\u0013\u0019j|\u001d;\u079a\u03d6,|(WbMhv\u0013\u0018)\u0007\u0007,-\u5e57\u0010\u001cR6\rs\u000b%]pWF>i\u001fTxY}]vg\u0291K!\u0185[U\u001eF^|3\u04f1[]h\u0004?\u0016P\u001aA\u02b4X:}\u0004r\u0475\b\u0001pT\u0588\u001dO\u001cNO~[\u0019\u0012I\u0001MJw3{$\u00c6\u0018WX\u0016hMX;-9\b0-5\u001cy\u0012uqx1,Hx\u0372/q^\u0014$\u0019\u0005\"\u04abw#QG\r\u0012\u00055(\u0014\u0015o1*wlA6\u0007qG8\u001eaS\u010a\u0002qM(CYz\u001d:\u0007;0\u02c9\u000fg\u001e_/\u001f\u00c9\u001amICY$Y\u0001.\u0004{3\buvi\u03c6g\u00174\u0731eeO\u007f\u0005Yo6\u0011Kw\u001d\u001cxsl\u0001itc-t./-]_M\"vr%]'\u0010\t=T(\u069dZb0\u0014{pX({|\fwt!56gbzVH!d:?3L*9{e\u000b'>Y\u000f\u0016m\u00019EwiVk%\u001c\u0019Y\u0002\u000fIl\u0016Z\u001ea8^8\u0006\u001f\u0018\u000e\u001fkQk2-\u007f}\u0013(oeG\u0010\u000fwJ\u001f\u028e8sY:9'9\u0019.\u0004b\u000ev\u0010\r;z\u052eQ\nR9)\u000eF.\rd\u0013dc\ue69b\u0002<HM+}9\u06fbvYiE`{\u000bF9n@|0\u0019)}g!6A:bX\u000e1`\u07ff\u0018m\u001fD Bc3Dw\u0010r,\u001fc\u077d\u001c2aL\u0005[h\u0004\u0705+,GXoA?\u0004n\f\u074ae\u0001f&/T/tr\u0007,I}b{ %z?y1\nJR_o\u000e$A{prdR\u0511q\\GLE0\r\u0778/TZ\u0004\u0017}derH{r\u0011@\u001eI\u0010\u77ab\u0011MJ\u00050\u000fV\u0003VpX]<\fM6\u00123yygY-Mg*\u0011pq\u0010\b4,]\u071cVoC`Y\u001e\u0017\u0006\u069e\b[*\u0018HM\u0003.fx?U\u0018\u001c\u00039m ]\u001c\u0002eryv\u0709j[t\u001dg\u0002VdX33!0\u001b\u0005\fBn\u0006q\u007fN+\u001f^\u026f\u0011\u0006]\u0012c\u0004\u00fatyp)r&QzQphko\u03e4]Gd\\ga\f\f4'^-cX\u0004xZ+#'\u0007\n\u0010:\u0796q=n:d )NS\u0016NV-&W\u001a\u0003O\u001ev,~&\u0017Cj\u0015K#X=\t 1\u001b'j\r\u000e\u075c\b1\u0007ZpE"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55450,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55450,
+    "dst_port": 443,
+    "payload": ",\u001b\u0006>y\u0012)\u0015x\u04ca3</=e\u0005f8zV+P\b\u0001\u04ae.\u05d6^i1\u0012jo\u0013)S9?+e/!Re;\u0017gO\u0012$C:\u0011$Og#t\u0005x\u0016\u0000\u07f7R\u017aVK3W \u051d\u0004C\u073d\u001dY\u001aq'{,l\u05c3x\u0002B\u0135^&~u\udaf0\uddb1\u0002j!zWy=uxQa,\u001a\u03bdjk&?o\u00195,s<u\u001fg9PJ2\u0542%g\u001a\u0003w1\uf5f5(\u001a*\r\u0015\u0010^mpTOO\u001dL\u00144z^dIZ:\u000e\u0018k\u00008\u0012&\u0002tufS{\r\t/\u000e@7Cpp\u06bd%~S7Q\u0002\u04c4.\u001f9!<&\\\u001eb\u0715U\u011b'ws2<h\u0441G\u000fcXhC>\u000b7?Z\u0017\u000b\u001cQ08w\t^xsa>/\u0019\u001b\u000f\u0000\r[\u0396MVv[<:\u001b[w \u00070\u0013P=\u0011.Xhg0mPRlS.:c\u00195/g\u050f+$?\u0014B0\f\"\u00ee\u0001\u0623/D<K\u007f7]\u001c\u001e\u001b'\u0007'\u0006F\u00b7\u001e\u0006,oIW}\nTFw&\u0005'Yp?\u0002*\\Bh\u0015\u0010\u00196\u0013WOr2\u0019P$]\r\u0015\u001a\u0017:0O1\u00025+q.=\b=\u000fE$=\u001a>\bT\u0007mSl9\u03b5Ic\n '0\u00006\u0007\u00120rj\u000fu\u0015s~H4rM2v\u0004IF\\MoXQ\u00180Q\t;)p+\t\u0704x\b\u0018|>/P\u000f|ZL++K\u0004\u051f*0E[t\f\u0007~UC\u0018N,\u001f& C<\u0004\u0015!\u000569\u000b\u001ca\u000bb$UWp\u001bwwH:C}\u00135'\r\u000e\u001dcjoH(Pq\u0011MW\"R\u0019\u0011X\u0010\u001fr\u001eeTd3XI\u01a8_l\u01ad2fl\u0002aU(`> DlmV\u0007\u0005\u0003\\mdEP5sGT\u001a`(\u0004\u000bp--@\u0001K'\u0003vP\u001a\u01bfMd2JF\u001fB\u0013\u0017&Z. Z\u0475a2\u0010MZ\u00000e?\"I`yU&)Z\u01cd\u03cb%#R4h{ok#;zFd~lD\u000e7n\u0016B\u02aa+a\b\u0012a\u0015A1\r$\u02438<X\u000eqv-c\u0011\f\u0019\u0015\u062fgZDSOp\u0015eZu^('v!\u045dn4^\u000ffI\u07b1z4\u0002=VMBK5\u00cf&\u0331Vx \u001ea_@\u0012\fI\u05b7'PjLk3\"$ \"=NGoe\t\u0014&8u]L\u0002d}\u0014\u000eXp2sK#k-}?\u001eEFuc2\u0001@\u0016@IP\u001fTMW<W_\u007f\u0014\u5597\u0000\u001a\u0002Z4\u00011\u0002KM\u0005A\b\u0002\u0002W,p2\u07358S24)}[\u0495 KVy6+ddKpZ"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55450,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55450,
+    "dst_port": 443,
+    "payload": "\b\\mB\u0011\u00076o\u0018K\u000er^C7JO L\u02a7zb*YN%jz\u0000:/;\u0003\u0014e\u001e\u0012I\u0002\u0018\u0017\u000bjOpk}^SAX% Ur\u0002h\u0260o.G\u0007erp\u000b,;^NQh\u08e22tT( l_s\u0019\u03eaR34\u0001*^P\n\u045btQExJ9pW\u07d5S;`\u0002s\u00178=$q+6pX\t\u000f\rzyx~\u051e[O\u0013\u0014\u00044hW"
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55450
+},
+{
+    "timestamp": "2025-03-09 01:06:06",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55450
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55450
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55450,
+    "payload": "\u0017\u0003\u0003\u0001<2i\u000b'AQ\u0002,G<aO^Ke\u0011=#=q\u0011*\u0012\f\u0410\u02e6\u0001I\u001cOD8R\u0015\tsfx;&\"6: z\u0011\u0013<\\\u00072]zG@\t\u0010kZ,SLiT\u05821Xq\u0635~R\u00196\u001d!\u000e\u000b\u07738H\u0013B`X\u0005d\u06f5\u0263\u0005'@>\\fj:\u01cb\u0003helg{O\u001ak\u0011s\u0000\u001bG3.6Az'\u0001]%w\u001d\u000b\u0016.\u0017\u0010\u0012(Y\u0018\u001f(\u0401\fH&\u001f39\u033cD82)\u0003`T\u0019_Y,aB\t\u0003<"
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55450,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "20.189.173.13",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55433
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "20.189.173.13",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55433,
+    "payload": "\u0017\u0003\u0003\u0000+R\u001d\u001cIh[\u064f/3M4k\u0011nY}l\u0019\u0000QV\u0014H"
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.189.173.13",
+    "protocol": 6,
+    "src_port": 55433,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.189.173.13",
+    "protocol": 6,
+    "src_port": 55433,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0002\u000b4J\u0001R(ESs,\u0013JHD\u001by[\u02bbHv6o\u001ad3\u0007dAF\u0016d|\u007fHA\u0006/WF\u0006\u0435qvl9nyzv\\^\u018aFp{B,$PCY*\"fjk)U\u0793\u0019\u0010\u0003!^Y\u001fV\u001bQ}~F\u000e^1*ix\u0002Q9\u0015~J\\#!1\r|Yz\u0011P#7#$[\u0019b_*wl,l-h\u0004~Ew`6\u000b6\u0017bES:8\u001d!{V\u001c\u00190\u001b#\u0006lCr5\n\u0375\u0459JrE\u0010\u007fT=a6\u001e}P#\u0001)\u001b\u000e\fm\u038c\u0002]]&|N1+\u001c|el\u0010AhI_\u001dW\r\u0005\u01ee\u000e\u0013W\u0019);\u0018Qw'3\u000b\u0001M]kl\u007fY 4%\u0004KUF=c]R+Ak7aJn\fb\u0006vZ@wokn2n\u001br\ft\u0010?\u001a\u04a0{D\u0016M\u0002U:*1r\u000eQ\u001clJZ'\u0013\u0002\u0014\u0017uw\u000f\t\u001a.W\u0007lu$)A/\u0018b?\u9051=\u001f-=_!nR@1w\u000el9Hc\nQhh\u0014cuV^INPE\u000b7K\u058b\r\b{\u0010A` \f\u060a\u0012DO\u06b5\u0000\u0017($\u000f7\u04c7\u0004i-r&6}\u0010H1\u0562W/^.\fX0\u0010z\rs3H U\rv\u07b6\u03e9\u0001=\u001ek.\t"
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "20.189.173.13",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55433
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0015gh fXbbX\fvj\u000e\u0006\u001b\u0007qh\u03e6.\\'\u072c1: x\u0005]H\u0432I\"\u0019HK7U!W51h\u0019\n\u0012\\e+\bs7uDs\u0011{\u0015-\u001dA\u000e{\u0384\u0539W6VZt\u5795sq\ua121Yxp \u0013\u007f0)i6m\u000fh?_\u0334B$QW*\u000f\"fN\u0013*a,s\u001b\u0011\u0004AIOeN\u0400G5\u000bI\tUm%\u0013?W\u0004\u0770B0w]0M\uf27d\u0014\u0ad4\u0003/!\u0018Op\t*M\u0011\u001aPL\u00070.\fe\u0000\u001dRduPaVq6\r\u00ea$L'F\u0397\f*}~|=\u0006>vqb\u0011xJyDM\u00198qmk`\u0720\u001dL\u0006Z`5g#^)\b\u0010tnR\u001cK<I\"5\u001c\u031b\u0006\u0001k\u0010\u000bn\r{<9\u00173\u001b\nQ$>\fF\tHp[Q6\u050bi\u00161!R~\u001e\u055b#\u0001wQr\u0010O\u0007\nh)V\u07726gI:\u0006Y\n\u001c$J\u05ea-\u05c2!y\u0001Eq`w}GS1NY?S%nQYXs;|-MIg%\u0017nN\u07c1`\f\u0018 )df.'\rI\u0014\u0002\u007f_\u013f\u0773W\u001a-h\u001a-\u0004\u454f\u001fex\u0010c\u0003DV\u001d\u0653ko~\u001c\u001a5\u0001ff29\u001ftr\u001bDVa7g( to\\W<\u001c\u0010!\u0017?\u001e7|HGDda\\:\u0004&\u0006d,=e*_!dom\b7i\u0019>\u000b\u001bK>%Vxe\u007fo4\u001d)\u0019:\u00078\u0004,B]v\b\u0010NuC\u00042\u001c\u0014\u0010\fv\u0017`*A$\u0385'\u0019n\u0138\u0016$8eF\u001e:XWu\u0005ZKI\u0019<\u0085VLh\u000e6~\u000b\u001eEp~\t3\u0012xm)\u000f>\r\u0003\u0015f q.\u0011A\u0003&0)`\u0016\u001e\fQ\u0018\u0000\u0006\u007f\u0011\u0006+p\u0010\u06f1k4(rU\u00036u\n\u033fa !\u000e\u000byx\u0015;HOm8\u0010v\u0015xhqp\u0005%\u0010hjk3K5^\u0006/%\u022bh-\u001bB\u0004yIe80\u0005\u0004vXv){paU\u0478\u0017m!\u05f5VA\u001bAt\u0015K6~.SPD,:\u04ad!\u000bQ$\u050b\u0004q\u0336u5\u0000fGJc\u031f\u0122RNWUO\u001b.n{\u0001d\u0004}M},H\u000f`;hJ=M\u0002H#\u05c3J\u02a7z\u06bf2{\u05fb/#~\u0017!l#\u0185\u001e\u0014\u0461\u0011n\u0011\u001d!Zdb\u0001K\u0004bW-\u001cn/oSIawpv3\u007f\u0003\u001f\u0016Of#^|K50=y'FP\u001dZ\u5943\u007f_\u001b6C\u0012).!-0lQ?\u06b0gm\u0011\u0012'>\\\u001a\u04c8U"
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443,
+    "payload": "@jj:D\u0011.\u0661aq7YJG\u0005%3Jhpld5q\u0007\u0001\b12>#4\u06a63e=&&zKJ\u05f1!B\u07499%\tare\u0016jmD4F`XY\nh{sx\u001dyg\u0017\u001egK@4\u001c;\\@2\t3DYy2)\u0007\u0018vJ\u05e9S\b\u0762\\Fv/\tdRsQ\"y]\u0019#a1|^'6\b1J\u0016E\u001c\t+O\to\u00017jEAN\u0000\u0013oTYaCV\r\fftI4q\\RTGDh\u0006\u0003-Q\u0013Y\u001cZ\u007f\u0012%{\u027ab\\\u4657)\u000e\u0012C\u000f%JO)\u0007L\u0019\u00034\u0000T~H:/\\J?e/\u07e9\b\b'\u0012$tgv\u0002'Sv-/\u0016G\fC/w*\u001bJ\u0003=O]W\u0018#\u0014Z\u000b\u0006\t-\u000f!\u0011-F\u001etzl\f&vS>\u001edIGJ\u000bR]]6\u0013D,|\u000f\u0003X\u007f\u05d2\rW#Id&;\u0005\u018f\f\u0003\u001b>3`&\u0012\u0002?n+tm\u063b ED\u0017R\u01bcr\u007f\u001al\u0016?!MZrXc5%K_MA##$\f$\u024a\u0013rI\u078dcE`\u000bE\u00028H\u0004C=[V%{Q)-\u9b3b\u0012b\u0007sM[\u017e\u0005Cd:!\u000b;\u0002\u03dd\u038d\u000b}\u026e[~\u05d5\r\u0010%i[|zm*PTCPk\u0733_OZ/S\u001dr6:\u0004Af.3:\u0004GW\u0002\t8=!:[\u0018\u0001\u0018t&\u0017Fz49%\u001e\u0013\u0000[\u07801 7#<1\u0003\fXA\u001df<^\u04d8x{\u0011\u0007y8\u0784\ueadb\u04d6Bjx \u001cWD<i_a\u0010V)j CA39d\u0018\u0001x\u00187>V@\u001eRC\rJp\u0496\u017f\u0321\b%{E\u0000)i\u00e6 8r!A+S&\"\u001c;<l;\u001asPj\u036d'sh#lB\u0615:\u007f\u0007gl*\u0290^\u0000\re,ea\u0001Aa\u0007\u0011=VL5I\u0007_\u00004D(\u0011S5\u0005\u007f*8\nw\u007f\bA>\u0019e}^4EK\u0195?V.xrnHm\u0004 \u000e/\u0004:\u001b&e\u0187F`%;SfR\u0017h\nS\u0016\u007f)z\bS:\u0019~S|3z]s\u0010\u0007 @s\u0019F3\b\u000f#\u0002\u0010\\SH._\n\u001e#[\u016e\u0015L\u001crGN}\bi}\u0000*.W$[ny.,\u05eetm\u03d6]\n0lQ\t\fA\u014c\u0019s\u0007\u6348]IWE<x\u073dvUB\u001aT\u0002Z=7\u0007#k\u0012@w3\r\u0364\u0017\u0019x\u06e2\u0015X[t\u031boT#\"r-\u001bH \u001d\u001a%>V`b5\"w6$@\t\tb_p|J*3e"
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443,
+    "payload": "\u000f\u001aJf\u000f\u07643F\u001b\u013f\u0017qY\u0013\u001c\u0019\ud6df2\u063dhv/J\u0010\u0003NU.)X1U\u0000\u0002\u06c6K3\u019d\u0017\u0013x\u001a't~|\u000b6p\u07c5=U>C\u0003j>5PQ\u001f7Qy\u064eDL%;G\u06d9\u06a9rr\u06d1[\u043cg\u046c;j\u0014;@\"p\b'1\u0005%\u0019/us\b\u0002F\u0004TD+L}\u0015>$C\u0d78^\u007fWq,x\u0005a)/C\"+T%-V=\u0013J\u001f\u0003G\r\u04fak^]\u927a6Qa\u04f5h\u007fv[)C\nA5~\u001b6\u0005 Ug\u0010jKy\u00af0\"~\u0011\u0000\u000b\u007fJ\u000b.tly[R%p\u0018\u000b)kXH8 %\u000b\u0015>Q;\u0013\u0011O.\fy\u00008\u001fVW\u001ep7_Ylg\\n/I5#w;4\u007fMf4h\u0007xsE@\u0737\r9m\u0005)?cp\\\u001b \u0015h\u001eqW%\u0007\b\u0366nBV\u0007\u00a1 \u0014Ub\u001a\t$\u0003KV'F5}Y\u001a!|l\u07a5-\\Z)N7\u0018I\u0010/?\u001b)N\u0010cZWb\u0005U\u001197\u0013Z`\\\u0010'6\u001c]-bq4\n\u0141>\u051d\nh\u007fX\u0004{\u000e29WndKbqJqdc-{\u0001:\terd\u0013\n:Ny0D\u0161Ol\u0013!\u001ac$+\n\u0006\u001eh\u007f\u001c\u0019o\u13a2:\u0017K+\u0357C1I\u000f\u0457a'Tojc\u017a\u0001Iv\u00cb*}9\\\u0001V\u0194\u0177G_V6~u+\u0018\u04c5\u0010q7L(%7D\u038cOYxH\f=z\u001dac\u0263IM\u0012\u0000c\f VSOB7qe/V\u052c\u044fx\u0018ed]\u00185QN94g\"e\u0011\u001e~Fw\u001d\u0015Z+\u067e/^Kc\u007f\ud84c\uddddN\u001e\\\u000fr\"F)MD0s\u00034KVjZ\u001dw%f)+\u001aAE(c\u007f\u0004r]iB\u001e\u0017\u0007`8\u0190\rD\u0015\ue036\u001601fmWX\u001at\u0014l~Oyv5@r9U.\u0001\u0019e~RZ'?2\u001d'6\bB$6\u000e\u06a1\u000e\u0005_\u000bF'A\u001aV\u0441_>> !h\u0300\u58e7\r7\u0016|s:\"\u0249h\u0012-h[\u0631q!k\u05f4d\u0003+\u075a\u00127Nw\u000bG*)R4\u02c2)dyB\u41e3IQEtT^[O3I\u00061H\u000f\u0277(\u001e -\u001b\u0018\"txCG<S,X\u0006\u0013\u0012QP;J\u001c\u0015y\u001c\u03d8v\u0010e;;~\u83eaU^\u09eb?:O[\u000b^I\u000b,({mE?4p6sk\"$\u0013#\u0016hu\u0007=T=K*\u02d2[6\u0017\u03e8l}6B\u0015'n0pDM[9<g\u001b\u001f4\u06bdB;^%+\u001e\nv"
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443,
+    "payload": "\u0001a^\u01db\u0014\u001a#\u0016A_7\u05a1:;y\bN\bY7d0\u0015'\u048d\uea14\r8Z\u013eKlENI\u07b4{/0Qw\u0004mB\u0006xr&\u0346k[S\fA. \u0788H@\u0019$\u0001\rJ\b\u001ao-Ix\u00125D2\u000b\ue253*[>o]\u0015Dh\u04c6\"d(3\u001f\u007fXL<q\u0264\t)3?\u0001\u0016Jg\b\te\u0014\td\u0001A\u0002\u001dT$T\f\u0012bFE}9\u01d5}TY\u001fL\u000f}T]\u001d9va\u0001-\u0012w\u000ek2Q\u0003\u0010}{Q`0\u0002\u0019rTK:\fx64R\u0004)?\u064e7k\\t{<~H\u0019.\u03a2\u0017tT-\u007f\u0004?u*P.{:p_j\"\u0011kny\u0012\t\u0018\nKn\u0014|E\\f\u030f\f\u0014\u0093:G3\bq0\u0013\u0004/]~W\u000eJ\u01f7|A&DE:\f\u01ab\u0004s\u0489E`\u07ea1]LO\nW6L.[Y}T`6g[(M\u0017\u0218\"#,\u0015\u0014\u0693\u000e\u00103\u0010Qzo\tH:U\u0006w[\u0750\u0597Yhm\u07f5u\u0011\u007fbR;lf\u00124~\u041dk0\u0018jJH\u0019:=&o\u034ej\\\u0017\u0013|z v\u0007SqK\u0555\u001c\u0016;R\u0019T\u01bcvu\\7\u001168n\u0016q/H+Ql:\u0003\u001c\u0000\u0007\u0001\u0004;\u0019.\"*\u000b\u00142D/;\u001300ha\u0002N)\u001b\u03d36RPg\u0015e\u061f-s\u001fJ|X+\"MSg\u0019MhdpA\u0000SR)zj!\u0001<EPFyh\u0001`\u0016\u0424!lB$$ze)E5Z\u0017\u06b4\fl3A9\u007f\u0011\u0006-}\u011c7\nt30\u03b6\tr\u000bUYe\u0015\u001c\u07ed\u0005\u0648k\u0010m\u000f5\u0006c(V=4\u02c6\u0001\rT\f*k\u001dq\u0018!hFZ`MdZ\u0004\u0015\u0000\"[igG5Kn\u0005T\u0000Z\u0015QaP3a;\u0018-\u001d/6\u001a=t\u0011\u000e\u001e\u0003\u0011\u001e\u0019\u0005\u0784fc|JLV8\uaca1O6)\u000fG68\u0010%aGT?r0tXv,y/`J\"nZ\\\u007f[7;iQ<\u000f\fRm*.\u001c\u0587v\u4925-xN@9\u0010\u001a\u00f4|qcET>\u001e0G(VnxP\u0014\u06d9\u03cb:\u0295JP\n\u0007.\u000f*\u0004\u056e$\u001b\u0013\u0018L|f\u0011HTXg\u0698ZBu\nZ\u001d\u02c4+KG!ZW\u0002\u0017I~tj&kh\u0006o-pwk\u0011\u0004[\u0002O@\u0007\u001f1\u0007\f\u0002Ju\u007f:\u06bf\f/\u0621J\u00167\u0002O^\u00ab4*\u076bR7^i>"
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000\"D\u001fg \u0017\u000b\u0002\u0012mc\u07b4P\"J<f"
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000\u001fiD3\u01f8=]&C('_0'}x\u06e7yD\u037a-^{\u039ap<R(`\u0000|/QLa\u001a\u0015d~`\u0004\u0002 ~V%\u0018\u007fFI\u0006\u0749a9BQ6\u0202l\u000fcE?\u00019\u00042\u0006(\u3306\u0015m-7Q\u0012E+G&\u0617l6\\_@V\u0006\u0004ACU\u0004Lo%\u001etq~\u00068V\u0014=\"Ai\u001c4\r@*q+];q.\u049b}\u0004\u0004nW@:\u06bf\u000550+Sg\u0011~)\u000e\n^"
+},
+{
+    "timestamp": "2025-03-09 01:06:07",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726,
+    "payload": "\u0017\u0003\u0003\u0000\"ef\"]T4AImp]\u00a6"
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726,
+    "payload": "\u0017\u0003\u0003\u0001!*\u9f0eS.\r\b6\u07b8a\u0015\u000fc1>w\u000eV>]nB\"}STh\u0002WFM\u001ab +P\u0448M/Rtd\u02ad[\u00025\"@hG$DLU\u0003\u0015d\u00100$6\b\u000e\u03b7\u001e\"\u0010n:\u0011Sp,l\u0192w\u0011%\u0006\rDWo[AL\u0004\u033c\u0000*\u04df0\u0007\u001cnNH\u001cV4\u0159]s7eW\u0010hp8\u0508XXBTt\u0007[v^\b-^nN{%\u0004CRq\u0015\u06e82^_\u0010\u0016Zi>R\u0004y5\u07c2j\u0275\\\u0017=Ln\u0005\u001f?\u0013"
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726,
+    "payload": "\u0017\u0003\u0003\u0000*|\u00e2\u0005a\u0003\u001eym@\b\u0006* s\u0005\ucd91\u000f6\\O\""
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726,
+    "payload": "\u0017\u0003\u0003\u0000\u001a'\u0001s\u001f@>\f\u0478H=T\u0007g"
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.64.155.209",
+    "protocol": 6,
+    "src_port": 54726,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000\u001e|\u0002\f\u0755-h\udb1e\ude45?>\u000eo\u000f1\u001d0Q"
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "172.64.155.209",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 54726
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "1.1.1.1",
+    "protocol": 17,
+    "src_port": 61763,
+    "dst_port": 53
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "type": "DNS Request",
+    "domain": "otel.gitkraken.com."
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\r!5uc\u001fHI&t\u0010tq8\u001b[\u0015#\u0175\u000ftd\u0005!L-\u000f)(yQ\u0015jh3>TrOG6hY^\u0016\u0003e}K|E6\u001f/Lu}5\u0002\u001cWI9\rHb28a\u07bb.a'vH9\u001fAJL\u007fu>A\u0148H&}\u0005UPap\u0019c!\u04cf/\"\u0001lc8a\u0010nD#\u0701g\u01f1/iX\u0019\u0006?l>\"\u0000\"ZUK/\u0382Je;b|y\u0019Q$Sc.ZF\u0012\u076a]}h\u038b\u0002h\t\u0019b-\u0003Zh+:-\u001c#G\u0401$\u0001#\fD@\u0001\u0003\t\u0007\u6ada\u0018\u000e7#l%b@\u007fb(i#\f/~\u0019\\R9L\u0306t\u0251\r-[Pqh\bx\u0005\u0006x\u01b6^h$bA|lk{zcykl!L\u02d5>\u0543_\u01a3AMr\u000eZ0\u001akNYz!(V\u8a24#jg*Z\u0017G0Nb>r*\u9ab2<\u0003lqZ\u0421GV\t\u00164FQ|\u0003d\u0005%,.P\u0013:\u00c9\u35d3eoN3CDG\u000f]k\u038a\u001f_PM\u00062\u0002c)A?5\u001c\rzyOEx\tp=<p\u007fb\u001b9(\u0002USK\u001c\u0007Q\u001er]\u0004n\\_g\u0018<+{H+T\u0005o\u001b\t(-\u000f)p7F\u00136C\u0000vnF(J\fD-\u001b\u07eb;\u02c1Vn[\bi\u001e}33D\u0012k2\u001c`KKyKeq\u0197\u067a\u0006b\u001b/>\"='a\f\u0012\u0525)+zFmvn$\u0010k\"\u001c&y\u007fC5\u001dSRf\u00113yQ>\u070fEKVD~O>\f*f&\u001f\u013bW#\u0010*\u0017\u0629\u0544\rqK^)S9B3U\u0000\r\fL\u0006WSXQB\u0013\u04e5\u001fe\u0000\u0001\u0014\u00b7xp}\u0302d-p:9fJe\u0006/\u0004\uad81\r1YuT\u000b\u001b\u0014u\"ML\u000en\u0003\u0204NIC\u0005\u001b\u0016m\u0015\u0007 sl;iFUZz=\u0006We\u032eM6\n5\tS!\\\fL\u0013\u000f\u0016\u0018\u001eYS\u001a.!\u0000u;?!dnbK\u0001q@T\u0017lxf\u000ff!=^y}\u0019$m\u0018_JR\u0012L\u0015PIC1?\u03454VwE\u001a\u001f{$Y\u0014\u00119I\u0018V'\"l<;i\u0005\u0005~K$\u0012\u2872)'D\t_\u0016\u00048*\u001a]h\u0005p(w|nV\u0010=\u001e\u000f\u0012\bD'pt%\t\u0004G\u0010+\\;RH\u0007,E\u0010.\t\u0732|\u029b\u06f4N=>\no\u0006z\b8\u0015GW';L\u001d)J\u0017B\u0002qE\u027fQ]L\r\u00bfj1Ny%zLyjt\u0014\u000f\u0003\u00188\u0006<.n\f+\u0013>!;b\u6025c*nX?.)\u0002{@:r\u007f8\u3b99fIq?;\f/}f=\rzjB\u0012-\u0018ry!5XC\\k<m\b"
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "<\\\u066f>i@G\u0581 zOL\u001eT(\u0001J\u0359Bn\u0667jLkh\u0018`\u0005K%\u0018\u000f@?\u0005Wd\u0002p\\\\8\u00120O\u035bs}\"\u0001Yv5:\u000f%\u015e:\f\u0013|?~[\u0015\u000b\u001eO\u00047o\u001f\u000e\u0004U\u007f4\u0019\u0012\u040b\u001cl~*\u0010FP\u0001z\u0002{&\u0003k\u0015a\u000e\u001ai[p\u033dD7\u001aqf6\u0000\u04b3P\u001c6H\u001e~\by{x\u001b\u0000d\t\u0005@\u0005y!\u0007O\\e\\gE\u0002\u0013\"9S4\u0002F!&H%T\u030aT3\u027a\u0010M/ 9rybJK,MR\u00a7q[\u02a9y~X\u001b\u000bc+^\u0003,\u01de\u0018_DG\u0003ZiTp%\u001f\u001d:!V\u007fO\u001f-*}\u0004g\u0775\u0002`!Zl\u001adyp\u0015\u0565/-VN]\u0006Ybh?Ld'\u032cMx'\rbtj\u0007\b\u0014\u0010o7*\u0252a#KFL\t)j\u0007M@xp\r\u02bd=.@*$]P\u062eL\u0004\n\u001eWS,Q,Ke\u0002\u001cw\u000eLm\u001017)m\u8b2a/Q\u0016}\u001dY\u0003^h\u000f\u00ddTDr\u0011>\u0002\u0015[\u0005t\nn?0\u001a*Y\u001cZ\u00017i%\u01fb?T\u0017i\r(4K=\u053b,dJ\u0011xJ3\u0014m\u0007*)PIO\u0000M\u001fnkv\u0001R\u0011]#\u001c){S$}\u00123\u000f\u001c\u06d2\u0002nT\u00068\u0001\u001cn@\u0393?\u000fq\u000e\u0015\u1568=J\u0007YV&^\u024f\u000f'Sk3B<!7<\u78d8i\u0019@\u0016\"(e8G\u05d3!?\u058a+ pKbmS\u0569Q\u0018t%:~}\"\u0006}\u0003<+U6\u0001\u001fDec\u0000\u0015d'\byp,\u0015oD0_\u001b*\u001bl\u0377\u0014A$\u0537?s\u1390,i\u00001\u0005\u74a1m\u00167\u028c\u0000.;6_]\u079e'gf\u0000g$ '\n?w\u0127V\u0010rn_'=i|x\u0000X\u9ac3j+\fz\u0451yGg};~\u001e.ptWA\u0006I\u0002jF`/#{:/\u000e!@\"lEx\u03ec}F\u000f\n\u001d\u0444Eh?&)#fkdc/*\u0018\u0012I\u0017b\"\u0003*\r!\bt\u001bm~\u0017a9&\u0005R\u0002BC\u001bT\u001bc,#%u\u0002\u0538S\u000f/\u0002\u001ccLap\t\u0003R6%.\u001fo\u0019K\u0016\r2r\u00103uB\u001eH1zh\ffJy\n\u0005(0\u001f\u00051~*@#Ss6\u0252\u007flF\\\u007ftvA&P\u0017j\rLX\u001eC\t1\u0162<uVKiv*f<E\r\u0017NU[zA\u0005;\u04deAzZ\u001fv[FMyI\u0012$\"?\u0019M\u007f;9.Ov9nOc^bO\u001f0!$g\rL\u0004\u0004?\u0005^&\u0019\u396f.k}p\u001c\u001dQ50L\u012fuo%\u0016>Q6\n\u0013groY\u0011\u0012'"
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "}<[M$'8Ss\u0015G\u001e&Y\u007f\u001a\u0010A\u0003ksL\u0011\fG9\u0017j'\u001c^\u0467\u007f\u0002\u12efA2GJB\u0016dNG\u037b\u001c%b=i\u0002\u001a\u0014mb\n`g)z\u024f\u0000U)~ jp\u0012?X=6.\u007f4\u0014<|7\u0006_!Jr\u0011m;U<d\u07ff9b\u0007+\u0001\u061bV)}<M/\u04d2't-}u\u0018tY~)WpT\u0295e\u0150\rl\u0003YBuEGa\u000f\u0013P\\sy@\\lt@\u0018\u001e>x{\u0012\u001a\u0019\u0010HGe\u01c3^!\\h\u0004ZS\u013b+\u007fA\u0566\u78e1\u3c69&\u001dQL\bik\u00132p \u001fGq`oN\u02b9#x\u0289a\u4153`!d?W#G\u0012<\u0004\u0000)\u2faaj^u`QmF'`mZx\u0003\\<:uAo\u0334\fE\u0498U\u000fLQoqJVeh\u0512aw_\u0000v~Q\u0007oL@tq\u0018@\u0000f\u0002o\u0014,z\u0006?\u0014\t*\u001bqx.GM&"
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "1.0.0.1",
+    "protocol": 17,
+    "src_port": 61763,
+    "dst_port": 53
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "type": "DNS Request",
+    "domain": "otel.gitkraken.com."
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "1.1.1.1",
+    "destination_ip": "10.10.19.2",
+    "protocol": 17,
+    "src_port": 53,
+    "dst_port": 61763
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "type": "DNS Request",
+    "domain": "otel.gitkraken.com."
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "1.0.0.1",
+    "destination_ip": "10.10.19.2",
+    "protocol": 17,
+    "src_port": 53,
+    "dst_port": 61763
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "type": "DNS Request",
+    "domain": "otel.gitkraken.com."
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453,
+    "payload": "\u0017\u0003\u0003\u0001;\u001c\u0006\u0002+\u0016x\u00011?\u061fO\u0015\u0013r\u0014\u0005\u0013x_FX}L<w0\u000e\u001b0/\u000e,5q!EGRk}yXc?W\u04a5U10\u000e{o udf[\t63B*\u0010'mZ{\u0018bD\\WeoG\u001f\u05cb({V\u0014\bZ\u05a1\u0018F>:_\fz,Nhn\u00026zD\u007f95Y}O\u0014{rWF\u0006O9\u0018/%3)r\u0015xr\u007fM\u001b$\to\u0000_%\u0239s%\u001f[A*\u0019tp\u0016['\u0166\u0019'b|\u001e\u0017;,^{\u0019a$\u00144\u007fL\u0018\t\br{5\u0006"
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443,
+    "payload": "\u0016\u0003\u0001\u0000\u0001\u0000\u0000\u0003\u0003HH'\u0004\t\u0014\u001d|(\u0224,\u001a\u001a8^M+ ~g\u05fc\u001f\u0016\u007f[Fw^OW[5=|hR\u0000$\u0013\u0001\u0013\u0002\u0013\u0003/+0,'\u0329\u0328\t\u0013\n\u0014\u0000\u0000\u0000/\u00005\u0001\u0000\u0000\u0000\u0000\u0000\u0017\u0000\u0015\u0000\u0000\u0012otel.gitkraken.com\u0000\u0017\u0000\u0000\u0001\u0000\u0001\u0000\u0000\n\u0000\b\u0000\u0006\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000#\u0000\u0000\u0000\r\u0000\u0014\u0000\u0012\u0004\u0003\b\u0004\u0004\u0001\u0005\u0003\b\u0005\u0005\u0001\b\u0006\u0006\u0001\u0002\u0001\u00003\u0000&\u0000$\u0000\u001d\u0000 \u0624{f\u0012z2Ltc\u0005W9g\u0010l<\u001d\u0014x\u0005\u001a\u0000-\u0000\u0002\u0001\u0001\u0000+\u0000\u0005\u0004\u0003\u0004\u0003\u0003"
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470,
+    "payload": "\u0016\u0003\u0003\u0000c\u0002\u0000\u0000_\u0003\u0003'O\u000f\u0510dZ1`\bj3<F/@&\u0016]3: \ube8d=7$y\u001b8+r\u0005?3\btBm\u001e/\u0000\u0000\u0017\u0000\u0000\u0000\u0000\u0000\u000b\u0000\u0002\u0001\u0000\u0001\u0000\u0001\u0000\u0000#\u0000\u0000\u0000\u0017\u0000\u0000\u0016\u0003\u0003\u000e\u000b\u0000\u000e\u0000\u000e\u0000\u00050\u00050\u0004\u0003\u0002\u0001\u0002\u0002\u0010\u0004>X\u0010\u0012zI\u02417\\0\r\u0006\t*H\r\u0001\u0001\u000b\u0005\u00000<1\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002US1\u000f0\r\u0006\u0003U\u0004\n\u0013\u0006Amazon1\u001c0\u001a\u0006\u0003U\u0004\u0003\u0013\u0013Amazon RSA 2048 M020\u001e\u0017\r240830000000Z\u0017\r250927235959Z0\u00181\u00160\u0014\u0006\u0003U\u0004\u0003\u0013\rgitkraken.com0\u0001\"0\r\u0006\t*H\r\u0001\u0001\u0001\u0005\u0000\u0003\u0001\u000f\u00000\u0001\n\u0002\u0001\u0001\u0000z\u007f$\ra\u001egW/y\u0006G\u000f\u00186\u0018D{\u01da\u0000Zdb\u007f2jNN]\u0018\u0018Y}n\u0006\u02edrnh -6u,T]cI\u001c\u0018\bl\u0205-=\u0000X\u001em\u0000%^\u00052lQ\u001d1`7\u0001D^0\u0768x=\u001d\u0006k~R\r'\u00dc\u0005\u001e,'_L0&P_\u0001)MH\u0019U\u001db\u0006' <O(7\u066cH\u0331\u06acU\u001a]8Jx \u0017V\u0550\u0004\u001f7}iU\u00bdS*^Kd(\u0000\t1t\tmZ46m2g\u001b\u0002\u0003\u0001\u0000\u0001\u00020\u00020\u001f\u0006\u0003U\u001d#\u0004\u00180\u0016\u00141RZP\u00c2|tqz0\u001d\u0006\u0003U\u001d\u000e\u0004\u0016\u0004\u0014}\u001d\u0007\u000bXW\u00020)\u0006\u0003U\u001d\u0011\u0004\"0 \rgitkraken.com\u000f*.gitkraken.com0\u0013\u0006\u0003U\u001d \u0004\f0\n0\b\u0006\u0006g\f\u0001\u0002\u00010\u000e\u0006\u0003U\u001d\u000f\u0001\u0001\u0004\u0004\u0003\u0002\u00050\u001d\u0006\u0003U\u001d%\u0004\u00160\u0014\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0003\u0001\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0003\u00020;\u0006\u0003U\u001d\u001f\u000440200.,*http://crl.r2m02.amazontrust.com/r2m02.crl0u\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0001\u0001\u0004i0g0-\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0001!http://ocsp.r2m02.amazontrust.com06\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0002*http://crt.r2m02.amazontrust.com/r2m02.cer0\f\u0006\u0003U\u001d\u0013\u0001\u0001\u0004\u00020\u00000\u0001~\u0006\n+\u0006\u0001\u0004\u0001y\u0002\u0004\u0002\u0004\u0001n\u0004\u0001j\u0001h\u0000v\u0000\u0012N4SrL\u0006\u0019\u00cf?z\u0013bm0\u0005&:\u0000\u0000\u0001\u0000\u0000\u0004\u0003\u0000G0E\u0002 i\u0003Z\u0001HhME\u0013t=*\r\u05c5\u0018Q*o\u001d\u0002!\u0000I,% )6W+Q,uI\u0007w#\u0007tS\u0000u\u0000}Y\u001e\u0012x*{\u001cag|^\u0407\\\u0014N\u0003/\u000e.y\u0000\u0000\u0001]\u0000\u0000\u0004\u0003\u0000F0D\u0002 \t?jU\u0003!r\u001cs/\u001fy7~1\u001dU\b\u017f.\u0002 2*\u0003x\u0010*']W\u0017\u0005&*GjX\u0000w\u00001c@w\u0010A\u0006q@2\u001d\u001e7P\u0000\u0000\u0001d\u0000\u0000\u0004\u0003\u0000H0F\u0002!\u0000\u0002qelaG]<<\u0013eD>f\u000b\u001f\u00023\u0002!\u0000\u0087%\u001bO4\u035c\u0006Xf_}7\bP0\r\u0006\t*H\r\u0001\u0001\u000b\u0005\u0000\u0003\u0001\u0001\u0000Dg\u007f\u0014^;\u00023\u00074zP}@5\u0012\\T\tc\u0010\nboyNk\u0018TQ\u0014\nkluzvfN\u000bM\u0002|b\u001f\u0017iPh*{+"
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:08",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470,
+    "payload": "IXX\u001aK*b-OL\u0003p\tDiW~\u0002\u0000\u0011]C4\u5dc0-M\u06c7$s3OX\u0455\u0614yh\u0005\"\u00022 F)\u050a\u074cV&,T#\u0016oL\u0002\u0014\u0007f0jN\r.{v\u001c>m\u000b\u001ey(K7{X\u0011\u05e9\u0010\u0000\u2339\ucfe7<\u0000\u0004b0\u0004^0\u0003F\u0003\u0002\u0001\u0002\u0002\u0013\u0007s\u0012JKN\u01f5;-:\u000f0\r\u0006\t*H\r\u0001\u0001\u000b\u0005\u0000091\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002US1\u000f0\r\u0006\u0003U\u0004\n\u0013\u0006Amazon1\u00190\u0017\u0006\u0003U\u0004\u0003\u0013\u0010Amazon Root CA 10\u001e\u0017\r220823222530Z\u0017\r300823222530Z0<1\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002US1\u000f0\r\u0006\u0003U\u0004\n\u0013\u0006Amazon1\u001c0\u001a\u0006\u0003U\u0004\u0003\u0013\u0013Amazon RSA 2048 M020\u0001\"0\r\u0006\t*H\r\u0001\u0001\u0001\u0005\u0000\u0003\u0001\u000f\u00000\u0001\n\u0002\u0001\u0001\u0000C\u0018Zy)o.C.X\u0007^7J.EsXYoFryP-\u061c\u0010\u0129\u00022,t\u000b\u001bp<NWz\u00054\u0011U{e,\u0006\u01cac,h.\u007f\u0019\u0019W\t;\u000e'ZSL_9ZE\f\u0011\u001f\u0003\u0015\u001f7lR\u0452e*\u01d5NZ\bb)y\u05a4gQ8Nx)j\u0015(_'!\\\u001e_RXv\u0012#SdY\"&x>+G\u0003y8\nwe;\u0007zY\rEc\u0006\u0019[I\u0002%:#hOTs8{2\u000bj,\u0002~us\u0002\u0003\u0001\u0000\u0001\u0001Z0\u0001V0\u0012\u0006\u0003U\u001d\u0013\u0001\u0001\u0004\b0\u0006\u0001\u0001\u0002\u0001\u00000\u000e\u0006\u0003U\u001d\u000f\u0001\u0001\u0004\u0004\u0003\u0002\u00010\u001d\u0006\u0003U\u001d%\u0004\u00160\u0014\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0003\u0001\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0003\u00020\u001d\u0006\u0003U\u001d\u000e\u0004\u0016\u0004\u00141RZP\u00c2|tqz0\u001f\u0006\u0003U\u001d#\u0004\u00180\u0016\u0014\u0018\u03054\f.\bY\u01f2\u0010N\n\b0{\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0001\u0001\u0004o0m0/\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0001#http://ocsp.rootca1.amazontrust.com0:\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0002.http://crt.rootca1.amazontrust.com/rootca1.cer0?\u0006\u0003U\u001d\u001f\u00048060420.http://crl.rootca1.amazontrust.com/rootca1.crl0\u0013\u0006\u0003U\u001d \u0004\f0\n0\b\u0006\u0006g\f\u0001\u0002\u00010\r\u0006\t*H\r\u0001\u0001\u000b\u0005\u0000\u0003\u0001\u0001\u0000-N.@3~/n?K\u0011\ucdb0\u0012][Q\u0015yQj7hf\u0005)\u0003[\u0006E\u0003[u\u0017\u3c77v,\u0004\u001f'^g\u000f}\u0127@N>(w\u0541U~\u0004a46\u04d4VI4pL>,\u007f5\u001e\u0010:F(Nj,v$*b\u0013=\u04f1&\u0011f\u0013\u001b\u0007S\u0001Ho\b e\"<\u0018t\u0005m[P9Q[>j\t\u0007CR6\u026c}^4\"\u001f\u9c14U lH\u0016\u3b7ej4\b\u06085M9~\u0012ZYgZwoJ\u0004\u0000\u00040\u00040\u0003z\u0003\u0002\u0001\u0002\u0002\u0013\u0006\u007fJ*'\u00ae+\u0001\b0\r\u0006\t*H\r\u0001\u0001\u000b\u0005\u000001\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002US1\u00100\u000e\u0006\u0003U\u0004\b\u0013\u0007Arizona1\u00130\u0011\u0006\u0003U\u0004\u0007\u0013\nScottsdale1%0#\u0006\u0003U\u0004\n\u0013\u001cStarfield Technologies, Inc.1;09\u0006\u0003U\u0004\u0003\u00132Starfield Services R"
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470,
+    "payload": "oot Certificate Authority - G20\u001e\u0017\r150525120000Z\u0017\r371231010000Z091\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002US1\u000f0\r\u0006\u0003U\u0004\n\u0013\u0006Amazon1\u00190\u0017\u0006\u0003U\u0004\u0003\u0013\u0010Amazon Root CA 10\u0001\"0\r\u0006\t*H\r\u0001\u0001\u0001\u0005\u0000\u0003\u0001\u000f\u00000\u0001\n\u0002\u0001\u0001\u0000xqxqGPt}n\u05c8vhX!`t\u0001/\u0002-\u04e0CzN6\u0001H\u0007\u00176L#>7\u0019Ih\u05f9v8\u001da6JVE\u0016t\u069c59/ P\u0006lz\u0400G\u0019P8\u0007\u07229X\u0569Hg0x^oQ0fEfT\u00d1H0-}-tp5\u05c8$Yns\u00172F(C\u001d\u02b4$\u000e-Kq\\^i\u00028P8o-b\u001b\u001eTwg\u000f#?@ \u007f \u0100L>;$&\u0004l\u022a\r\u0002\u0003\u0001\u0000\u0001\u000110\u0001-0\u000f\u0006\u0003U\u001d\u0013\u0001\u0001\u0004\u00050\u0003\u0001\u00010\u000e\u0006\u0003U\u001d\u000f\u0001\u0001\u0004\u0004\u0003\u0002\u00010\u001d\u0006\u0003U\u001d\u000e\u0004\u0016\u0004\u0014\u0018\u03054\f.\bY\u01f2\u0010N\n\b0\u001f\u0006\u0003U\u001d#\u0004\u00180\u0016\u0014_\u0000\u07ea\u00010+8mJ\u00110x\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0001\u0001\u0004l0j0.\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0001\"http://ocsp.rootg2.amazontrust.com08\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0002,http://crt.rootg2.amazontrust.com/rootg2.cer0=\u0006\u0003U\u001d\u001f\u0004604020.,http://crl.rootg2.amazontrust.com/rootg2.crl0\u0011\u0006\u0003U\u001d \u0004\n0\b0\u0006\u0006\u0004U\u001d \u00000\r\u0006\t*H\r\u0001\u0001\u000b\u0005\u0000\u0003\u0001\u0001\u0000b7B\\\u0010>,\flE\u0007\u0000zX\u000b\b>%<oP5j42!HD=sm\u007f\u0016l(\u0003\u0018Gy\u0010~0[;`w\b\u001d|^{\"\u0000\t~F\u0017\u071c&W09b\u07aa\u001b>ChlW\u0016\u000e .j].Jm\u0014X91_|s\u02d0j\u0011'\u0641F~r\u0000\nR>\u0007cwi\u0017\u000f9\u04ab\bEMQ:]]7dL~0U$B6]\u0017a\u0010\u0002$\rt{E)P95%\u001e\u0014jG#1/\\\u000ebQ*4!\u0018\u0016\u0003\u0003\u0001M\f\u0000\u0001I\u0003\u0000\u0017A\u0004%T&?W?\u9c57\u000bt\u0005OZw/?Wb\u0018h\u000fAz\u001d\u0011\u0001%r\u0011!\fL.T\u04c86l\u0004\u0001\u0001\u0000ArkK\u0019\u0001@cH4FLN\u02224X\u03a5\u001c\t;4O\u0007\u000f\u001d\u0004 a\u0016Nj8W\\=\u000f5*$>&2\u001c\t\f6Y)\\\u0600_(\no-3>\u0338V\u00046(\u01a5\u001cao:N|C\u001ac\u0002\u0017A\u04c1&0Y(\u000b]_\n\u0012\u0015$>tTB,G+x1~.\u0006\u0007/\u0005q\u0005BLi\u0004\u0003\u03d9+Hb\u05ca\u0018\n4~\u0006]n\u0011k\u000b'\u0005VI$40\u0000\u0000\u0723\u0016\u0003\u0003\u0000\u0004\u000e\u0000\u0000\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443,
+    "payload": "\u0016\u0003\u0003\u0000F\u0010\u0000\u0000BA\u0004?\u0013QV;&^?_\u0002\u0003ynT\u0017m\u0015amhz$,&\u0001\u001dVu[\u0015\\\u000b\u0019/\u0005!\u0014\u0003\u0003\u0000\u0001\u0001\u0016\u0003\u0003\u0000(\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000b`Gc{j\u000b`%5vn`SX}\u001c|"
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470,
+    "payload": "\u0016\u0003\u0003\u0000\u0004\u0000\u0000\u0000\u0001Q\u0000\u0001qygm'R02_\u0585KPLo\u0018t@)R\bbT\u0014yg/>\u001et _\u0006poAY\u0166^,\u0404xu\u0017hf@,H\u0002\u0007\u000b]\u000fZWI ?#Xc\u001f|q9\u0014.!z\u03ab/WrP%\u0016\u0014\u0003\u0003\u0000\u0001\u0001\u0016\u0003\u0003\u0000(\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0015\u0015v\u0019nx35\u06654d}"
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u000bx\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001p}\"RZq\u0002z\u00188_\u0003@[\u0013\u00115# ]bA\u0017\u0011uW4\n\u0019\u001c/<98\u0003\\x\u000b8EnvD\"s4\b_\u001eU\u03ab\u0013oZ>Q\u0004r\u0007LO&UC\u00af\n\u001b@1\fapo\u0001x\u001bL-D\u00008<\u049d\u05f6Q\u0014\u001a\u00010aL[GJG<{\u00108Z)'@\u0000#GO&_\bc\u007f@nV\\]N7\u0019Pp$\tdh\rhM=x;d[m\u028bz9y1\u00031\u0006Q_8\u0003IZ\u0006\u0016!v`hi3sB\u001f\"5pK\u0001N9Z[\u007f\u0000\ty\u0006[eVE3\u0002\u0002\u0004KP2\u0000*\u001dA`\u001e\u0015\u0012$\u000eMp-qC=\u001e/Ob'Qe'5^\u0007~Y\\sF4Ee(\u0010=n{_1,\u001c\u0006,\u0014)\u0013V\r\"%\u001d\u001fhb \u00136[F\u068diu\u00108Z\u07e2\u05f6H\u0004\u01c1\u01e1h+F#\u0007Cdc\n\u0005\u000b8rq\u0018\u0011\u00de^-x\u0007r.~i\u0004\u0013\u007f>Mn\u01e2\u0010clz~\u001cM\u0019\u0011M]9c\u0001\u04c1l9.u)\u0743j\u0002\u03669#A\u059f`-iFS\u0012xj\"\u001dgv\u0011i&\r~\u56f0\r(L6\u000b\u0016wj\u000b\u039aH&^Ev~\u0000p\u0007eJ0F@S\u000b\t\u00131\u05b6\bCIJ\u0484J=9piy}\u007f\u1836Y|\ub16bY]P-)k-5\u0017A\u0001\u065cS#esF]=\u0794w#\ftV\rJJd\u000e!r(F\u0017\r1\u0003N(SwW&P\u0007c\u0012o}Ez\u0374\u0006$jv\u043dP1\u0002\u000e:\u000ew,X\"3S3_$%[b)^Cm+O\b\f\\\u038ft4Q\u0016\u001f\u04b8&r}A0\u001f\nnUD\u0000O\ufee6Upv\u0002}S\u0007\u0017|wh\b\u0003\"\r\bT\u00023JF\bLcF\u000bu\u0001\u0019\u0005d\bi7I\u0006>@\u0003}zj,:4\u000b\u007fqx\u007f19:L\u015d\u001bh #\bDye\u000b\u010151\u007f02\u000fgI -\u01e2,-&)e\u0001\u0019AU\u001e\r\u03ee\u0003\u001cwy!M@d`W&74 u\n+Zf/}oVU\u000e\u4a55tNn3\u0014~BBA^\u001cU\u001at>frr\u9dddtR\u001ck\u000f]\u0458=O\u007f\u074d;O\u001a\b>}<u\u0012b%\"q\u01bc@\u0018\u0010-Gdw[dSn$\u0006PO\u0188\n\u0017<\u0007/-\u0012SMS+\u000f4^#\u03ff*c<o gC&QWdD\u00b7\u000fx\u00075tX:\u00076;1T|-^iS\u000e\u0018\u0324F^wN8)t23$\u0005\u007fB\u00143x{VJ1\u0014s6q\u04e2m\u0018\u0010spcb\u001b`C\u0013iAF/Hyp\f0~\foMP(y\n(m\fh\u0016D"
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443,
+    "payload": "\f\u0000#2\u00a0%\u007fn\u0007\u007f\u0001 YFc\u007f\u001bGr\nl\u000fd\u01694OH\u001b\u0013?J\u0007%\u001e\u0002C\u0003\u007f\u0004\u0007\u000fA\nW)\u0003Kx'MCF\u0000TV>VH8\u000f\u0018~My.ibI5RG$-w\u042a\"\u001e\u02ad0\u0017\u0007_sD\f\\).i0>?\bn?\u0568\r<\u007f\u000f\u001cc\u0625lO\u0014J E\"\u0017\u0007>o\u0003?3a\u0000'Ta+L\u001cu[FY+\u0007bw'\u001ai+s95JQ}nfIo$i.7Sh3\fC\"\u000fzf*g\u0012\u0005|r\u02dd\u0003eAn\u0001KUj\u0019\u001e\u0000n\u0017>V\u0018#DBd\u0002G\u001aj?\u05535s\"=\u0005\r'\u01c9c\"\rW\u000b\u0001l\u001c\u0016n_i\u030c\u0019\u001e\u0013\u028e&#(\u0447YXdDK\u0002\u063f]\r\u00001Zd`q#!0330oCHr\rQ!\u0005wd2\u06c4\\(w\b/2)<rBjC=$n\u00d5\u0007!\u001cI\u0018\u0015ahIS7=[\\j\u001avfGWk]J\u0014\u001b6^\u0017MB\\BMLIXj\u0018\u001e\u060a\\^\u0006l\r\u0292\u05eb9\tbT`SUc\u0004z*v\u007fFxZm^y\u0015#Gx=\u007fw\u0010\u001fw\u0005`99\r!p\u001e#,\u0014Gk? <\u0792+ZAP^\u001cH/b$\u0005\u0004e\u0201\t\u00150U*\f\u0017R\"\u06ff\u059dS\u000f^H-v\u0015\u001e\u0017.P!,p\u001e.tL\u0004}\u044c$\u0003[\rq\u0600_ih/\tCD\"\u0015.G3\u01ddq\u0010\u01d0\u0019B\u0016H@\u0391{\r\u0010.L\u00159a\u000en(S\u00154\u00075YZ\u0018`j\u051f)\u001fa7\u03dcI[^Z\u02d0\u05b02=~w$|D3(\u000e\u0019=yq\n2g0Ll.u8&i\u001cuL6zcYKe\u012f\u03b3l\nWPHXd!c\u001a5Ma\u0018.\u0013iv\u007fTluX&\u072c\u0005VSl\u001cXPj4FM\u001aG\u007fO&)J,HH\u0010\n}\u0000<D$e\u001e0qzz\\R6{Q\rY>Y\u0305v\u015f<M\u0002@1OrQ\u0011\u0011$\u0018\u00029W'\u007f\u061buB\u001d\u0016*{S\u05e7\u001a&%$}\"jQ\u0016d&\t$\u001b'\u0255\u001b]q\u001b\u001c#'z5\u0005|\u04c8\u001bZ\u00190}vGG(+N\u001atm?r{8\u00055\u001d],\u001b9:';g*8t,72n\bX1\"5R\u001c!\u0013G(\u0018\u000fX<4rnA8'u\u000f\f\u001a&*;P!?\u001a\u8c56\u02e7?ODTSGS\u0007]/:\u001a8zFG'5\u001cTF&\u0017\u0533\u000f2<fY_\u000e\u001f{}\u0012us\u00132\u0015Dv\u0013J?g\u007f={1=\\=D\u001f1\u0013{m\u0003dL+Ntg\u0014iZ"
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443,
+    "payload": "7s(|# \u001c"
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470,
+    "payload": "\u0017\u0003\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0006JpQ\tF\u0007z\u0016ec<cSrOe8E p8\u077ay\u0007?\u0012\u0538^h+2\u0006\u0017\u0015Q\u001e\u0003\u001fua`e'\u0017\u001336y\u0014\u0018\u000538!+H[\u0018WS4^0b\u06060\u0014f6\u001b.Z`J\u001d\"sU9[E\u000f\u0007]CU^-4<7J\u001cp\u0418wP\\"
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443,
+    "payload": "\u0015\u0003\u0003\u0000\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002_\u0005\\\u0014\u000fj*#Y:\u0005>"
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "3.225.225.135",
+    "protocol": 6,
+    "src_port": 55470,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:09",
+    "source_ip": "3.225.225.135",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55470
+},
+{
+    "timestamp": "2025-03-09 01:06:10",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "185.70.42.22",
+    "protocol": 6,
+    "src_port": 55412,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:10",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "185.70.42.22",
+    "protocol": 6,
+    "src_port": 55412,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:06:10",
+    "source_ip": "185.70.42.22",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55412
+},
+{
+    "timestamp": "2025-03-09 01:06:10",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "104.18.22.55",
+    "protocol": 6,
+    "src_port": 55297,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:10",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "104.18.22.55",
+    "protocol": 6,
+    "src_port": 55297,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:06:10",
+    "source_ip": "104.18.22.55",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55297
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "1.1.1.1",
+    "protocol": 17,
+    "src_port": 49664,
+    "dst_port": 53
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "type": "DNS Request",
+    "domain": "dc.services.visualstudio.com."
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "1.0.0.1",
+    "protocol": 17,
+    "src_port": 49664,
+    "dst_port": 53
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "type": "DNS Request",
+    "domain": "dc.services.visualstudio.com."
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "1.1.1.1",
+    "destination_ip": "10.10.19.2",
+    "protocol": 17,
+    "src_port": 53,
+    "dst_port": 49664
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "type": "DNS Request",
+    "domain": "dc.services.visualstudio.com."
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "1.0.0.1",
+    "destination_ip": "10.10.19.2",
+    "protocol": 17,
+    "src_port": 53,
+    "dst_port": 49664
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "type": "DNS Request",
+    "domain": "dc.services.visualstudio.com."
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443,
+    "payload": "\u0016\u0003\u0001\u0002\u0000\u0001\u0000\u0001\u0003\u00031?o\u001cw?yd\u0019w.<D\u040cg]#C zt+t\u0004\u0483\u00035w\u001e\u0010+a\u0641\u0000$\u0013\u0001\u0013\u0002\u0013\u0003/+0,'\u0329\u0328\t\u0013\n\u0014\u0000\u0000\u0000/\u00005\u0001\u0000\u0001\u0000\u0000\u0000!\u0000\u001f\u0000\u0000\u001cdc.services.visualstudio.com\u0000\u0017\u0000\u0000\u0001\u0000\u0001\u0000\u0000\n\u0000\b\u0000\u0006\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000#\u0000\u0000\u0000\r\u0000\u0014\u0000\u0012\u0004\u0003\b\u0004\u0004\u0001\u0005\u0003\b\u0005\u0005\u0001\b\u0006\u0006\u0001\u0002\u0001\u00003\u0000&\u0000$\u0000\u001d\u0000 PphqGxm-k?\u0018?\u0005*^t\u04a8,FL\u0000-\u0000\u0002\u0001\u0001\u0000+\u0000\u0005\u0004\u0003\u0004\u0003\u0003\u0000\u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000[\u0000&\u0000 \t\u0000\u0000\u0001\u058c\u000b\u0718$Ui\u0011\u0352:|\u0006=\u04afj1~Q\u000010WMb'N\u001f1\u000fC'\u0101s\u000f<\u0000Tf\u07be7\u001bn="
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471,
+    "payload": "\u0016\u0003\u0003\u0000X\u0002\u0000\u0000T\u0003\u0003!ta\u0011\u001d\u0002\u001ee\u00a2\u0011\u0016z^\u0007\t\u02283 zt+t\u0004\u0483\u00035w\u001e\u0010+a\u0641\u0013\u0002\u0000\u0000\f\u0000+\u0000\u0002\u0003\u0004\u00003\u0000\u0002\u0000\u0018\u0014\u0003\u0003\u0000\u0001\u0001"
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443,
+    "payload": "\u0014\u0003\u0003\u0000\u0001\u0001\u0016\u0003\u0003\u0001\u0001\u0000\u0001\u0003\u00031?o\u001cw?yd\u0019w.<D\u040cg]#C zt+t\u0004\u0483\u00035w\u001e\u0010+a\u0641\u0000$\u0013\u0001\u0013\u0002\u0013\u0003/+0,'\u0329\u0328\t\u0013\n\u0014\u0000\u0000\u0000/\u00005\u0001\u0000\u00015\u0000\u0000\u0000!\u0000\u001f\u0000\u0000\u001cdc.services.visualstudio.com\u0000\u0017\u0000\u0000\u0001\u0000\u0001\u0000\u0000\n\u0000\b\u0000\u0006\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000#\u0000\u0000\u0000\r\u0000\u0014\u0000\u0012\u0004\u0003\b\u0004\u0004\u0001\u0005\u0003\b\u0005\u0005\u0001\b\u0006\u0006\u0001\u0002\u0001\u00003\u0000g\u0000e\u0000\u0018\u0000a\u0004f/\u07e7_Q\u0017\u0017\u001c*GJ\u07c1Yf>hMd\u0015\u0002cHMCb'6bN*9=8\u001cXys1k\u0013y(:\b6l 4R[\rE{v\u0000-\u0000\u0002\u0001\u0001\u0000+\u0000\u0005\u0004\u0003\u0004\u0003\u0003\u0000)\u0000[\u0000&\u0000 \t\u0000\u0000\u0001\u058c\u000b\u0718$Ui\u0011\u0352:|\u0006=\u04afj1~Q\u000010|N\u0000\u07c0'3y\\!C\u0010R\u001d\u0004APU;<l;\tR\u063b"
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471,
+    "payload": "\u0016\u0003\u0003\u0000\u0002\u0000\u0000\u0003\u0003\u0015O\u000bOK%-)~CM\u007f\"6\u0000Q zt+t\u0004\u0483\u00035w\u001e\u0010+a\u0641\u0013\u0002\u0000\u0000o\u0000+\u0000\u0002\u0003\u0004\u00003\u0000e\u0000\u0018\u0000a\u00043pjebKon\u0017^U\"Y\u03d3_n0Z\u0002\u03c9h\u0004[\u007f\u0019\\\u000e\u0002?Zibaf \u0015\u0006\u0019LR'TJte>}>\u0017\u0003\u0003\u0010sr\u000f\u0019QW[/84VlJ\fP`w3'x\b4>\"\u0019\u00191'P\u0010\u000e\u0019\u0001),\u0531nP8j[X\u0017)<},3U\u056d8\u0003m9\u00b50?\u001f\u0004h\u0010\u053fl\t\u0017\u02f2~H}\nF\u001a\nl}/{p|J\u000f/*B1`\u0006&4=\u0002vUQ\u00db/L\u07f9\u00152\u0005iw&\u001e$\u007fpbgHN\u001f\u0003aM\u000f\u0017cJ\f\u4ab9,\u0657rh`5C+:\u0000\u033dm\u0004ghp=4uhV{3w~Gdv\rK\u0015\u0015:\u001c\u0012\u000b08rk\\7\u0006\u000e\u0014\u0015Ay37C\u0014apNu\u001feG0>M\u0016;o\u001dCZ\u035b\u0013eS\u001fE\u02e5AV/\u0000t`\u0014krf1\u001e68!Q=\u000ev\uc293\tm5c6\u0012\u0262qY \u0007y\u0006d#V\u02e8\fJK\u00042\u001dt7{\u0341Td\u0005e\u0015\u0001./`\u05abqV!\u0427b\rx_\u000bL\u0006\u000fGNo\u0002ok0\u0007\u0018\u03132P@O((y6y%\u0002Kh%]pToN\u007f]&\u0006ye]2cc`\\fJ2\u001b\u0000\"\u0004d\nf)*\u0003rm$\u04a0R\u0000[n`A \u057a3\u007f\u0004\u001cT\u0010\u0019mW@wE\u0017Jh\u007fQ!x`8\u0001B[\u0014d\"`\u001c]\u0625\u023aCq}\u0142@QA\u0012]&BU!n\ua99egHjK3d]4^\u000fm\u000bewA@F,x\u0015TKI\u001bw\fcu\u05c0{\u001a\u0018\u0011O\u0015\u0010vz\u01dfTN.j\u000bO\t\u0019+'E7m#:\u000eL^&\f\u0005 \u000f\u0019\u0014\u0013xi@}\u0016#`*9D|\u000bQp81^*@\u05cf=x\u0016z#\u001aX<)Z\u001aF=dA\u0016!b\u4dc6XqZ)\u000b4\u0018h8/\u001b\u0019\u015b]>KfY\t\u0015\u0019\u000f\u0005#\\\u0000\u0006A\u000bL\t\u01ba/\u0012\u0014f8\u001cP\n}#\u000fsT\u000b \u001eJ\u0017_G\u0002S\u007f\u0018\u0720\u001a\u0010ce\u026f^&0_B57u-E[\u000b/\u001e<Ay\u00180\tD`\u0005Yd}c+n>\u001d\u001e/H\u001b7lt\u001dW/M\u001e`?X\u0002\u0001Y\u000fv\u0006\u000fIDcYO\u0011( \u0002e*z\fP\u0012a%v\be\u0015W%02CA`\f\u0018<\u013bP-\u0587oCazE,\u0010w(T<FQ\u0004L\u0010=y|\u05dck^(d\u361d\u0003>wC\u0000UK}gv\u0003WML$\u0004\u001b4\"\u007f\u06a4`\u0000C'l\u05fek\u0013"
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471,
+    "payload": "%n,z.)\u000fo\u03b512;ue\u0017\u0004PoSzm^r\u0006\u0012;\u0240\u039cH-\u00148\u0014pZz\\rw[\u0653\u06e67\u0019\u018f.D\u0011rwGw`2-\f\u0016N-\tJ\u00112\u0435\r\u0010l\\l)P\u06e0G\u007f\u0003.j6>jg\nrXL@y\u001dmMUv^0c`0\"'\u001bV*8\u05ed2\\\u01cc\u000e.\"dg\u0012x\u0006\u0007\u0006/D\u02942\u03c7b(HH3\u007fy.\u0012\b\u0462\u001d.D`\u0526cP\u007f1u:\u0001\u000fQg*f\bNT-Kl0i`A\u0010\u000bhiN\u001d\u020dj\u0509 N[a-\u0012\u0096)-o8H\u0007M\u000531@<!xEWH\u0118,41\u0000T\rI(\u001f\u0002'\u00bd\u0310j&/2t\u0018N\u001cF\r&esEYv0$\u0732,[4\u000e\u0011\u000b\u0018\u0014\u07dfvF%\u000f\u00df\u0015y3|\u0002\u001e\u0007\u0017(\u001a#/C\fl\u04c6\u00013w`\f\u0018^\u042dS_^{]V*O\u0014H\u03e3E\u0005\ro\u0002\t]W\u000f=\u0003l\u001f<\u0013nC\u0006\u0019-\"\u001fm[\u0004LP\u0014VL&$Dh\u001d/\u0017b\u0014=d\u000b&tb\"M3)MC\u0010AH\u0001z!<X\u06fc{;\u0014XCAB\u0019:8TNy7\u0000ydRT\u0010\u07a2w%mT#\u0003\u0007\u0003\u0007'\u0540ik_qWG\\%>>)\u0241\u009f\u001bnwC<\u007f{V{\u000fph~\f x\u001dGW~G\u0001M\u0004S\u0014(I\u000b\u001bu}-|{\u0013bQ\u9201j\u0002a~e\u0012j\u001dbs\tiC\u0698h`&tN7$(\u001eX0{tHEy7zU\\\u0017O\u0017_r2sWDt\u001d\u0000\u0086%\u001a\u0014&_t=RVvD$\u001fYS\u0003ne$E\\\u0018;;\u0004\u0004P\u008a!^\"be,;qY\u0010?/6\u00117vU\u0017uX)\u0014?\u0019B,`?lxq;},\"w*\u0004\u0016b\u0016\"S\nK\u0015'\u0007\u028d)A$\u0126Y\r\u0007/V?G4\u001cu\u0005\u001eQ\"7e\u001d0S`\f^<Z\u0144}\t#<SM\u0001*\r\u000bz\u0710&\tm\fi~1t$\u0013\u07e0P\u0018`\u0011kp,i+f>r\u0004%eAR\f-\u001dO<kp;\u0004\u000e\u02e5\th\u001dW6\nw72\u000fEmZZ*Hn[\u0019\u05f3{bO}\u06c4{y:t\t`Jb){F\t \u074d\u001eP\u043ee0g\r\u0005\u2c43Vo{{\u030dL\nu;\u0007)z\u0002\u0017t'\u01e1N!y\u0013h:4?/^\u001dn\u02b3~\u001d2><\u0010~\u000bB\u001e\u0007\u05566\u0275\n\u0015\u0013G=v\u0014@ab^\u0010G@pOuwc\r:e\u0595y\u0010Wxo\u007f^\u0000R<m\u0013ruKy\u0018\u0013\u0012C2f\u0337\u0012\u0011e\u00d6Y*\u001d\u1862\u03a5#@\ue220^\u001aWgMhs"
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471
+},
+{
+    "timestamp": "2025-03-09 01:06:11",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471,
+    "payload": "\u000b \u03ce;\u0000x%iJY,[BEu\u00dbao(\u0013p~\u0002Hn)K61\u0016q\u0455\n|\u3d7c#;$FEN\f1-pa\u0002x\n+\f\u001a\u729e1\u0000_-8\u0012\u0014\u001d*\f8\u0019)fVW\u0003w\u001fD\u0015\u0007\u068d\u0744&&`TV\u0014h\u0016l\u02a7F2SRq\u001a\u0019BCeC\u0015'$vH\u0019~{y\u0715/5\u06a6_l`'['\u0138sNXTM#]HN(\u0019\u007ff\u03cb~\u000e\u0014\u0015\u007fu*\u0012E,B\u0017at3a&7&>\u0001+'\u0004\u00000\u0788azq\u00168Z\u0633\u0014 iv\b\u001fl\"t0\u04f1u\u0004?Ih{\u0330,bt&p@\u0018\n\u0018\u03f6W\u0016\u001f\u001cj\u0002 \u0015\u001fN\u0010,Vl\u0232LY.\n)\"g\u00063\u0011\u000fqS~%6PFT\u0003oUm4$\u00074\u0002^GQB\u0014N$]nD7:\u0016\u0015\u0012kzE'$\u0005\u00189\u0013\u000e=;iq\u0014\u000e\t\u0016X\u001eJs\u00fdk:\u0012h\u0013\bm6}+WmP\u007f]y\u0017\u0197'\u05ed\u0014Zb!c|\u001f1}7*2K{\u0013fZ\u0018q/ru\u001fZoc\u0019\u05037?\u000bFHo\u000f\u0649i?d?:sUq\u0012K!\u0003+$\u001csb&ygz\u0720J\u0000tq\rU[h$J\u02edE|\u0018h:\u000eavY-f\u000f5\rTh#\u0006\u0017B1 \u0017uz$\r83\u0019\u03cf]Z.I\u0386#R\f\u0001\u001c\u0014~}Oi\u0003g\u0006M\u0162R\rx[I\u0006\u001eC>\u0011L=\u0018(WM\u0004p<Mp\u000e4\u0015BvBd\u00a8ziL?m0[\u0010D @i0\f\u0012'CAH\u037f=5Pj=y\u0242:^^to\r6Z0!,\u047b\u0007NMejP\u07f6k\u02a1.Ri\u000f7b%,\u007fobY]K\u0006}k\u6f592\\N1Jw\"\u0000YMVl8F\u0015\u0007\u001b@\u06f5{;\u0001\n\u000fU\u000bS\u0000,\u04b0\u04ca-w!/#B\u0007z+08\u02e4b\u001dB&q\u0004=\u0001fe\u001c\u000b\u001ax&`\u001a\u0015\u0012\u00065k)\u0003yU-wtd-(\u0003\u0006\u034cLm<3\u058blK\u041a6{J\u0013\u000e]/iL$O.mSe\u0004m%K+#\u000f \u0017s`xLqt>%kzjx\t>L\u0003\u0012\u0011v\\C\u01ddII$\u001fU\u0006m\\\u0012c\u0017\u0456tF@a!\u0010\u001c\u001am\u001bw~!\u5663Sa:\u000b@b\n\u00138\u001dmP(bNCM1D\u0014|\u0006~y\u0001[co \t\u001ay|S<Z\u001f^A\u0007z\u0000j;6T\u068b6Gq_FS5\u039f\u0176N?'vdDncMD_\u0017\u001cB6[\u001cg~|/\u0001:IfdM\fjc\u001fT\u0095\u0010)\u8231pO`\u000b?\f\u0006\u001e:\\y\u000b\u00151,Ya0\u0004=%\u0012)EXPf\u0016W)\u0701\u03d6_.a\b\u0683\u001b~A+O\u001b0W\u0005S"
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471,
+    "payload": "\u0010VZ\u001cGSP$zc\u079aPV"
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000E\u0010&\u0005S\u033a\u0000\u077d~#\u0019?\t#\u0003a^\u014a{3h\njNj@SI\u00023\u000bO^\u0005C{\u04228\u0017\u0003\u0003\u0002,\u03f8;\u048a(\u0004\u000bhg+K~@4y{\fQar\u001c;\u000b)`*\u0000&Hd>U<JYbqBzb\b\u01b7\uf5b6%*N5yQL`Br9\u0006#t\u0006`'x2\u07bfF\u00021e/\u0257('&\u0012Rv\u0011n\u0011W}\u0003QLe\u0016?c\b\nq\u062d\u0010\u037bB\u0015`\u0005\u0010@\u0013\"\u0472[MT+\uf338quyJ\u001e<\b'*yW=\u0007d;k?kIv6oeM:<.*~\u0006\u00104B4~[}:%\rv,\u0019\b7Jr\u001d\u000eb5\u000b}\u0011\u001d~1^Z\bBMa@](K+Lp =\u000b\u0013G!\u000eoY:4,<\u0019\u001e7'@RPbKVS\u0004\u04ef\u0010E\u0012\u0013;\u062doH\u00151X\u02bc\u0019|0\u0012\u06edX~4\u0003\u03fdm!djN%r]o\u001b__\\DA=\u0012N\u0004j7=\">\u001ftQ\u0007\u0007\u0005\u001c/AJ<a\u001bf!f\u0000H\u0013D\u023eFiE\u0017`xJ\f8zA\bZ\u4a65/\ud017S\u00199n_,q23Q\u000e\t\u001eJHB\b\udbca\ude04\u0003"
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471,
+    "payload": "\u0017\u0003\u0003\u0000b\u0000\u0018\nM\u0014S|><1\u000bY\u000e\u0014x?3z:\u0003vk+&s\ncwC<\u0005DOaq\u0003V{L\u0005\n\u001f\u001d>VF\u001d\u0005bR,8\u000bAiFs"
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471,
+    "payload": "\u0017\u0003\u0003\u0001\u0144i)7p\tUX\u06aa\u000f?z\u0006\u0013%R6\u000e\n\u0002xvC'#(.P!z[\u02e1(@9(}J\u0004E8N}aq\u001f\u001c\u0003j+p;\u0019Z\u0002l\u0726|\u02fdBD+C<1\u0003[\u000bLKK9P\u0082\u0018\u0002\u0005z`Qpl=4@_\u0501\u0012f#KH!1Z_\u00123[\u0005\u04d0z$K\u001d\u0017o\u001a7s9jg\f\u037d\rzt\u0001[Y\u0001p>dIIF\u001aHp1S\u013frmo?L$.&\u0003:\u0000\nOGq\u001e\t/N\\H\bK\n\u0007\u0016Ki\u001f:\u0013\u001a\b_B\u007fb\u007fl\u0002Z\u0001F5\bzi6{\\\f(p\rT6z\u0010\u0014]$Q;\nqW\\\u0011&\u000f\u0005\u050bb\u001ar\u001a\u001d\u0019%QU5E\u01ccv\u0019"
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471,
+    "payload": "\u0017\u0003\u0003\u0000\u0016,< eGV]c\u020e"
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000\u0013u\u0019ls~k\nJK"
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55471,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55471
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "140.82.113.26",
+    "protocol": 6,
+    "src_port": 55411,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "140.82.113.26",
+    "protocol": 6,
+    "src_port": 55411,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:06:12",
+    "source_ip": "140.82.113.26",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55411
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443,
+    "payload": "\u0016\u0003\u0001\u0002\u0000\u0001\u0000\u0001\u0003\u0003ivn6bm\f8\u0010(qu2[\u0016\u001aA \u0612\u0016\u0013'kT\u001e1OVZ\u001d&\u001d\r\u0017\u0000$\u0013\u0001\u0013\u0002\u0013\u0003/+0,'\u0329\u0328\t\u0013\n\u0014\u0000\u0000\u0000/\u00005\u0001\u0000\u0001\u0000\u0000\u0000!\u0000\u001f\u0000\u0000\u001cdc.services.visualstudio.com\u0000\u0017\u0000\u0000\u0001\u0000\u0001\u0000\u0000\n\u0000\b\u0000\u0006\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000#\u0000\u0000\u0000\r\u0000\u0014\u0000\u0012\u0004\u0003\b\u0004\u0004\u0001\u0005\u0003\b\u0005\u0005\u0001\b\u0006\u0006\u0001\u0002\u0001\u00003\u0000&\u0000$\u0000\u001d\u0000 I\u001bE\u0000Jd\u0007l\t1.lgUR_\u0000-\u0000\u0002\u0001\u0001\u0000+\u0000\u0005\u0004\u0003\u0004\u0003\u0003\u0000\u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\u0000[\u0000&\u0000 \u0013\u0000\u0000+TTapj*\u001cp87\n\u001f\u0017y\u0343\u000010\u0006KZ>3=\u0007\f\u03d9B=@X=\u007fH\u0006\u076cwu"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472,
+    "payload": "\u0016\u0003\u0003\u0000X\u0002\u0000\u0000T\u0003\u0003!ta\u0011\u001d\u0002\u001ee\u00a2\u0011\u0016z^\u0007\t\u02283 \u0612\u0016\u0013'kT\u001e1OVZ\u001d&\u001d\r\u0017\u0013\u0002\u0000\u0000\f\u0000+\u0000\u0002\u0003\u0004\u00003\u0000\u0002\u0000\u0018\u0014\u0003\u0003\u0000\u0001\u0001"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443,
+    "payload": "\u0014\u0003\u0003\u0000\u0001\u0001\u0016\u0003\u0003\u0001\u0001\u0000\u0001\u0003\u0003ivn6bm\f8\u0010(qu2[\u0016\u001aA \u0612\u0016\u0013'kT\u001e1OVZ\u001d&\u001d\r\u0017\u0000$\u0013\u0001\u0013\u0002\u0013\u0003/+0,'\u0329\u0328\t\u0013\n\u0014\u0000\u0000\u0000/\u00005\u0001\u0000\u00015\u0000\u0000\u0000!\u0000\u001f\u0000\u0000\u001cdc.services.visualstudio.com\u0000\u0017\u0000\u0000\u0001\u0000\u0001\u0000\u0000\n\u0000\b\u0000\u0006\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000#\u0000\u0000\u0000\r\u0000\u0014\u0000\u0012\u0004\u0003\b\u0004\u0004\u0001\u0005\u0003\b\u0005\u0005\u0001\b\u0006\u0006\u0001\u0002\u0001\u00003\u0000g\u0000e\u0000\u0018\u0000a\u0004Y[f7>i\f\u00102)6\u001b\u0013Bi<z;(9rl\u0017\f<&aR\u0012\r\u00101a%1p@mf\t\u001d/pmr\u0174)o,[9\u0000-\u0000\u0002\u0001\u0001\u0000+\u0000\u0005\u0004\u0003\u0004\u0003\u0003\u0000)\u0000[\u0000&\u0000 \u0013\u0000\u0000+TTapj*\u001cp87\n\u001f\u0017y\u0343\u000010)c \\_NE8Rk*B\nyV\u00156s\u001d(IJm\u0010'\u001a\u001d"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472,
+    "payload": "\u0016\u0003\u0003\u0000\u0002\u0000\u0000\u0003\u0003e q \u05b2|c\u0006mroFY$\u0018\u001e\u0108 \u0612\u0016\u0013'kT\u001e1OVZ\u001d&\u001d\r\u0017\u0013\u0002\u0000\u0000o\u0000+\u0000\u0002\u0003\u0004\u00003\u0000e\u0000\u0018\u0000a\u00047r\u0011\u0006tV\u001c}Wg|k\u0003\u0005q,\ucfd9\u0598g\bpZ\u001cQ|#)j \u001eh`s\u0019\u07ac\u0742\u0396I7GiF!\u0018w7\u0017\u0003\u0003\u0010s)$5\u001d7>\u04c5le!+~#\u0012\u001803(/9\u0018\u007f87\u04f9<$\u04be0=\u001c6$5@F\u007fJA4\u0019z5\u000bu\u0000\u0005[=p\u0015\u001c)2\u0001CO\u0015p\u0014\u0005\u007f\u001dX\u05d5FtW\u55d4-)\u0016\u0010t21d\u06726W,G\u0015~\u0589\u0012,TX]BZ\u0004R/9mf\u0007\u077c~$\u062c\u0014F\u007fHNf\u0001\u001a3\u000e\b\u0013\u001eWb\nM\u001fr\u0001O}}p\u05c9Lafd[\u0012\u001ei+\u0007\u001e8^WK\br;h@\u001b6\ffi-Mpqm$[`D\r\u00144tF\u0018\u02f4LeDpN\u00154}\u0005%\u00181\u0519n\nf\u0005\\v8\u04f2y?(*\u0019\u0012{E0s)4 EtR'\u0003\u0015Zh\u03b8p\u00196&M)o6A,>\u00153 -O\u0019Z_L\u000fGCW\u0017\u0001\u0011\u0012S\u0006hU\u0013#[\u4a60\u0001\u0445\u0019[\u032dOx{2vi3Q}\u0014\u03eeeQ\u0019@\u0002i\u0004\u000b\u0439e%fyqy0\u0004Oxh7+\u0006\u000e;@a\u020c\f{aQpZ\u0010iu\u0006/l:HsM_&3 VK\u0014#i)\u0148-\u0657\u001fG\u0013Ii+n62tQbPA\u007f#+\u0004*WRvWs(A8l\u0003e__2\u0013\u0002$w\u00034m\u0007j,*f\u001b\u001c\u0005Nd-BKb\u000b\rR4.@)\tK)A\u000eCb\u007fT+3\u0003b]8\u079d= l\u001b2CVp6g9QL\u000b\u0012Ah$v 8&}\nKp/]\u001a0X`\f\u001d\u007f1r\u007f\u001ez\u04c0nu:\u001ct\u0002\\7%\u0001~|iL&<\t@a\u0014qF\u0001\u001b\udac2\udd0b\u0005g.\f?z+.WOxnX\u001e.1%\u0005#o<Dxg\u0467\u001a]xaXPx9\tRD&\u0018Xnv\f\u007f}%\r\u0015sg\u0013+W\u0006\f\u6aa8EA|\u000bb\u000ey\u0004D\nH\u0f3bQ*>(]\u0002\u0001\u0019\u001e\t\\`_K\u0691jJ@C/2!\u0005d9%TI0/\u0018PMi\u17170\u0001jR\u02adBOib\u001flw0x<`!P~\u0015\u07a3\u0001}\u0014D\bIbBp?\u0017}<\u0017@B\u7480rQM\u001f\u0017D~nB\uf71a\u00125\u0019\u001a\u04e32H98\u0002\u0002-^P\u07ad\u0016\u0003Z%<@\u0408\\.7\u000bkVhw\u000fT&aB/\u060b/z$\u007fRX\u0015x\u0677\u0017\u07f1n\u0000S\u0014ITzkB\u000eNGNB>hD\u01f5\u0625t*p^"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472,
+    "payload": "m\u0010ridF\u056e.*\u001d<F-\bqz-\u001f*/D\u0007&x\"x\u00074d2gSUM(P\u0236\u0013U)\u0748,pS8!$\u0004\u0007t\u001cB_z\fo\u000f/jc6q6\fR\u0018RDL\u01ed\u0007\u0013HJv-V\u0004Z~)q\u03cb\u05e8\tI[;fqUm?$\u0013v/b\u04d3qv\u0012NmOQ\beeVNEw-\u0018mz\u000b# %m\u001d%{|\u0000&:\u0013\nV\u000bM1bk\u0018,\u067e\u000e\u0013`\u000e.\u0000k\u001b'9\u000b\nl\u07b4\u0007$y.\tf\u000b\u008e\u052bsR\u048e5\u0006,fB\u0012\f\u007fm@@{7`*I' \u000bOk:6N >!\u0018w\u001dH:V?\u001dGBffvD~5Re\u0019C/Id\u0019\u0004j\u07c2\u0000$^ S+/p\u000bM\u001f,t\u0015f\u0016ju%{V:s]J*G\u0006\u0016\u0007\u000fez\u046c\u0001>._\u0014V!i\u001c[\u007f\n<7\u007f{\r\u001a\u0425@`dF1;\u000e$e_\r\u001a+aFBg\u0005fd|x(M$b!$w\u0004\u0004%\u0003\u0015W4!y/>\r\u001d,SEg\u001f0\u0002\u000f\f9h}\u0014 >E\b.hR^s9ni[\u023er3\"#'\u0012\fr a:e!\u0013\nR4R\u001bFee\b#\u03c04\t\u0012\u0471\u001c\u001e\u0005'?\u0001\u001d\u001eoXI\u000bsq\u000fh\bdQ\u001cm\u0003J-/\u0001\u008e4k.\u00132z#h\u001bR>uM+\u001cH\u000f\u001fr\u0017?&Q6ko=A(_\\a\u0015\u0002l)eHc;\u0017g&7 y\u0014d\u0006\u0007Tz]S[T 7Qjf%\u07c4N\u01baEJqn5u\u0002Z2h\u0015i\u0005y@tVbJu\n2\u0018gD\u0006\u000f\u0019+\u000b|Xol\u02a4\u0003_8u\u0014]6\u00df\u0002\u0018c\u0002u\u075fc}\u044d\u0001\u0003u97+\u0014\u0010(dIz\u001fD gS7\u0016Y\u001cweM\u0262j\u051b\u0001R(\u001c<\u007f\u0006\u0003P\u007f\u000b\u000f\t\u0010\\T3\u072e\u0006\u0015\\Ns\u00ae$~rZ\u0015>A;x\u0007]\u0621\u056b\u001f\u000f9\u0010\ubb26A\u001a()\u001f3%B\u001e\u0000x\bn\u0005\f,\"\u0016\u0005{\u02eb\u001f\u0004n#(2M\u0004\u072f#g\u001f\u0016Y\rOP\u007fI\u0018\u0013*\u0795'\u04a6\u0011<v?C\u001cjd\u0011[|\u0484d\u001d\u07aaTme-=\u0014_81\u029e\u0010P>Tt1dLf{be\u001e g +o\"9j\u036f!imyz\tJzg\u0168^:\u0004\u0004\u0087R\u0780E\u00b4k+-\u0005\t\u0007:^bzuKy>\u05c7.@f?ud%\u0252\u0002\u001f\t+=\n)<P\u0018\u0018+P\u0015S\u026c\u0000\u0005~-l\u001f1Ks\u01c7(pbx\u000b\u001eT\r-d\u054c\u0011(n\u0739@Yw\u0011\u001byUx\b'\n4/cNx\"[\\,3~xF4&\u000f"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472,
+    "payload": "V\ndo$\u0006$t*u\r\u007f\u0407=\u0016: e8X+zp!-pO\u000e58;$\u0004,'~\u0018b\u0011@RWG)OHu\"=T\u0013\u9834K&q\u000e;\u014bXzwo?\u0000\u0193` HW\u077b8~0\b\u000b\u001e\u031cLT+s\u0016ZTslSC\b660ew7_l!\u0011D\u076fj0H\u0013\\a|@)o\u0577)p\u4cf9+\u05b7~E\u030c/?r\nf6)\u0013\u007fH\f2\u0457\u001eo\u03b1\u0291=\u0439p\u0013\u0018\u00009\u061f\u0016ae%\b<\u0015xc\u0018\u0018\u0011\"\u0010\u0304\u0004TnY{\nxI4>\u0011\\#\r2> J*\u0007$\u00110\tyTZ#j\u0673\u001aM\u0005<(5A0s4&j\uc761v:}\u001bja+\"SGq~NG\b\u0003AW\u000e\u001f\u0472k\u001eo\u0010_0tkrXA\u001d}\f\u0225o2md\u0011x%3NH|TF\u001d\bF\u001fn\u02f9\u001c\u01a14\n\udb5b\uddafGXF0>z\u0002\u0010u\u0013a$Ds\\g\u00e4a\r\u0000S\udb5f\ude7ab\u0011i\u0012U?*GDz\u001fN8~\u000e,4\u0000]LO\u0015)@\u000ef^\\#\u03c5\u0012Gs=Ygv\u0541\u0004\u07e9\u001e\u001f\u0595'\u00142\u000e\u0014u\"D&,\r\t(\u000bo{7c\u0019J\u0014A\u0015\u0019u&<E\u001f\u000bZ\bmX&R}\u0006FP\"\\2h?W\u00068u\u0150F\u007f%\u025bJ\u001e\u001d\r\u0018\u007ft \u2dba\u0118$;PN\u0005\\C'A~\u01c95K\u00072t\"DIq\u007f\u0010-el\u0005 \u029f?.&/BN$2<3JM\u008e;\u0015#\u001e>\u0739b\u0003\u0014HnUm#\u001b\u0018d\u000f)\u001d\u0013C#y\n\u0012bxBm<A^]heV0#T/#r[\u007foW*\u001b\u001dV&cQ\u0005@'\u0360';&*)>#m\u0005\u0018'\u04d2N\u0007F~\f'\u001apR\u03277\u00186V\u0469\u0012\u0389\t\t2\u0014|\u000b\u0018\u001d\u0006\u0018[@aczCj\u000fU##\u007f\u02f29\u001eouFLT\u0014}n\fNd\u06cfS;\u0001P%kA\u001eA\u0017I\u0014\u0003b\u007f>aKK\tx{Y>\u00163?xH\u06f0\"!\u001bGeH\npP_)N\u00004\\!\u0019G0%\tjdb-&&|g$eo V]GK\u0017Li+\u007fwxRu\u000e\u0387A.a\u0011JRsveZv$R2S3\u000b\u000f\u4a82P(I13YCm+h+A&\t\u0010\bj6\u000ecK\u0016M\u0001&a\u07d7\f\u0656\u027e4\b\u0002O\u0007oD7GA#b}^\b\fb)G\u6234&{\u0017_6\fV\u000fW.\"\u0019R\u0017.-'+\u00028\b\u05f6#Nrx\u0005(y\b]I6Nogg;a\u001d(#=l\u0013nB\u0010Yc\"$:x!G"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472,
+    "payload": "VsQM\uf0700\u072f\u0011<\u001d1="
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000EGa^d.\u67bdycy6+#\u020b\u022c|\u001f\u0018.>C5\t\\\u0019Jev53/OT0E\u06fb\u0017\u0003\u0003\u0003VU\u007f\u0016Rhw\u001dc|\u0144K\u1f6c'ASDV{\u001dzu\u007fz\u0092\u0014\u007f\u007fK\u001f\u000bD8\u0461pdl\u0004z\u00d7A|$\u0015\tU\b[Osl\u000f\u001e\u0006-[Ui\u001a\u001c\u001fvX\u00056!<\\+Ui$}\u0003\u0016\u0014@\fXWt2Sm\u000f\tc%\u0002\u0018~s\r_A\u0014\u0011gV\u04ff\ud0715\u077fS[.\u0711\u0092?Z*\u0007JO\u6502H\u033dT\u0017\u0013\u03dawH32\u001d:\f}sV3\u0453\u0001\u007f\f$>0[N6L_<`\f)\u0005c<rc\u0011hQ8wjQMf~\u000f&]\u001enQ\u0601\u02f6|p80\u007f\u0001i\u001992\"?X=}\u0345\u000bSE\u0016~`F\u0011QL\u007fG^Y\u0000jey,D}j\u001b_.p\u0001\u0012D\u05582*[2x\u000e/0$Bnd2s\r\u000fNF&\u0019 K|]\u000bV>\u008a\tl\u03ff<\u067cEgL0\u0017\u0016q6BvCCt\u001fF\ud2e6WU\u0139\u0010p>^_\u0017%\nS!41S:\u0011}YakX-Aw\u00106\u0015z&\u0351|4UGhB\u001f{TUia\u05d5\u0014\u0002\u0444P5J8?\u000b\u0018\u001b3k\u0010jf\u030aq\u0019\u0017CMQ \u000f\u066c\u001b\u0005\u0005Dh(l?=\u0016\r\u001b\rjIm8<\bo+|\u0278;-md5$\\)GcX\u07ed4\u071d9H|E2\u0015}\u001ah,S'z=3AU\u018f)\u001cb\u06f9B\u0012K\u0259F\u0356\u02c31+\u032awsP?z!<Nc?%\u0017lRQ#E\u0012\u05ec\u001brt\nXXR\u00171kwk\u007f^\u0410/T`n./\u0418p\u0011b\u0505:&w,]<)Oo\u007fVe5WF\u001dX6R\u0012\u0011\u0003M>KxKNZ*V\nd{s"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472,
+    "payload": "\u0017\u0003\u0003\u0000bxX%x6uO\u001e:\u0016Mk\\@$Z\u07b6SMz\t\u007fd?\u035cZ{b43\u000e&a9h$\u001c\u0018\u0003R\u0010\u0633]R``-4v`s"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472,
+    "payload": "\u0017\u0003\u0003\u0001Xo\u0003!\u0006a0Jt(\u001b%\u001e\"S*\u0006rGL\u1d06TS{\u0014Vn~\u050fe\u059fX>Gro~X&*Z\u0002m.Y\u0011R$=oWKf4&\u0587S\u0352&\u0000\u001e.\u001fS\u0017avJu\u001cr\u000bg7m\u0006Ah+\n9\u0005S(\u0345rQbwo7\u001dVF\u0588G\u0520v5J p\b\u060d%3=~\u000b#eC`\u0007\u000f?I1;r\t \u00177$}yN`E\u0015|\n{wA_\rz\u0018H\u0001.QK?nI\r\u0676*&z`GR#trTwIqSgmOg\u0019z: \u05ccu\n`N\u001d\u007fZE2\u0338"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472,
+    "payload": "\u0017\u0003\u0003\u0000\u0016!]Ssr,\u0005{A\u0004FuF"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000\u0013{y\u0392\u0424J,\u0011K\u01b9"
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.166.40.66",
+    "protocol": 6,
+    "src_port": 55472,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:13",
+    "source_ip": "20.166.40.66",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55472
+},
+{
+    "timestamp": "2025-03-09 01:06:16",
+    "source_ip": "20.189.173.13",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55433
+},
+{
+    "timestamp": "2025-03-09 01:06:16",
+    "source_ip": "20.189.173.13",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55433,
+    "payload": "\u0017\u0003\u0003\u0000\u001e\u0014lYeO\u001a\u029bLW6\n\u007f%{+\\\u001c\u0003"
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "20.189.173.13",
+    "protocol": 6,
+    "src_port": 55433,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0015R\u044bW\u001d8\n\u0005cIJ\u00054Jp5,L;CH\u0006P\u06cd8)\u0085@s\b\u0016\u0453z\u0005e\u0015i8'~v*,}p#?k'\u0018g0u\u007f#\u001e[wx\u0016\u007fzyo7\u0015|8\u000e\u0005%l\u03a5Ij\u0002F\u0141!W%@:\u07a0k\u069b\"\u001f\u0016=\u02a0)\u0017 ^\u0000p:Q\u001bZ0IO\u0713\u001d\u000b\u0006\u0011M:s\u000b+\u001bR2-g\u0006O}~\f)\u0000gwhbBxNC\u027f\u0018dLGT\u052dL\\v*2Q\u000b& #ezI_6Grv\n;CjSQ\u00030V-ip2\u0012!\u05b9=B&s\u0006yr\\O\t@+KXd\u042emX\r7c\u0001ah\u2ebeJ43\u0004q\u0004ujd\u01ad\u007fZ\bh9R=/zD\u001fk=dk\\shJ\u07e4FP}\u0015t/\u0000!\u0017+m4\f\u0012\u0012>kL,\u02ebhn\u0003P\bNuPUK@v\u07dc3\u007fqU\u02c3tE(4&Fq\u0011/\u001a\u520dx6}i:-3\u031fz\u0003%\u001f\u000f=P\u0000E!WB\u0004%c\u0013]Qb#F6lU0\u02b7\u000b>\\E:7\u001c\u0001&\u0322Z\u0011y\u01c3z\u0262a(C,1=\u0006\u000f$\u0019b@|kh$\u0005@\u001aL#W517-t[\u0012\u0003Ev\tX9\u0002@Z\u7a0b#\u0007\u05dep<\u001dK)\r\u0011(~$~VN\u001bjj\u0015\u001c\u0007).\u0019(=5a'2\u001a~L`\u0005x|K\fT\u0003an\u0190>=\u0011'I^ `>LB\u06dbddG\u011dR@M:% }MA\u03cc4\u0013\u06bci\u0019\u0002\ua55e=+bM?Ux]dedex4?U\u0000?\u061e7\tLPBF< \u0014\u0542\u000eG|rGPh:\u007f9\b[Y\fgE\u0003MW?\u0015gZ\u0013{\u0015\u001e=*U\"*\u001f\u920f\u0013=q\\+n\u000b~\u001eW\u05eeYy\u001bSv{l\"{<\u075de\u6073\u0014\u000fU\u0017\u055bMqVM\u0002\u0013\u0000\u000eh~,\u0002\u0013Pw\u0018qVpW\u0cf0\"\u0477\u0010@Q2:mr5p1\u000f\u078f!]4`v\u0007!\u0004RbPEYU,Y.\u0001dfD%1CH\u0007Rp)5\\9OwdT\u000f2\u0012'x%8;\u0000uYU[c5r\u0016\u00024@\u0019\u0019\u001dS`\u0005\u0003s7O]|CS\u0391\ub36d\u001ej{b\u0001N\u000fC\u000fmj:\u001a\u001b['\u007feo\u05bc\u07c9\u000b-BEO\u0486\u0019\u0006|JDXN\u00030ksFs\u00125\r4vl[\u0252zzS\u0463y7X,o}\u0014lv#=XNBHHN\u0016H\u0012f+Cl\u001ear6 \u0001@TWLBy\u0004Pt&<\r]\t[T\u0003V\u0012\u000eMa\u00067\u0007"
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "<\u0001q5 ;y\"3=-j\u00145\u0001<6v\u0424:Z\u041c\u672e`\u0017O)\u0002\u000e,p\u001afk\f\u00193p$=\u001cHGQf{\"\u02994@B\u0012ixC>k\u0005Z?']\"\u00c5v\u04aablk\u00a3a\u0013-'Z#Q\u0012X_\u001c[\u0668\u00131rOH;: \u07be\u001bfy.JIQN&Zx[T*KD\u04e5H\u0019G+kn\u0018*\u0015\u001dz/N\u000fN[rd\u001b\u0110mL\u001cU\tM\u044b~W\u0001\u0014\u04adfIM<\u060eP\\HH\u0010\u0004I\u0004>\u001en4`('Yn^l\u0003\u00102\u0010\u0012|>Ye\\\u0000,+k\u0017\u0014\n\u0000\nvI\u0614]\f+\u0002\u0003\u001d-t!\"\u0013M\u00193kU,e!hd~\u0186\u0356m\u0140\u076b{\u07d3m[\tL\u0017\u000e\u001d\u0015\u000e\u0006v*/2\u0010cj\u02f5IP\u001e\u000b^\u03bdB=\"\u0015\u0005,&-f\u000f%2$k6czc\u0016OfbkHF\u0010?\u0005g\u0018\u000fU\u0016\u0010&1\b\u0019\r#\u0018J$APZ&;\u0000)\u063c\u0010\"u\nY^51da>v\u0005Vv\",\u0012\u052a=}[R\b_hF0&_B\u0015JQ73\u001e)|,9rv\u001d\u0010\u001f!\u000e4'\u00172\u000f=\u0011\u0001\bo:bn2QP\u0000)6O*\u0002+w\u0011C$|0\u000e\u0005A\u0013 @6\u0788tCAD\u0555>7H}%p(X\u0004zqtg\u0012T\u0005Mp\u001c<z:^=tU\u0011{hS\u0015\u0006\u0004AqW:!0\u001as0@\u001cBssI\u0018W/h\u0017|2m\tv\u001d<Hg\u012c\t~@s\u001c\u0004<A\u000f\u001e\u0769\u0019\u2515\u000094}WT$\u0004\u02dd'm\\\u0016t\u001e\u0010(\u0005zm\u0018L%\u0002\u0006\u0708\u001f\u001f'ht\ube31v*B6\u0771a~V\u001e\u051etf^\f{|\u0013+D0(\\\u0007:QCbaWocZ\u078e\u0017p\u01fe(W\u01ad\rU#\u00fc\u001c\u001b\u000fJ_!\faBt\u001a\u0005Rt%\u001d)\u0279_\u07ceN\u0014\u0016y;@\u0011\u0003\rmvBG+Uw\u0012\u00133B33(a{o\u0016q.\u007f\ff\u0780\bX?\b#~lIe<a\u0014`-\u00169P\t\u5105_lv\u00197zM}\u0004\u0003z\u0015etjpm\u034c\njUebVC\u0012\rB2m\b\u0002>\u0005Z]j\u0013\u001a~\u001ejWc\u0018wl\u0012^\f?\u000f\u05e0\f5sH[t{kBc^\u007f\u001d4\u054eG%\u0005zR\u0005\tX(z\"@|\u0002?Gr&\u0018\u0003z\u0018v\u001a\u0010\u03951-vB\\i\u001fCLZ\u001b9yD6/eC*\nr\u001c;\u01eas\u0014}%S\u0017tDM\u0004Mns\u0013,\u0001Oa\fxYu\u0005sH\r\ud7e9\u0010>"
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "7=\u0609\u009eB]#\u03afd#H\u0012~`\u0011DP<qo-\u0001E\u0006\u016d\u0010\u000f\u0017K0\u001c^]ZNI2\u0013\u0019\u0010O)m\u064b4\u00884!\u00866O\u00025\n\u8714'o\u0016\u0004.nh\u001c\u0003d^WW\u06aao7\u0001E uxi\u001eW\rG-'H\u0003`Vrl\u000b\u0016,\rs]K @\t\u001b\u0010,{Wd\u0511i\u00193qp\u0012/\u0017N, \u007fYx\"a\u0019\u0002\u0006s?jn.,~X\u0003\u0015GtAs\u031d<\u000e6D\u0275\u0019J\u0001@e:\"8\u000e/O\u000eoa\nLK\u0002u+\u0011IZUE\u001c2~'gR/\ncEg\u001a%\u0013\f\u0016v\rcE\u0014]Cf\u0012\u010fV\u07ef\\T^;D\u02b2V\u0002\u07c1:\u0000Z.i\u0011e\tx)\u040a\u007fy#@\b\ffNa\u001fV\\o9>\u0011LwA`C|G\u0003*^}?S\u000e\r\"\u001aY\fBX9\u001a}e\f\u0014/&y0\u000eoBl\u0018 []T?E,Dr4\u007fqx#!:\u001f$?!>\n./.\u001fP}Jc\u0012i\u0004W*\u0000R\u019b\u0430C\uaad0\u0005\ngH\u0751 \u05fdN=\n\u02cb\u0288\u0010(*\u0001~Wsr\u001agY\u0768$ ;;n%\u0001s0\u0003+~\u001e?\u0630\u0004=\u01dd8\tK,\u001db~\u0016>\u01f9mQt\u00071I(Ja89\f>~\u0004r=\tS\fY$\u000b-PkBSUs*\u043fbljl\u0017u>#@{\u001f\u0505\u0006\u007f7y\u0016?xE\u0003\u0014?T\u0002*MT+\u0018~&=*O\u00043\u0018Kb\u0016\b|`\ru6I\u074f$\u001dq\u0013PumzT\u0003\u0000\u0012\u0003?*b;+\u0000\u001e0Wf\u0018YD\u0732\u001blwZFr\u0011\u0016\u001cyN\u001a>zvx\u001e\u001dm`\f G2\u000fgj)Z\u0015EpF\u0005`bd%^\u001e?!,\tHj\u0016\u0018&Oi\u000bA\u0016Y\u00020?`7\u0011n\u0004?%*^}i\u0004\u06cboh>M\"c(Z?V0ty/b\u007fL\u001a\"4\u0735s\u0002S\u000eK0\rEe\u0004Fw9H=L\u0005eI.0W\u0222\u001d0\u000e\u001aF-HDih\u000b.]\u001aOk?.)\u06acoK\u000f<3Oz|\u001c{7\u000e\u0001\u0016m|y5[\u000e\u0002yL\u000e\f\u0013&nSaq-FP\u0005)\u001f\rk8P>1/}L\u07be\u0010\u001ec5|^\u024b\u00044h.<az\u000e\u00140\u0669H\u0001x:)sF\u03fb\b\"{t7^/E9uC;\u0017yWJxOMC\u0013+\u0006z#%q\u0001^\u0001F!~9\f2.i_"
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443,
+    "payload": "/F|$\u0772*OwEATvw\u000ftIN\u001b\u0017WoB>\u0004M\u001cw\u0700\u000e\u0017 Jm)^$,'\u0002d0J\u00150%'wm rf`]SF3[73n\u001d$,`P\u0011nf\u0710\u0018\n^\u0016c\u0018g#}<S\\K]\fl+]'XQ@^\u0007}\uff95Q``l\u001b\u0010Ch\"\u0018KHXC\u1707$!\u0013qeb\u001b^K/\u0002\u001c:\u00107I\u001bc<p\u0005Q\u0002DozU'\u02a0SJ\u001dy\u018bmxj]Tz7\u0019 q{\u001a%>:g\u001dj>FwwkZQ\u0014X\u001e\rwyE\u0002\nQ\u007fMOM{x)-\t?MU\u0019fw\u0007\u0005VPfwlu0_[\u0006\u000e{d\u0017\u001b\u0017E\u000e`h\udb83\ude87j5\u052e@\u055b\u0012y/\u001d~bj6_N}{\u001f`>\u0015r\ud994\udf1e\u001f\b4?/?\u001c~S\f/{Dr\u0004s#W,UXs\u0006[i#\u070eEM?DYy)R\u0010Y\\D#\u03d6+jN\u0000\u0013\"88\u0753^y$CV\u0001\u0001.-\u0018=q3(?4\u00057<BO7\u0005F:2W_L9`\\g\u000ee\u0019t\u0018h\u077e \u0004MEtn\u0567x>Cy\n\nN\u001e\u0012\u0004\u06ff1-QFK \u0017\u001b?BB7C&\u0019)x\u0007C'\u0006\u04320M\u000b\u0014#@2j~\u0004\u000438KW-UxmSY\u001d\u0017\u0013%\u0011/&n\u000b67\u001bK\u001eL\u0006\u0011\u0013l\u05aa\u0011R\"\u0011m5\u01ce<\u001e)\u001do@7x\u000eX\fv\u07e7\"vou\t\re\u001e@3J\u03e8 \u0015v\u001az<My\u00056^p\u001fY\u0007G/t9\u000e>+Gy\u0018YD<\r\u007f\u001b\u001aT\u001fI:i\u0003/+XB7\u0012K^9\u0239%\u000e\u0012k~\u04c3/\u0007i\u0685\n\u000e\u0005-_d>~\t\u070aV(A3e\u07f5\u0393\"p%VEc\u001c7C0u\n\u0007xK/\b\u0000\u0010\u001b\u06a7WW\u0019\u0011s\u06ae?\u05998\u001c]\u0003/99i\u0004J9\bB\u0016O\u0019l9\u01cf\u0013|lX#H\u001cwHx\u007f\u07b1\u0017>\u0583i,\u0019\u00036\u0000k\u000b<?_}]@|\u0002\u0007vHfUV\u00973`\u001e?:rE\u001a&G59\u02ffo\f\u03078q1eN\bW\u007f[7\u0006b*\u0011.\u001b}C[5zP\u007f\u0006M~\u001a%p\u0005:Out--\u0004&g\u001d\u001a6tt+\u03b4\u6a191k8\u0000E\u0011\u000f\u0002>j[\u0015\u001c\u00191\u060c\u037a}ZY\u0475\u001ayq\u06f4HPj0\u0392"
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "34.170.65.59",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55453,
+    "payload": "\u0017\u0003\u0003\u0001<($o=laP\u04bdeqJW 1\b$pc]5\u0012S~piQ\u0001q\u0012xW~\u007fy\u0007P\u0011\bhuh\fO}%6+zv A\u000e\\`\u0017m>8>\\ CG\u001b\u001bO^\u0003E0@\u0013Vf\u066dqq\u000b\u0399g\u0014\u06a6mno\u07f9\u0014y\b6Bq\\6@e\u00c4 \u0016\f5_s&\u0006E^|\u0017\u001f\fta\u001b\u0001\nB\u000f\u0366Y\u0006E'/Q$\u073d\u001bip\u000e$(gf@3\u0016\u01d6-0Xf\u0015 \u0000^\u0002=\u001e+Lf\u008e\u001euX\u0002_-#p"
+},
+{
+    "timestamp": "2025-03-09 01:06:17",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "34.170.65.59",
+    "protocol": 6,
+    "src_port": 55453,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:20",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "104.18.25.17",
+    "protocol": 6,
+    "src_port": 55338,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:06:20",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "104.18.25.17",
+    "protocol": 6,
+    "src_port": 55338,
+    "dst_port": 443,
+    "payload": "\u0000"
+},

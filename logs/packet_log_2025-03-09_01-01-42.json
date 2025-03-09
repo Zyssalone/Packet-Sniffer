@@ -1,0 +1,485 @@
+{
+    "timestamp": "2025-03-09 01:01:44",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.185.14",
+    "protocol": 6,
+    "src_port": 55309,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:44",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.185.14",
+    "protocol": 6,
+    "src_port": 55309,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:44",
+    "source_ip": "142.250.185.14",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55309
+},
+{
+    "timestamp": "2025-03-09 01:01:44",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.184.174",
+    "protocol": 6,
+    "src_port": 55310,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:44",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.184.174",
+    "protocol": 6,
+    "src_port": 55310,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:44",
+    "source_ip": "142.250.184.174",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55310
+},
+{
+    "timestamp": "2025-03-09 01:01:45",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.89.179.14",
+    "protocol": 6,
+    "src_port": 55211,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:45",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.89.179.14",
+    "protocol": 6,
+    "src_port": 55211,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000lF>qZB\u0011.\u0013\u0014n!f+b\"\u001d\u0004\fl\u001b\u001f\u0014Vt2$\u001f\u001aV6yj\u0013sJ0\u0358\u0177 gb\f!y1cHh?\u001fM'l}06f\u001d"
+},
+{
+    "timestamp": "2025-03-09 01:01:45",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.89.179.14",
+    "protocol": 6,
+    "src_port": 55211,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:45",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.89.179.14",
+    "protocol": 6,
+    "src_port": 55211,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u000br3}yKn\u0401,b@:\ue5cfuXF~^\u0420\u00104}n&ajqX\u0003\u0011m\u001f\u0007\u05b2\u007f\u0010U]\u450a\u0015\u000b\u0007jg-Z3eR$-q}$Y\nDs\"\u0013\u0001\u00f1*n\"\u001a\u007fD'\u001fjDAwdGjJ,4m19D\u0003\u0015_\u001dg[%wRa\"J2(qvzm8~j\u0019jS|?R\u0015Pm\u0274!n\n\u0018\u02c1\u000e\u0018\".X;\u0016-\u0002\u0003 _\u0019\b\u00172\u060f_vR\u000eRT\u000fs@F%H\u0007!Vd\u0007>:.##\nc\u0000uxP\u0002[\u0004#\u0019Gl\u0016\u06ec4\u001f]9\t\\7Iq4g+\u000e\\0=\u0010JL\u000fwo?WJ\u000e\u0014~m\u0016\u056f\u009e\u0003\u00f8\u0007s$PaL\u060fOJ\u0014l']/\u0006\u0010~\u0000-`\u007frj=x9I]y1{iR\u000eT\u03ae\u001cH}0\u0006K\u0015Q\u000fj1n\u00143Wl\u0018z\u0001\u0276*EA;> Bi<\u0019v$N>VJVKKIo?\u0000\nw\u001e\u0012Ig>Z\f|=]t\f\uc3283\u0323N\u0013\nsm5\u0018I%\u001c*sn\b)i!z\tF&}Rg\u044456Gy`\u0019\fQR\u0018\u001b'i5h\u0018Jd:K&V#\u00120ZJA$.AX\b4&O|j\u00039\u001crew\u000e,1?yO\u0001\u0001\\ :r'>k\u0004\u0006R*j!_W\u0245~yDNc\u001d)<\u055e+{\u001d_\u000egDrv;\u0329.\u001cZn,dcMn\u001eN\u00079U)fL'>S;\u0308\u001fk!ol`U\tG\u03b5E6d(@^x\u03a0'\u0016d9.B=Yo6R\u0005\u0012~\u0017-i\u0000c\u000bSU/'\u35efX\u00009\u0000L\u001a9*a{2OJ'w\\\f}\u0006S\u0016F\u0010{\u0003\ns\u058f%$3<\u0565#\t\frXx92i\u05a6\u020c\u0014,t%8\u03b1V\u0006U\u001e%WJ2\t\u058a\u0015\u0005~,A\u0002hbyDQ\u007fMh\"6;\u001e\u0016&+b:\t\u0003f?5c\nP<p\u007f}\u0010f4e\ue5ad\u0005\tl\u0176x8C\u001er\u026cy|\u05dbca+\u0639l\u06faVSv%U\u0648s`\u022a\u0003l-A\u068f\u0003pKgwJ;\u0014X>\u001a\u0118\u000f!\u001de5h\u0005\u0002'j\b\fM\u0001\u0010!fkgz)A\u0017A\u0019[jg\u0017\f:\u0018{Gj\u001f\u0000\u0007J62\u001b@\u0018\u0011=4\u0013c\u03b6-\bZI\"\t\u015b]=s\"T+\u0001`b\u001bbf\ubf2b\u00101:\u0270q\\M\u0000zl;(D&g*w\u0221m62[\u0003j~&\u0019~tO\u001dEQ+=\u000ffq/y\u0007@\u0100N%iXL\u001a\u0019%czi\u007fg\u01a7Fz%r"
+},
+{
+    "timestamp": "2025-03-09 01:01:45",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.89.179.14",
+    "protocol": 6,
+    "src_port": 55211,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:45",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.89.179.14",
+    "protocol": 6,
+    "src_port": 55211,
+    "dst_port": 443,
+    "payload": "%`Rf`Ys{>S<-\u0006\u048cOYml\u0684H2Q]LRDY\u0000c/~8\u0012;]\u0004af\u011cU\u06ffW\u001cE\u0003MG/\u0235,K&\u001d__PGwU\u0012\u05eaeg\u0013\u0019y\n\u001bjTo5{\u0002)[\u0017~\u001eM5\n\n?\u0354\u0014k0\u0005\u01ba$\u0014GCtO\\;Xw5?'}h\u007fA\u001b`g%\ub1ee0sY?m\u033bO*\u0000*\"K7\u001fr\u0165~\u0007\u0002!-1!\u001b&\u0014\u0018L\u0703\f\u0007\u0017\u5a1b\u000f4<'\u0521?! \t\u0019\u0006d5ZW\u001b\udbfa\uddd4jR\u90545A\u0007\rU\u0018f\u0002;}\u04a78nH?Zl\u0014af^t\u001c\u0019\u001bkxq\u000f'q7.p4,g%q0S\u0001xX*9^.\u0001*X*I)\u0005}k\fS\u070f\u001d\u0019~X<\n\u0000f\n\u0003\u0011\nH\u0013q7x\nC8@;\u0007X_MF[\u01cck\u001c\"\u0005`FEiH\u0000\u0018*I@Wu'*\u0011\u03081N\u0014#\u000bo\u0013-q\u001b|mA0Q#^K}h\u0010\n\u0011D\u001f*\u0003$\u007f4\u0006\u029bHZ'.|\f#\u0007]\u0018\u0006 C3e8\u0010/u<+0z\u0017\u0095^v\u000fru\u001e\u0014v\u001c\u0007B \bqqI\u000f\"H\u105eJH!62v%t\u0013\r\u000e/\u033f(b\u001e\u00035\u0013J<Fh\f#\u000b\u001a\u001c\u001b)\u04c9\u001a\u001fO<!\u042cO|F\u00154WcsU(Lc6\u001d\u000ek\u0602/l\u022c\u0010-Z_K\u0015\b\u0010\n<\u0536B\u001c#?\u001bQg\u0000\u0015k\u0016\t+%W\u000eW\t_?K.\u049bEy\u000e\u0010uX\u0013 v7g@\u0018'\u0015\u0012=%>j7,?7e\u0007\\F@4cNb+\u05c6Pb\u0017IhTU$P\u018c\u0012E\u0011{}Z,rm\u001f\u0002\u0273\u000bE3M\u024d\\e\u001f\u001b\u000eqJdLE\u0015c=\tjT'\u012d@s5\ta%\u0016\u0010\u0007TTQ|\u0006O\t7\u0012\fd\u001a3Tv#u>p\u0010\u0004#.W\\\u007fs5\u86c13)\u0003Si\u0016W\tS{\u03f1u^2\u0306P\u0004\u0007@\f0\u0005,`/\u0017db8<\u0012SC\u0004i\u02dbSLKs!K\u0617\u9248\u072c\u0529Q2s_<+g\fY\u0017\u0000+&}\r^}5L\u0000#~U\u07da\f$,b\u001f\u0003=e\u0017M*\u0004g?bf\u0017\t-] \u001eYw`\u0000\u0286\u000bO]`sI)\u0284\u05d0`z\"\u0595\u000e8\u0002>\\n\u0007\u04ceBL)b\u0011,`o'Wc0/aW\bSUZ/\u0003\t\u0003\u001e\u000e\u0004\u01ba<8x&\u0013kW<&F]6woy\u0003|5w8\u001bH~\u0019b\rNt\u0005\u050fz<X\u0316{<\u0013%\u007f\u0012X\u0010n\u0018-rm7{`\\A\u0377\u39c9V9"
+},
+{
+    "timestamp": "2025-03-09 01:01:46",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.89.179.14",
+    "protocol": 6,
+    "src_port": 55211,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:46",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.89.179.14",
+    "protocol": 6,
+    "src_port": 55211,
+    "dst_port": 443,
+    "payload": "Nr\u001aR>\r\u000eG\u06a5\u0001kZ]<O5]\u0018%'>=\u0019YZNzD\u00173GCF\u0019t\u0005\u001bl(\u025b\u0019\"\u0000O\u00c5\u0001B@#\u0000A\u001f\u0019Nz\u0331ZR\u001a\u0011\u070c\u0014?)s\u000eDT\tg(\u0007O\u001cX\u0007\u0015\u001fWzj\u0018\u0012+V\u0231\rV:N3FaK0@\u0010c>4iP\u0016u^B\u001d"
+},
+{
+    "timestamp": "2025-03-09 01:01:46",
+    "source_ip": "13.89.179.14",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55211
+},
+{
+    "timestamp": "2025-03-09 01:01:46",
+    "source_ip": "13.89.179.14",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55211
+},
+{
+    "timestamp": "2025-03-09 01:01:46",
+    "source_ip": "13.89.179.14",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55211,
+    "payload": "\u0017\u0003\u0003\u0000^V:\u001eSl\u0247>bs\f\rgZ\u001e\u001a\u0742\u07edl\u001c\u0001s\u03d68\u68471&@%@Q#\u0002\u0005\t\u001b<,iR\u001eG=2u\u0662=&|QX\u4a23"
+},
+{
+    "timestamp": "2025-03-09 01:01:46",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.89.179.14",
+    "protocol": 6,
+    "src_port": 55211,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:46",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.89.179.14",
+    "protocol": 6,
+    "src_port": 55211,
+    "dst_port": 443,
+    "payload": "\u0017\u0003\u0003\u0000\u001eo\u029fpK|=](QY8\u0790"
+},
+{
+    "timestamp": "2025-03-09 01:01:46",
+    "source_ip": "13.89.179.14",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55211
+},
+{
+    "timestamp": "2025-03-09 01:01:46",
+    "source_ip": "10.10.19.1",
+    "destination_ip": "10.10.19.255",
+    "protocol": 17,
+    "src_port": 57621,
+    "dst_port": 57621
+},
+{
+    "timestamp": "2025-03-09 01:01:46",
+    "source_ip": "10.10.19.1",
+    "destination_ip": "10.10.19.255",
+    "protocol": 17,
+    "src_port": 57621,
+    "dst_port": 57621,
+    "payload": "SpotUdp0|5\u0000\u0001\u0000\u0004H\u0003\u0004l5d\u0006p\u001aO\u000fo"
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.246.77",
+    "protocol": 6,
+    "src_port": 55387,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "13.107.246.77",
+    "protocol": 6,
+    "src_port": 55387,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "13.107.246.77",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55387
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.200.74",
+    "protocol": 6,
+    "src_port": 55321,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.200.74",
+    "protocol": 6,
+    "src_port": 55321,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "142.250.200.74",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55321
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.185.22",
+    "protocol": 6,
+    "src_port": 55324,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.185.22",
+    "protocol": 6,
+    "src_port": 55324,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "142.250.185.22",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55324
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.185.10",
+    "protocol": 6,
+    "src_port": 55285,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.185.10",
+    "protocol": 6,
+    "src_port": 55285,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "142.250.185.10",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55285
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.200.78",
+    "protocol": 6,
+    "src_port": 55332,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.200.78",
+    "protocol": 6,
+    "src_port": 55332,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:49",
+    "source_ip": "142.250.200.78",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55332
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "104.18.25.17",
+    "protocol": 6,
+    "src_port": 55338,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "104.18.25.17",
+    "protocol": 6,
+    "src_port": 55338,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "104.18.25.17",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55338
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.217.17.10",
+    "protocol": 6,
+    "src_port": 55341,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "172.217.17.10",
+    "protocol": 6,
+    "src_port": 55341,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "64.233.184.84",
+    "protocol": 6,
+    "src_port": 55344,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "64.233.184.84",
+    "protocol": 6,
+    "src_port": 55344,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "172.217.17.10",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55341
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.184.174",
+    "protocol": 6,
+    "src_port": 55347,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.184.174",
+    "protocol": 6,
+    "src_port": 55347,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "64.233.184.84",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55344
+},
+{
+    "timestamp": "2025-03-09 01:01:50",
+    "source_ip": "142.250.184.174",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55347
+},
+{
+    "timestamp": "2025-03-09 01:01:52",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.185.2",
+    "protocol": 6,
+    "src_port": 55318,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:52",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.185.2",
+    "protocol": 6,
+    "src_port": 55318,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:52",
+    "source_ip": "142.250.185.2",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55318
+},
+{
+    "timestamp": "2025-03-09 01:01:53",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.185.14",
+    "protocol": 6,
+    "src_port": 55350,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:53",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "142.250.185.14",
+    "protocol": 6,
+    "src_port": 55350,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:53",
+    "source_ip": "142.250.185.14",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55350
+},
+{
+    "timestamp": "2025-03-09 01:01:54",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "216.58.209.78",
+    "protocol": 6,
+    "src_port": 55335,
+    "dst_port": 443
+},
+{
+    "timestamp": "2025-03-09 01:01:54",
+    "source_ip": "10.10.19.2",
+    "destination_ip": "216.58.209.78",
+    "protocol": 6,
+    "src_port": 55335,
+    "dst_port": 443,
+    "payload": "\u0000"
+},
+{
+    "timestamp": "2025-03-09 01:01:54",
+    "source_ip": "216.58.209.78",
+    "destination_ip": "10.10.19.2",
+    "protocol": 6,
+    "src_port": 443,
+    "dst_port": 55335
+},
